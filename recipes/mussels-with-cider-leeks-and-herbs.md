@@ -1,0 +1,42 @@
+---
+id: mussels-with-cider-leeks-and-herbs
+title: Mussels with Cider, Leeks and Herbs
+sources:
+  - Festive Season Entertaining 2025.pdf
+cuisine: null
+course: main
+servings: null
+tags:
+  - seafood
+  - shellfish
+key_ingredients:
+  - mussel
+  - leek
+  - cider
+  - shallot
+  - garlic
+  - cream
+  - lemon
+  - parsley
+---
+
+## Ingredients
+
+- 2 tablespoons unsalted butter
+- 1 small leek, white and light green parts only, thinly sliced
+- 1 small shallot, thinly sliced
+- 4 medium cloves garlic, thinly sliced
+- 2 bay leaves
+- coarse salt and freshly ground black pepper
+- 1 cup hard dry cider or white wine
+- 1kg mussels, cleaned
+- 2 to 3 tablespoons heavy cream
+- 1 tablespoon juice and 1 teaspoon grated zest from 1 lemon
+- 3 tablespoons minced fresh parsley leaves
+- 1 loaf rustic sourdough bread, thickly sliced, drizzled with olive oil, and broiled until heavily toasted
+
+## Method
+
+1. Melt 1 tablespoon butter in a large saucepan over medium-low heat. Add leeks, shallot, garlic, and bay leaves. Season lightly with salt and heavily with black pepper and cook, stirring, until vegetables are very soft but not browned, about 10 minutes.
+2. Increase heat to high and add cider or wine. Bring to a boil and let reduce by half, about 2 minutes. Add mussels, stir, cover, and cook, shaking pan constantly and peeking every 30 seconds to stir. As soon as all the mussels are open, transfer mussels to a bowl using tongs. Place pan lid over bowl to keep mussels warm. Remove from heat and whisk in remaining butter along with heavy cream.
+3. Return mussels to pot, add parsley, lemon juice, and lemon zest, stir to combine, then transfer to a warm serving bowl. Serve immediately with the toasted sourdough.

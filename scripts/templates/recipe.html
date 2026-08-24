@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}{{ recipe.title }} &middot; Recipe Collection{% endblock %}
+{% block content %}
+<article class="recipe">
+  <a class="back-link" href="{{ root }}index.html">&larr; All recipes</a>
+  <h1>{{ recipe.title }}</h1>
+
+  <div class="meta">
+    {% if recipe.cuisine %}<span class="badge">{{ recipe.cuisine }}</span>{% endif %}
+    {% if recipe.course %}<span class="badge">{{ recipe.course }}</span>{% endif %}
+    {% if recipe.servings %}<span class="badge">Serves {{ recipe.servings }}</span>{% endif %}
+    {% for tag in recipe.tags %}<span class="badge tag">{{ tag }}</span>{% endfor %}
+  </div>
+
+  <div class="recipe-body">
+    {{ recipe.body_html | safe }}
+  </div>
+
+  <section class="source-trace">
+    <h2>Source{{ "s" if recipe.sources | length > 1 else "" }}</h2>
+    <ul>
+      {% for source in recipe.sources %}<li>{{ source }}</li>{% endfor %}
+    </ul>
+  </section>
+</article>
+{% endblock %}

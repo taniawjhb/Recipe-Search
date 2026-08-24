@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Recipes &middot; Recipe Collection{% endblock %}
+{% block content %}
+<h1>Recipes</h1>
+
+<div class="search-bar">
+  <input type="search" id="search-input" placeholder="Search by recipe name or ingredient (e.g. coriander)&hellip;" autocomplete="off">
+</div>
+
+<div class="filters">
+  <label>Cuisine
+    <select id="filter-cuisine">
+      <option value="">All</option>
+      {% for cuisine in facets.cuisines %}<option value="{{ cuisine }}">{{ cuisine }}</option>{% endfor %}
+    </select>
+  </label>
+  <label>Course
+    <select id="filter-course">
+      <option value="">All</option>
+      {% for course in facets.courses %}<option value="{{ course }}">{{ course }}</option>{% endfor %}
+    </select>
+  </label>
+  <label>Source
+    <select id="filter-source">
+      <option value="">All</option>
+      {% for source in facets.sources %}<option value="{{ source }}">{{ source }}</option>{% endfor %}
+    </select>
+  </label>
+</div>
+
+<p class="result-count" id="result-count"></p>
+<ul class="recipe-list" id="recipe-list"></ul>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ root }}search.js"></script>
+{% endblock %}

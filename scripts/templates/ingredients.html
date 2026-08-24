@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Ingredients &middot; Recipe Collection{% endblock %}
+{% block content %}
+<h1>Ingredient Index</h1>
+
+<div class="search-bar">
+  <input type="search" id="ingredient-filter" placeholder="Filter ingredients&hellip;" autocomplete="off">
+</div>
+
+<ul class="ingredient-index" id="ingredient-index">
+  {% for ingredient, recipe_ids in ingredients.items() %}
+  <li class="ingredient-row" data-ingredient="{{ ingredient }}">
+    <span class="ingredient-name">{{ ingredient }}</span>
+    <span class="ingredient-count">{{ recipe_ids | length }}</span>
+    <ul class="ingredient-recipes">
+      {% for rid in recipe_ids %}
+      <li><a href="{{ root }}recipes/{{ rid }}.html">{{ recipe_titles[rid] }}</a></li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const filterInput = document.getElementById('ingredient-filter');
+  const rows = Array.from(document.querySelectorAll('.ingredient-row'));
+  filterInput.addEventListener('input', () => {
+    const q = filterInput.value.trim().toLowerCase();
+    rows.forEach(row => {
+      const name = row.dataset.ingredient;
+      row.style.display = !q || name.includes(q) ? '' : 'none';
+    });
+  });
+</script>
+{% endblock %}

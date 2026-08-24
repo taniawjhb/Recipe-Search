@@ -1,0 +1,50 @@
+---
+id: muska-boregi
+title: Muska Böreği - Phyllo & Spinach Pies
+sources:
+  - flavours of the levant.pdf
+cuisine: Turkish
+course: starter
+servings: 8
+tags:
+  - pastry
+  - vegetarian
+  - spinach
+  - baked
+key_ingredients:
+  - spinach
+  - phyllo
+  - feta
+  - parmesan
+  - mozzarella
+  - scallion
+  - egg
+  - olive oil
+---
+
+## Ingredients
+
+- 1 kg fresh spinach, washed, dried, trimmed, and coarsely chopped
+- 3 Tbs. extra-virgin olive oil
+- 1 bunch scallions (about 3 oz. or 10 small), white and light-green parts only, trimmed and finely chopped
+- 2 cups crumbled feta cheese (10 oz.)
+- 1/2 cup finely grated parmesan
+- 1 cup grated mozzarella
+- 2 large eggs, lightly beaten
+- 1 tsp paprika
+- 1/2 tsp ground cumin
+- 1/3 cup finely chopped fresh flat-leaf parsley
+- 1/4 tsp. freshly grated nutmeg
+- Kosher or fine sea salt
+- 1/3 cup extra-virgin olive oil for brushing; more as needed
+- 500 g frozen phyllo dough, thawed and at room temperature
+- 2 tsp. milk
+
+## Method
+
+1. Wilt the spinach: Heat a 10-inch sauté pan over medium-high. Add a few handfuls of spinach, tossing with tongs. As it wilts, add more gradually, cooking until bright green (about 4 minutes). Transfer to a colander, let cool slightly, and squeeze out excess liquid.
+2. Prepare the filling: Wipe the pan clean, then heat oil over medium. Sauté the scallions and garlic until soft (about 4 minutes), then stir in the paprika and cumin. Add the spinach, remove from heat, and let cool 5 minutes. Mix in the cheeses, eggs, parsley, nutmeg and salt until well combined.
+3. Layer the phyllo: Lightly oil a 9×13-inch baking pan. Brush the phyllo sheets with oil and layer as instructed, ensuring overlapping edges cover the pan.
+4. Assemble & seal: Add 3 centered sheets, then spread the filling evenly. Layer the remaining sheets using the same pattern, then press the edges down to seal.
+5. Score & bake: Using a sharp knife, score the top into 24 rectangles, brushing milk along the cuts to prevent flaking. Bake at 175°C for 35-45 minutes, until golden brown.
+6. Serve: Let cool slightly before cutting along the score marks. Enjoy warm!

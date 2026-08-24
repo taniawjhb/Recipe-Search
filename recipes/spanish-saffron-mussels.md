@@ -1,0 +1,46 @@
+---
+id: spanish-saffron-mussels
+title: Spanish Saffron Mussels
+sources:
+  - Fiesta de Sabores.pdf
+cuisine: Spanish
+course: main
+servings: null
+tags:
+  - seafood
+  - mussels
+  - tapas
+key_ingredients:
+  - mussel
+  - saffron
+  - sherry
+  - chorizo
+  - shallot
+  - garlic
+  - seafood stock
+  - smoked paprika
+---
+
+## Ingredients
+
+- 1/2 cup dry sherry
+- a pinch of saffron
+- 1/2 teaspoon crushed red pepper
+- 1 tablespoon olive oil (Spanish olive oil)
+- 1 teaspoon garlic (minced)
+- 1 shallot (finely chopped)
+- 2 ounces Spanish chorizo, 1/4" dice
+- 4 cups seafood broth/stock
+- 1 teaspoon smoked paprika (hot or mild)
+- 1 bay leaf
+- 2 1/2 to 3 pounds fresh mussels
+- parsley to garnish
+
+## Method
+
+1. Warm the sherry (30 seconds in the microwave works), and add the pinch of saffron.
+2. To a deep pot with a lid over medium-high heat, add a drizzle of olive oil, the garlic, shallot, and crushed red pepper.
+3. When the shallot and garlic are fragrant (not browned), add the diced chorizo. Saute until the chorizo begins to give up some colour, and shallot is transparent - about 5 minutes total.
+4. Add the broth/stock, saffron infused sherry, smoked paprika, and bay leaf. Lower heat and simmer while you prepare the baguette.
+5. Just prior to serving, add the mussels to the pot, cover, and cook 2 to 3 minutes (until the mussels are open). Ladle the broth over the mussels to let the shells catch a bit of the goodness, then ladle into shallow bowls.
+6. Garnish with chopped parsley and toasted baguette.

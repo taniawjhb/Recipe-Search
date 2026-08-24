@@ -1,0 +1,52 @@
+---
+id: green-goddess-salad
+title: Green Goddess Salad
+sources:
+  - Cooking Bliss.pdf
+cuisine: American
+course: side
+servings: null
+tags:
+  - salad
+  - vegetarian
+key_ingredients:
+  - romaine
+  - green onion
+  - celery
+  - cherry tomato
+  - feta
+  - greek yogurt
+  - parsley
+  - lemon
+---
+
+## Ingredients
+
+- 2 hearts of romaine
+- 4 green onions
+- 1 stalk celery, chopped
+- 1 cup cherry tomatoes, diced
+- 1/2 bunch dill
+- 1/2 bunch mint
+- 1/2 cup crumbled feta cheese
+
+### For the Green Goddess Dressing
+
+- 1 cup whole milk Greek yogurt
+- 1 cup fresh parsley
+- 1 cup mixed soft leafy herbs, dill, mint, tarragon and/or cilantro
+- 2 tablespoons chopped chives
+- 2 tablespoons fresh lemon juice, plus ½ teaspoon zest
+- 1 tablespoon extra-virgin olive oil
+- 2 teaspoons capers
+- 1 small garlic clove
+- ¼ teaspoon sea salt
+- Freshly ground black pepper
+
+## Method
+
+1. Prepare a large mixing bowl with ice water. Thinly slice the romaine lettuce, then add to the ice water for 5 minutes to crisp while you prepare the dressing and remaining ingredients.
+2. Trim and finely chop the green onions (both the white and green parts). Finely chop the dill and mint leaves, discarding the stem.
+3. Make the dressing. In a food processor, combine the yogurt, parsley, mixed herbs, chives, lemon juice, zest, olive oil, capers, garlic, salt, and pepper. Pulse until well combined. Season to taste.
+4. Drain the salad from the ice water and dry very thoroughly. A salad spinner helps if you have one, or use paper towels. Add to a large serving bowl, along with the celery, chopped tomatoes, chopped herbs, and feta. Give everything a gentle toss.
+5. Just before serving, give the dressing one more quick whisk and pour a third of it all over the salad. Mix well and coat it well with the dressing. If preferred add some more dressing. Serve immediately.

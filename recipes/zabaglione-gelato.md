@@ -1,0 +1,37 @@
+---
+id: zabaglione-gelato
+title: Zabaglione Gelato
+sources:
+  - L'Ultimo.pdf
+cuisine: Italian
+course: dessert
+servings: 6
+tags:
+  - gelato
+  - frozen
+  - custard
+key_ingredients:
+  - milk
+  - cream
+  - egg yolk
+  - sugar
+  - marsala
+  - lemon
+---
+
+## Ingredients
+
+- 250 ml whole milk
+- 130 g sugar
+- Big pinch of salt
+- 1 lemon
+- 375 ml heavy cream
+- 6 large egg yolks
+- 125 ml dry Marsala wine
+
+## Method
+
+1. Warm the milk, sugar, and salt in a medium saucepan. Zest half of the lemon directly into the warm milk. Pour the cream into a large bowl and set a mesh strainer on top.
+2. In a separate medium bowl, whisk together the egg yolks. Slowly pour the warm lemon-infused milk into the egg yolks, whisking constantly, then scrape the warmed egg yolks back into the saucepan.
+3. Stir the mixture constantly over medium heat with a heatproof spatula, scraping the bottom as you stir, until the mixture thickens and coats the spatula. Pour the custard through the strainer and stir it into the cream. Add the Marsala and stir until cool over an ice bath.
+4. Chill the mixture thoroughly in the refrigerator, then freeze it in your ice cream maker according to the manufacturer's instructions.

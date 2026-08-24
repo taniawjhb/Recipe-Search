@@ -1,0 +1,43 @@
+---
+id: grilled-nectarine-and-mozzarella-salad
+title: Grilled Nectarine & Mozzarella Salad
+sources:
+  - Cooking Bliss.pdf
+cuisine: Italian
+course: starter
+servings: null
+tags:
+  - salad
+  - summer
+  - grilled
+key_ingredients:
+  - nectarine
+  - mozzarella
+  - pecan
+  - rocket
+  - basil
+  - olive oil
+  - balsamic vinegar
+  - honey
+---
+
+## Ingredients
+
+- 15g unsalted butter
+- 2 tbsp caster sugar
+- 50g whole pecans
+- 3 ripe nectarines, stoned and cut into eighths lengthways
+- 4 tbsp extra virgin olive oil, plus extra for brushing
+- 2 tbsp balsamic vinegar
+- 1 tsp honey
+- 2 x 100g balls of fresh mozzarella
+- 70g rocket
+- bunch of basil leaves, roughly torn
+- pinch of chilli flakes
+
+## Method
+
+1. Heat the butter and sugar in a small frying pan over a medium heat until the butter has melted. Add the pecans and stir to coat in the buttery sugar. Continue to cook for about 5 mins, stirring until the pecans are crisp and caramelised. Tip out onto a sheet of baking parchment and leave to cool. Once cooled, roughly chop and set aside.
+2. Heat a griddle pan over a high heat and generously brush the nectarine slices with some olive oil. Griddle for 1-2 mins on each side until charred and caramelised. Remove to a serving platter and set aside.
+3. Whisk the 4 tbsp olive oil, vinegar and honey together with some seasoning to make a dressing.
+4. Scatter the rocket and basil across the base of your serving plate, then nestle the charred nectarine before tearing the balls of mozzarella and dotting across the salad. Drizzle over the dressing, scatter with the pecans and sprinkle with a pinch of chilli flakes to serve.

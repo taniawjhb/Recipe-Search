@@ -1,0 +1,40 @@
+---
+id: pan-fried-wild-mushrooms
+title: Pan Fried Wild Mushrooms
+sources:
+  - 420 munchies.pdf
+cuisine: null
+course: side
+servings: null
+tags:
+  - vegetarian
+  - gluten-free
+key_ingredients:
+  - mushroom
+  - garlic
+  - butter
+  - olive oil
+  - cream
+  - marsala
+  - thyme
+---
+
+## Ingredients
+
+- 250g portabellini or wild mushrooms
+- 1 clove garlic, finely minced
+- 2 tbsp butter
+- 3 tbsp olive oil
+- 250ml fresh cream
+- 60ml marsala or sherry or brandy
+- 1/4 tsp finely chopped red chili
+- 1 tsp finely chopped thyme
+
+## Method
+
+1. In a pan heat the olive oil, butter, garlic, chili and thyme.
+2. Cook for 1-2 minutes until garlic gets a touch of gold, now add the sliced mushrooms (brush and remove tough parts first).
+3. Cook the mushrooms for a few minutes, add a little extra olive oil if you need.
+4. Once the mushrooms are cooked add the marsala and burn off the alcohol.
+5. Add the cream and reduce.
+6. Now add the parsley and stir through before serving.

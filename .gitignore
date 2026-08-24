@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Build output (rebuilt by CI from recipes/)
+site/
+data/
+
+# Large source inputs — not needed to build the site.
+# recipes/*.md is the source of truth; keep PDFs + extracted text out of git.
+raw/
+extracted/
+
+# OS
+.DS_Store
+Thumbs.db

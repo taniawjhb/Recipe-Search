@@ -1,0 +1,37 @@
+---
+id: polvorones
+title: Polvorones
+sources:
+  - Fiesta de Sabores.pdf
+cuisine: Spanish
+course: dessert
+servings: null
+tags:
+  - dessert
+  - cookies
+  - baking
+key_ingredients:
+  - flour
+  - powdered sugar
+  - lard
+  - almond
+---
+
+## Ingredients
+
+- 3 ½ cups (400g) all-purpose flour
+- 1 ½ cups (150g) powdered sugar
+- 1 cup (200g) lard (or melted butter)
+- 1 cup (125g) raw almonds, peeled
+
+## Method
+
+1. Grind the peeled raw almonds. In the meantime preheat the oven to 180°C.
+2. In a tray suitable for the oven, add the flour and ground almonds. Put them in the oven to toast for at least 40 minutes. Rotate the tray so it toasts evenly.
+3. Take them out of the oven and let them cool. At the same time in another bowl mix the lard and powdered sugar.
+4. Add the flour and almond mixture to that bowl and mix everything together.
+5. With the dough that was formed, make a ball, cover it with plastic wrap and let it rest at room temperature for 30 minutes. No need to put it in the refrigerator because it will get too hard and difficult to handle.
+6. Then roll out the dough with a rolling pin until it is one centimeter thick.
+7. Cut them out with a cookie cutter and carefully place them in a baking tray.
+8. While you fill the tray with cookies, preheat the oven to 180°C. Cook them at that temperature for 15 minutes.
+9. Let them cool completely and dust them with powdered sugar.
