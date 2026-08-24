@@ -81,9 +81,14 @@ def main() -> int:
     )
     (SITE / "ingredients.html").write_text(ingredients_html, encoding="utf-8")
 
+    # Menu / shopping list (populated client-side from localStorage).
+    menu_html = env.get_template("menu.html").render(root="", counts=counts)
+    (SITE / "menu.html").write_text(menu_html, encoding="utf-8")
+
     # Static assets + client search index.
     shutil.copy2(ASSETS / "styles.css", SITE / "styles.css")
     shutil.copy2(ASSETS / "search.js", SITE / "search.js")
+    shutil.copy2(ASSETS / "menu.js", SITE / "menu.js")
     shutil.copy2(DATA, SITE / "data" / "index.json")
 
     print(f"Built site/ with {len(recipes)} recipe page(s).")

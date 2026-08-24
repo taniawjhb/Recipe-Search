@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Menu &middot; Recipe Collection{% endblock %}
+{% block content %}
+<div id="menu-page">
+  <h1>Your Menu</h1>
+  <p class="result-count" id="menu-recipe-count"></p>
+
+  <div class="menu-actions">
+    <button type="button" id="menu-clear" class="btn-secondary">Clear menu</button>
+  </div>
+
+  <ul class="recipe-list" id="menu-recipes"></ul>
+
+  <section class="shopping-list-section">
+    <div class="shopping-list-head">
+      <h2>Shopping list</h2>
+      <div class="menu-actions">
+        <button type="button" id="shopping-copy" class="btn-secondary">Copy</button>
+        <button type="button" id="shopping-print" class="btn-secondary">Print</button>
+      </div>
+    </div>
+    <p class="shopping-note">Ingredient lines are combined across every recipe in your
+      menu and duplicate lines are grouped (&times;N). Quantities are not automatically
+      added up &mdash; tick items off as you shop.</p>
+    <ul class="shopping-list" id="shopping-list"></ul>
+  </section>
+</div>
+{% endblock %}

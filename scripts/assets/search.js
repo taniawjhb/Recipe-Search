@@ -57,7 +57,9 @@
         "<h3>" + escapeHtml(r.title) + "</h3>" +
         '<div class="card-meta">' + meta + "</div>" +
         (ing ? '<div class="card-ingredients">' + ing + "</div>" : "") +
-        "</a>";
+        "</a>" +
+        '<button type="button" class="menu-toggle" data-menu-toggle="' +
+        escapeHtml(r.id) + '">+ Add to menu</button>';
       frag.appendChild(li);
     }
     listEl.appendChild(frag);
@@ -79,6 +81,7 @@
       return terms.every((t) => hay.includes(t));
     });
     render(filtered);
+    if (window.RecipeMenu) window.RecipeMenu.updateBadges();
   }
 
   fetch("data/index.json")

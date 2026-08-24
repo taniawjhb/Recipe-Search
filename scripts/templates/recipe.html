@@ -12,6 +12,8 @@
     {% for tag in recipe.tags %}<span class="badge tag">{{ tag }}</span>{% endfor %}
   </div>
 
+  <button type="button" class="menu-toggle" data-menu-toggle="{{ recipe.id }}">+ Add to menu</button>
+
   <div class="recipe-body">
     {{ recipe.body_html | safe }}
   </div>
