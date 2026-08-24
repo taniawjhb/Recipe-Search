@@ -25,26 +25,26 @@ key_ingredients:
 
 ### For the Meat Sauce
 
-- 100g minced meat
-- 200g chicken livers
-- 50ml red wine (1 glass)
-- 40g butter
-- 35g extra virgin olive oil
+- 100 grams minced meat
+- 200 grams chicken livers
+- 50 millilitres red wine (1 glass)
+- 40 grams butter
+- 35 grams extra virgin olive oil
 - 2 tablespoons tomato paste
-- 55g red onion
-- 60g carrot
-- 25g celery
-- 12g fine salt
+- 55 grams red onion
+- 60 grams carrot
+- 25 grams celery
+- 12 grams fine salt
 - Generous crack of black pepper
 
 ### For the Risotto
 
-- 360g Carnaroli rice (Acquerello)
-- 10g butter
-- 55g red onion
-- 1 l meat broth
-- 40g Parmigiano Reggiano DOP
-- 2 tbsp finely chopped flat leaf parsley
+- 360 grams Carnaroli rice (Acquerello)
+- 10 grams butter
+- 55 grams red onion
+- 1 litre meat broth
+- 40 grams Parmigiano Reggiano DOP
+- 2 tablespoons finely chopped flat leaf parsley
 
 ## Method
 

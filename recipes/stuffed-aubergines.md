@@ -34,10 +34,10 @@ key_ingredients:
 - 1 tablespoon thyme, dry
 - 1/4 teaspoon cinnamon
 - 1/4 teaspoon ground cloves
-- 250 g ground beef
-- 40 g red wine
-- 400 g canned tomatoes
-- 50 g gruyere/parmesan cheese, grated
+- 250 grams ground beef
+- 40 grams red wine
+- 400 grams canned tomatoes
+- 50 grams gruyere/parmesan cheese, grated
 - 1 bunch parsley
 - 1 tablespoon mint
 - Salt
@@ -45,11 +45,11 @@ key_ingredients:
 
 ### For the béchamel sauce
 
-- 20 g butter
-- 20 g all-purpose flour
+- 20 grams butter
+- 20 grams all-purpose flour
 - Salt & pepper
-- 200 g whole milk, at room temperature
-- 50 g gruyere/parmesan cheese, grated
+- 200 grams whole milk, at room temperature
+- 50 grams gruyere/parmesan cheese, grated
 - 2 egg yolks
 - 1/4 teaspoon ground nutmeg
 

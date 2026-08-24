@@ -25,16 +25,16 @@ key_ingredients:
 - 2 tablespoons extra-virgin olive oil, plus more for drizzling
 - 1 tablespoon fresh lemon juice
 - 2 garlic cloves, grated
-- ½ teaspoon za'atar
-- ½ teaspoon sea salt, plus more for sprinkling
+- 1/2 teaspoon za'atar
+- 1/2 teaspoon sea salt, plus more for sprinkling
 - Freshly ground black pepper
-- 1 medium eggplant, 1 pound, cut into ½-inch-thick rounds
+- 1 medium eggplant, 1 pound, cut into 1/2-inch-thick rounds
 - 1 red bell pepper, stemmed, seeded, and quartered lengthwise
 - 1 cup cherry tomatoes, halved
-- ½ cup crumbled feta cheese
-- ⅓ cup red onions
-- ⅓ cup basil leaves
-- ⅓ cup mint leaves
+- 1/2 cup crumbled feta cheese
+- 1/3 cup red onions
+- 1/3 cup basil leaves
+- 1/3 cup mint leaves
 
 ## Method
 

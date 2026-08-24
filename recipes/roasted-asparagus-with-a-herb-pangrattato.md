@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 kg asparagus, washed, dried and woody ends removed if necessary
+- 1 kilogram asparagus, washed, dried and woody ends removed if necessary
 - 3 tablespoons unsalted butter, melted
 - 2 tablespoons olive oil
 - 5 cloves garlic, minced

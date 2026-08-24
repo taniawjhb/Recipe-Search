@@ -23,11 +23,11 @@ key_ingredients:
 ## Ingredients
 
 - 1 can chick peas
-- 2 tbsp tahini
+- 2 tablespoons tahini
 - 4 cloves garlic
-- 2 tsp ground cumin
+- 2 teaspoons ground cumin
 - 1/4 cup lemon juice
-- 3 tbsp olive oil
+- 3 tablespoons olive oil
 - Large pinch cayenne pepper
 - Extra lemon juice, olive oil, paprika and flat leaf to garnish
 

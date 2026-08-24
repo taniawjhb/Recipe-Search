@@ -23,21 +23,21 @@ key_ingredients:
 
 ## Ingredients
 
-- 3 tbsp olive oil, or as needed
-- 900g chuck steak, cubed
+- 3 tablespoons olive oil, or as needed
+- 900 grams chuck steak, cubed
 - 1/2 cup cake flour, more if needed
-- 100g pancetta, roughly chopped
+- 100 grams pancetta, roughly chopped
 - 1 large onion, finely diced
 - 2 carrots, finely diced
 - 2 celery stalks, finely diced
-- 2 tsp sea salt
-- 1 tsp black pepper
-- 1 tsp brown sugar (optional)
-- 200g portabellini mushrooms, halved
+- 2 teaspoons sea salt
+- 1 teaspoon black pepper
+- 1 teaspoon brown sugar (optional)
+- 200 grams portabellini mushrooms, halved
 - 4 garlic cloves, sliced
-- 2 tbsp tomato paste
-- 2 tbsp balsamic vinegar
-- 1/3 cup (80ml) red wine
+- 2 tablespoons tomato paste
+- 2 tablespoons balsamic vinegar
+- 1/3 cup (80 millilitres) red wine
 - 2 1/2 cups beef stock (adjust if using a pressure cooker)
 - 1 bay leaf
 - 1 rosemary sprig

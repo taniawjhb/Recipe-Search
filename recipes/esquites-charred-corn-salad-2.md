@@ -21,20 +21,20 @@ key_ingredients:
 ## Ingredients
 
 - 4 cups corn (about 5 ears)
-- 1 tbsp olive oil
+- 1 tablespoon olive oil
 - 1/2 red bell pepper chopped
 - 1/2 small red onion finely chopped
 - 1/2 cup fresh cilantro chopped
 - 6 spring onions chopped
 - 1 jalapeno pepper diced
 - 1/2 avocado chopped
-- 4 tbsp lime juice (from about 2 limes)
-- 1/2 tsp cumin ground
-- 1/2 tsp smoked paprika
-- 1/4 tsp black pepper ground
-- 1/4 tsp salt
-- 2 tbsp sour cream (or yogurt)
-- 2 tbsp mayonnaise
+- 4 tablespoons lime juice (from about 2 limes)
+- 1/2 teaspoon cumin ground
+- 1/2 teaspoon smoked paprika
+- 1/4 teaspoon black pepper ground
+- 1/4 teaspoon salt
+- 2 tablespoons sour cream (or yogurt)
+- 2 tablespoons mayonnaise
 - 1/2 cup feta, crumbled
 
 ## Method

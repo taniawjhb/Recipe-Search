@@ -24,21 +24,21 @@ key_ingredients:
 
 ### For the Crying Tiger Sauce
 
-- 2 tbsp tamarind sauce
-- 2 tbsp fish sauce
-- ½ tbsp palm sugar
-- 1 tbsp chili flakes
-- 1 tbsp ground roasted rice
-- ½ tbsp chopped shallot
-- ½ tbsp chopped spring onion
-- ½ tbsp chopped coriander
+- 2 tablespoons tamarind sauce
+- 2 tablespoons fish sauce
+- 1/2 tablespoon palm sugar
+- 1 tablespoon chili flakes
+- 1 tablespoon ground roasted rice
+- 1/2 tablespoon chopped shallot
+- 1/2 tablespoon chopped spring onion
+- 1/2 tablespoon chopped coriander
 
 ### For the Sirloin Steak
 
-- 300g sirloin steak
-- ½ tbsp oyster sauce
-- 1 tbsp seasoning sauce / Maggi sauce
-- 1 tbsp cooking oil
+- 300 grams sirloin steak
+- 1/2 tablespoon oyster sauce
+- 1 tablespoon seasoning sauce / Maggi sauce
+- 1 tablespoon cooking oil
 
 ## Method
 

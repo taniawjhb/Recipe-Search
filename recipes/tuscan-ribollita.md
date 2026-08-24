@@ -38,9 +38,9 @@ key_ingredients:
 - 1 inch Parmesan rind (optional)
 - 2 thyme sprigs
 - 1 bay leaf
-- 1 tsp dry oregano
-- 1/2 tsp crushed red pepper flakes, optional
-- 450g kale, thick stems and veins removed, chopped
+- 1 teaspoon dry oregano
+- 1/2 teaspoon crushed red pepper flakes, optional
+- 450 grams kale, thick stems and veins removed, chopped
 - Grated Parmesan cheese, optional
 
 ## Method

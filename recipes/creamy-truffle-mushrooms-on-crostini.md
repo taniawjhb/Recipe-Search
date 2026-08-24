@@ -24,16 +24,16 @@ key_ingredients:
 ## Ingredients
 
 - Large knob of butter
-- 2 tbsp olive oil
+- 2 tablespoons olive oil
 - 2 punnets portabellini mushrooms
 - 2 cloves garlic, finely chopped
 - Pinch of dry red chili
 - 1 red onion
-- 2 tsp finely chopped parsley
-- 50ml brandy/cognac
-- 100ml cream
-- 1/2 tsp good quality truffle oil
-- 1 baguette, cut into .5cm slices
+- 2 teaspoons finely chopped parsley
+- 50 millilitres brandy/cognac
+- 100 millilitres cream
+- 1/2 teaspoon good quality truffle oil
+- 1 baguette, cut into .5 centimetres slices
 
 ## Method
 

@@ -22,18 +22,18 @@ key_ingredients:
 
 ### For the cherry tomato filling
 
-- 500g cherry tomatoes
+- 500 grams cherry tomatoes
 - 2 tablespoons olive oil
 - 2 tablespoons balsamic vinegar
 - 7-8 cloves garlic, adjust to taste
 - 1 tablespoon fresh chopped thyme
-- ¼ teaspoon salt
+- 1/4 teaspoon salt
 
 ### For the galette pastry
 
-- 1 and ½ cups all purpose flour
-- ½ teaspoon salt
-- ½ cup unsalted butter
+- 1 and 1/2 cups all purpose flour
+- 1/2 teaspoon salt
+- 1/2 cup unsalted butter
 - 5-6 tablespoons ice-cold water
 
 ## Method

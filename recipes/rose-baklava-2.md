@@ -24,13 +24,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 500 g mixed nuts (walnut & almond)
+- 500 grams mixed nuts (walnut & almond)
 - 1 teaspoon ground cinnamon
 - 1 package phyllo dough
 - 1 cup butter, melted
 - 1 cup white sugar
 - 1 cup water
-- 3 tbsp rose water
+- 3 tablespoons rose water
 - 1/2 cup honey
 - 1 teaspoon vanilla extract
 - 1 teaspoon grated lemon zest

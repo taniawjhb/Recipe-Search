@@ -24,13 +24,13 @@ key_ingredients:
 
 - 12 red peppers
 - 10 chicken thighs
-- 2 tbsp olive oil
+- 2 tablespoons olive oil
 - 1 onion, peeled and chopped
 - 2 garlic cloves, peeled and crushed
-- 1 ½ litres chicken stock
+- 1 1/2 litres chicken stock
 - Handful fresh basil leaves, torn
 - Handful fresh mint leaves, torn
-- 2 tsp fresh oregano
+- 2 teaspoons fresh oregano
 - Salt and black pepper
 - Extra virgin olive oil, to serve
 

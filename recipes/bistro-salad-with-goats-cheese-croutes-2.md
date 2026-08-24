@@ -33,7 +33,7 @@ key_ingredients:
 
 ## Method
 
-1. Cut the goat cheese into 8 to 10 disks. Put the panko or bread crumbs into a shallow bowl. If you will be baking the goat cheese croutes, mix the vegetable oil in with the panko. Heat the oven to 180C if baking.
+1. Cut the goat cheese into 8 to 10 disks. Put the panko or bread crumbs into a shallow bowl. If you will be baking the goat cheese croutes, mix the vegetable oil in with the panko. Heat the oven to 180°C if baking.
 2. For either preparation, press the goat cheese disks into the panko. Flip the disks to make sure both sides are completely covered and roll the edges through the panko as well. Set the coated goat cheese on a baking sheet or platter and place in the freezer for 15 to 30 minutes to set prior to cooking.
 3. While the goat cheese sets, tear the lettuce into bite-size pieces, wash and dry the lettuce, and set aside. If using herbs in addition to lettuce, wash, dry, and prepare them for the salad.
 4. In a large salad bowl, whisk together the olive oil, vinegar, and mustard. Add salt and pepper to taste and add the clean lettuce to the bowl.

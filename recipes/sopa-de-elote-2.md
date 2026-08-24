@@ -26,8 +26,8 @@ key_ingredients:
 - 6 cups fresh corn kernels, from 8-10 shucked cobs (save 6 of the stripped cobs for simmering the soup)
 - 1 cup chopped yellow onion
 - 1/4 teaspoon chipotle powder or paste (use more or less, depending on your heat preferences)
-- 1/2 tsp paprika
-- 1/2 tsp cumin
+- 1/2 teaspoon paprika
+- 1/2 teaspoon cumin
 - Kosher salt and freshly ground black pepper
 - 2 large garlic cloves, chopped (about 1 tablespoon)
 - 4 cups chicken or vegetable broth

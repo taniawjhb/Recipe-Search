@@ -21,14 +21,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 tbsp olive oil or butter
+- 1 tablespoon olive oil or butter
 - 2 garlic cloves, minced
 - 1 large onion, chopped (brown, yellow or white)
-- 1 kg zucchinis, cut into 1.5cm / 3/5" slices, larger ones halved
-- 750 ml vegetable or chicken broth, preferably salt reduced
-- 250 ml water
-- 185 ml cream, heavy / thickened
-- 250 ml milk, full cream, or more cream
+- 1 kilogram zucchinis, cut into 1.5 centimetres / 3/5" slices, larger ones halved
+- 750 millilitres vegetable or chicken broth, preferably salt reduced
+- 250 millilitres water
+- 185 millilitres cream, heavy / thickened
+- 250 millilitres milk, full cream, or more cream
 
 Garnish:
 

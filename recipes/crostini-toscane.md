@@ -24,17 +24,17 @@ key_ingredients:
 ## Ingredients
 
 - Ciabatta, sliced
-- 2 tbsp olive oil
-- 400 g chicken livers
+- 2 tablespoons olive oil
+- 400 grams chicken livers
 - 1 clove of garlic
 - 1 small red onion
 - a few sage leaves
-- 100 ml (½ cup) of Vin Santo or white wine
-- 1 tsp of anchovy paste, or two anchovies
-- 60 g capers
+- 100 millilitres (1/2 cup) of Vin Santo or white wine
+- 1 teaspoon of anchovy paste, or two anchovies
+- 60 grams capers
 - juice of half a small lemon
 - chicken stock
-- 2 tbsp balsamic vinegar
+- 2 tablespoons balsamic vinegar
 - extra virgin olive oil
 - salt
 - pepper

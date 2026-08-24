@@ -24,17 +24,17 @@ key_ingredients:
 
 ## Ingredients
 
-- 6 Tbsp vegetable oil
+- 6 tablespoons vegetable oil
 - 2 teaspoons ground coriander
 - 2 teaspoons ground cumin
 - 2 teaspoons ground turmeric
 - 2 teaspoons Kashmiri chili powder
-- 2 Tbsp garam masala
-- 2 Tbsp sweet (not hot) paprika
+- 2 tablespoons garam masala
+- 2 tablespoons sweet (not hot) paprika
 - 2 cups plain yogurt (can sub buttermilk)
-- 4 Tbsp lemon juice
+- 4 tablespoons lemon juice
 - 8 minced garlic cloves
-- 4 Tbsp minced fresh ginger
+- 4 tablespoons minced fresh ginger
 - 2 teaspoons salt
 - 10 chicken breasts, cut into chunks (deboned thighs work very well)
 

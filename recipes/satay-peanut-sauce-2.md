@@ -24,23 +24,23 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g roasted peanuts
-- 25g dried chillies, rehydrated in hot water and chopped (blended paste)
+- 500 grams roasted peanuts
+- 25 grams dried chillies, rehydrated in hot water and chopped (blended paste)
 - 1 onion, chopped (blended paste)
 - 4-5 shallots, chopped (blended paste)
 - 5 cloves garlic (blended paste)
 - 1-inch ginger, chopped (blended paste)
 - 1-inch galangal, chopped (blended paste)
 - 2 stalks lemongrass, bruised and sliced (blended paste)
-- 1 tsp shrimp paste (blended paste)
+- 1 teaspoon shrimp paste (blended paste)
 - 1/4 cup water, for easier blending (blended paste)
 - 1 cup vegetable oil, with extra on the side (peanut sauce)
 - 4 cups water, with extra on the side (peanut sauce)
-- 100g palm sugar, or to taste (peanut sauce)
-- 1 tbsp salt, or to taste (peanut sauce)
+- 100 grams palm sugar, or to taste (peanut sauce)
+- 1 tablespoon salt, or to taste (peanut sauce)
 - 1 cup coconut milk (peanut sauce)
 - 2 tbsps tamarind paste, or to taste (peanut sauce)
-- 1 tbsp dark sweet soy sauce (peanut sauce)
+- 1 tablespoon dark sweet soy sauce (peanut sauce)
 
 ## Method
 

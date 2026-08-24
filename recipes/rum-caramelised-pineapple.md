@@ -19,9 +19,9 @@ key_ingredients:
 ## Ingredients
 
 - 4 small pineapples, peeled, cut into rings and cored
-- 3 tbsp brown sugar
+- 3 tablespoons brown sugar
 - 60gms butter
-- 2 tbsp vanilla rum
+- 2 tablespoons vanilla rum
 
 ## Method
 

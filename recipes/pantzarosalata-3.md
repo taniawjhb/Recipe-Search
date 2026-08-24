@@ -23,14 +23,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 400g strained yogurt
+- 400 grams strained yogurt
 - 2 medium raw or pre-cooked beets
 - 2-4 sheets minced garlic (depending on how strong you want it)
 - Salt to taste
 - 1/2 cup finely chopped walnuts
-- 1 tbsp chopped dill
-- 2-3 tbsp vinegar
-- 5-6 tbsp olive oil
+- 1 tablespoon chopped dill
+- 2-3 tablespoons vinegar
+- 5-6 tablespoons olive oil
 
 ## Method
 

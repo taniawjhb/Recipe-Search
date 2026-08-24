@@ -25,16 +25,16 @@ key_ingredients:
 
 ### Filling
 
-- 1/2 tbsp olive oil
+- 1/2 tablespoon olive oil
 - 2 cloves garlic, minced
 - 1 brown onion, small, finely chopped
 - 1 celery stalk, finely chopped
-- 150g bacon, finely minced (streaky and fatty, not the lean stuff!)
-- 2 tsp fennel seeds, toasted (optional)
-- 500g pork mince (ground pork) (not lean)
-- 3/4 cup / 40g panko breadcrumbs
+- 150 grams bacon, finely minced (streaky and fatty, not the lean stuff!)
+- 2 teaspoons fennel seeds, toasted (optional)
+- 500 grams pork mince (ground pork) (not lean)
+- 3/4 cup / 40 grams panko breadcrumbs
 - 1 egg
-- 1/2 tsp salt
+- 1/2 teaspoon salt
 - Black pepper
 
 ### Baking & Serving
@@ -51,7 +51,7 @@ key_ingredients:
 5. Get 1/5 th of the filling and shape into a long log shape down the middle of the pastry. Ensure the meat is tight and compact, without gaps.
 6. Brush edge of pastry with egg. Then roll up, finishing with the seam side down. Roll up, sealing on the edge with egg wash on it.
 7. If you have time/patience, refrigerate for 1 hour (makes it easier/neater to cut).
-8. To cook: Preheat oven to 350F/180C.
+8. To cook: Preheat oven to 350°F/180°C.
 9. Cut each log into equal lengths, just two if you want full size sausage rolls. Brush with egg.
 10. Place on 2 baking trays lined with baking paper (or sprayed with oil). Bake for 30 - 35 minutes in total, swapping tray shelves at 20 minutes, or until the pastry is deep golden brown. (Note: The filling will still look pink because of the bacon, but it's easy to tell from texture that it's cooked.)
 11. Cool slightly on trays. Serve hot or warm with tomato sauce or ketchup!

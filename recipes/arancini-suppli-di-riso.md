@@ -26,12 +26,12 @@ key_ingredients:
 - 1 small onion
 - 1 stick celery, finely chopped
 - 1 small carrot, finely chopped
-- 4 tbsp butter
+- 4 tablespoons butter
 - 3 cups chicken broth
-- 5 tbsp grated Parmigiano
-- 80g finely diced mozzarella
-- 80g finely diced prosciutto
-- 30g parsley, chopped
+- 5 tablespoons grated Parmigiano
+- 80 grams finely diced mozzarella
+- 80 grams finely diced prosciutto
+- 30 grams parsley, chopped
 - 4 eggs
 - Breadcrumbs
 - Nutmeg

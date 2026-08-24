@@ -20,19 +20,19 @@ key_ingredients:
 
 ## Ingredients
 
-- 750g beef fillet
-- 1 tbsp olive oil
+- 750 grams beef fillet
+- 1 tablespoon olive oil
 - 1/2 cup coarsely chopped fresh flat leaf parsley
 - 1/4 cup coarsely chopped fresh dill
 - 1/2 cup walnuts, roughly chopped
 - 1 clove garlic, crushed
-- 2 tsp finely grated lemon zest
-- 2 tsp lemon juice
-- 1 tbsp olive oil
+- 2 teaspoons finely grated lemon zest
+- 2 teaspoons lemon juice
+- 1 tablespoon olive oil
 
 ## Method
 
-1. Preheat oven to 220C. Rub beef with oil. Now heat a frying pan until hot and then add the beef fillet, sear on all sides until browned all over.
+1. Preheat oven to 220°C. Rub beef with oil. Now heat a frying pan until hot and then add the beef fillet, sear on all sides until browned all over.
 2. Combine the herbs, lemon zest, lemon juice, olive oil and nuts in a bowl, stir to combine.
 3. Transfer beef to oven, roast beef uncovered for 15 minutes. Remove and sprinkle with 3/4 of the herbs.
 4. Cover with foil and roast a further 15 minutes or until cooked as desired.

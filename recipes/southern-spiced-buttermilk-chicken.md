@@ -26,16 +26,16 @@ key_ingredients:
 
 - 6 large chicken breasts
 - 2 cloves of garlic
-- 1/2 tsp salt
-- 2 tsp soy sauce
-- 1/2 tsp ground black pepper
-- 1 tsp paprika
-- 1 tsp finely chopped fresh thyme
-- 250ml buttermilk
-- 6 tbsp cake flour
-- 4 tbsp corn flour
+- 1/2 teaspoon salt
+- 2 teaspoons soy sauce
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon paprika
+- 1 teaspoon finely chopped fresh thyme
+- 250 millilitres buttermilk
+- 6 tablespoons cake flour
+- 4 tablespoons corn flour
 - 3 eggs
-- 300g golden bread crumbs
+- 300 grams golden bread crumbs
 - Sunflower oil, for shallow frying
 
 ### Fiery Dipping Mayo

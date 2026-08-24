@@ -19,7 +19,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 4 fillet steaks, 180 g each and no more than 4cm thick
+- 4 fillet steaks, 180 grams each and no more than 4 centimetres thick
 - Coarse salt
 - 2 tablespoons whole peppercorns
 - 1 tablespoon unsalted butter

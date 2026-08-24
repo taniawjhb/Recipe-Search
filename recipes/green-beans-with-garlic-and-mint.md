@@ -21,9 +21,9 @@ key_ingredients:
 ## Ingredients
 
 - 1 tablespoon fine sea salt
-- 160g fine green beans
+- 160 grams fine green beans
 - 1/4 cup extra virgin olive oil
-- 1 tbsp red wine vinegar
+- 1 tablespoon red wine vinegar
 - 2 tablespoons finely sliced mint leaves
 - 1 clove garlic, finely sliced
 - Freshly ground salt & black pepper

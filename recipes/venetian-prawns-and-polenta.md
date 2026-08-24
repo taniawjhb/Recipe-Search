@@ -28,7 +28,7 @@ key_ingredients:
 - 1/2 cup dry white wine
 - 1/2 cup water
 - 1/2 teaspoon fine salt
-- 500g large prawns, peeled and deveined, shells reserved
+- 500 grams large prawns, peeled and deveined, shells reserved
 - 2 tablespoons finely chopped flat-leaf parsley
 - Juice of 1/2 lemon
 - 1 tablespoon unsalted butter

@@ -23,7 +23,7 @@ key_ingredients:
 - 350gms semi-sweet chocolate chips
 - 226gms butter
 - 3/4 cup sugar
-- 1 tsp vanilla
+- 1 teaspoon vanilla
 
 ## Method
 

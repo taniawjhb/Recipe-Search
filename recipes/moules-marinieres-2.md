@@ -30,7 +30,7 @@ key_ingredients:
 - 2 bay leaves
 - Coarse salt and freshly ground black pepper
 - 1 cup hard dry cider or white wine
-- 1kg mussels, cleaned
+- 1 kilogram mussels, cleaned
 - 2 to 3 tablespoons heavy cream
 - 1 tablespoon juice and 1 teaspoon grated zest from 1 lemon
 - 3 tablespoons minced fresh parsley leaves

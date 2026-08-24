@@ -20,11 +20,11 @@ key_ingredients:
 
 ## Ingredients
 
-- 330g flour
-- 3/4 tsp baking powder
-- 1/2 tsp salt
-- 3/4 tsp sugar
-- 180-220ml water (don't add all at once, it will depend on the flour used how much you need exactly)
+- 330 grams flour
+- 3/4 teaspoon baking powder
+- 1/2 teaspoon salt
+- 3/4 teaspoon sugar
+- 180-220 millilitres water (don't add all at once, it will depend on the flour used how much you need exactly)
 - Ghee (or clarified butter) - slightly melted or softened to make it easy to spread out over the dough surface
 - Flour for rolling
 
@@ -32,7 +32,7 @@ key_ingredients:
 
 1. Mix the flour, baking powder, salt, and sugar. Add the water gradually to make a dough. The dough will be slightly sticky and very flexible. However, after some gentle kneading it should come clean off your hands. Knead the dough together until it comes together in a nice ball; don't knead it any further.
 2. Leave to rest for at least 15 minutes to relax the gluten.
-3. Split the dough into 4 separate balls to make 4 paratha roti with a diameter of about 22cm each. Adjust the number of portions based on your pan size.
+3. Split the dough into 4 separate balls to make 4 paratha roti with a diameter of about 22 centimetres each. Adjust the number of portions based on your pan size.
 4. Roll out the dough in flat circles. It will be slightly sticky, so use ample flour.
 5. Cover the dough with a thin layer of ghee, making sure to spread it out evenly.
 6. Lightly dust the top with a little flour (this makes it easier to roll).

@@ -23,16 +23,16 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g boneless, skinless chicken thighs, chopped into 1/2-inch cubes
+- 500 grams boneless, skinless chicken thighs, chopped into 1/2-inch cubes
 - 1 onion or 5 small shallots, chopped
 - 2 garlic cloves
 - 4 lemongrass, white inner core, sliced
 - 1-inch ginger, chopped
-- 1 tsp ground cumin
-- 1 tsp ground coriander
-- 1/2 tsp turmeric powder
-- 1 tsp salt, or to taste
-- 2 tbsp palm sugar
+- 1 teaspoon ground cumin
+- 1 teaspoon ground coriander
+- 1/2 teaspoon turmeric powder
+- 1 teaspoon salt, or to taste
+- 2 tablespoons palm sugar
 - 1/4 cup water, for easier blending
 
 ## Method

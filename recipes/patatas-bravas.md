@@ -23,16 +23,16 @@ key_ingredients:
 
 ## Ingredients
 
-- 4 potatoes, peeled and cut into 2.5cm cubes
+- 4 potatoes, peeled and cut into 2.5 centimetres cubes
 - Sunflower oil flavoured with 1 cup olive oil
-- 1 tbsp salt
-- 3 tbsp olive oil
+- 1 tablespoon salt
+- 3 tablespoons olive oil
 - 1 onion, diced
 - 1 clove garlic, finely chopped
 - 1 red chili, minced
-- ½ tsp smoked paprika
+- 1/2 teaspoon smoked paprika
 - 1 can whole peeled tomatoes, drained
-- ¼ cup mayonnaise
+- 1/4 cup mayonnaise
 
 ## Method
 

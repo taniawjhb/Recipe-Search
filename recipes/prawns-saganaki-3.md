@@ -26,15 +26,15 @@ key_ingredients:
 - 1 tablespoon olive oil
 - 1 small brown onion finely chopped
 - 2 garlic cloves minced
-- ½ teaspoon sugar
+- 1/2 teaspoon sugar
 - 1 teaspoon dried herbs like thyme or oregano
-- ¼ teaspoon salt
-- ½ red chilli finely chopped
+- 1/4 teaspoon salt
+- 1/2 red chilli finely chopped
 - 1 tablespoon tomato paste
-- 400 g tinned chopped tomatoes
-- 60 ml dry white wine
-- 1kg king prawns raw, defrosted if frozen
-- 100 g feta crumbled
+- 400 grams tinned chopped tomatoes
+- 60 millilitres dry white wine
+- 1 kilogram king prawns raw, defrosted if frozen
+- 100 grams feta crumbled
 - 1 tablespoon parsley finely chopped
 
 ## Method

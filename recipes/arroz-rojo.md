@@ -20,13 +20,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 1/2 tbsp olive oil
+- 1 1/2 tablespoons olive oil
 - 2 garlic cloves, minced
 - 1/2 small white onion, finely chopped
 - 1 cup long grain white rice, uncooked
-- 1 3/4 cups (435 ml) chicken stock
-- 2 1/2 tbsp tomato paste
-- 1/4 tsp salt
+- 1 3/4 cups (435 millilitres) chicken stock
+- 2 1/2 tablespoons tomato paste
+- 1/4 teaspoon salt
 - 1 serrano or jalapeno pepper, whole (optional)
 - 1 sprig coriander / cilantro
 

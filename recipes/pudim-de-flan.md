@@ -23,12 +23,12 @@ key_ingredients:
 ## Ingredients
 
 - 5 eggs (3 yolks, 2 whole)
-- 12 tbsp sugar (split half and half)
-- 1 tsp corn starch/flour
-- 500ml milk
+- 12 tablespoons sugar (split half and half)
+- 1 teaspoon corn starch/flour
+- 500 millilitres milk
 - Lemon rind
 - Cinnamon quill
-- 1/2 tsp vanilla extract
+- 1/2 teaspoon vanilla extract
 
 ## Method
 

@@ -30,14 +30,14 @@ key_ingredients:
 - 1 tablespoon Dijon mustard
 - 1/8 teaspoon salt, plus more to taste
 - 1/8 teaspoon pepper, plus more to taste
-- 1 pork fillet (650g)
-- 8 to 10 strips bacon (about 360g), cut in half
+- 1 pork fillet (650 grams)
+- 8 to 10 strips bacon (about 360 grams), cut in half
 
 ## Method
 
-1. Heat the oven to 220C. In a pan over medium heat, heat the oil. Add the apple, onion, rosemary, and thyme, and cook for 7 to 9 minutes, or until softened. Meanwhile, pulse the bread slices in a food processor until you make coarse crumbs. You should have about 1/2 cup of breadcrumbs.
+1. Heat the oven to 220°C. In a pan over medium heat, heat the oil. Add the apple, onion, rosemary, and thyme, and cook for 7 to 9 minutes, or until softened. Meanwhile, pulse the bread slices in a food processor until you make coarse crumbs. You should have about 1/2 cup of breadcrumbs.
 2. Remove the pan with the onions and apples from the heat, and stir in the breadcrumbs, mustard, salt, and pepper. Set aside to cool briefly.
-3. Cut a deep lengthwise slit down the center of the tenderloin, stopping about 1.5cm from the bottom of the roast. Open it up like a book. Cover with a piece of plastic wrap, and with a mallet or rolling pin, gently pound it until it is of an even thickness.
+3. Cut a deep lengthwise slit down the center of the tenderloin, stopping about 1.5 centimetres from the bottom of the roast. Open it up like a book. Cover with a piece of plastic wrap, and with a mallet or rolling pin, gently pound it until it is of an even thickness.
 4. Spread the stuffing in a line along the center of the meat. Bring the edges of the meat together to return it to its original shape. Secure with toothpicks.
 5. Lay out the bacon slices on a cutting board, overlapping them slightly. Place the tenderloin on top with the toothpicks facing up. Removing the toothpicks as you work, wrap the bacon slices around the pork to form a log. Place the tenderloin, bacon seam side down, on the baking sheet.
 6. Roast for 20 to 25 minutes. If the roast is ready before the bacon browns, place the tenderloin under the broiler for 3 to 5 minutes to brown the bacon.

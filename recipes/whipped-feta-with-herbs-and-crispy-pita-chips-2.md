@@ -25,8 +25,8 @@ key_ingredients:
 
 ### For the whipped feta
 
-- 240g good quality feta, drained and rinsed
-- ¾ cup Greek yogurt
+- 240 grams good quality feta, drained and rinsed
+- 3/4 cup Greek yogurt
 - 1 lemon, zested
 - 2 tablespoons extra virgin olive oil, more as needed
 - 1 teaspoon Aleppo pepper, or red pepper flakes (to your taste)
@@ -36,17 +36,17 @@ key_ingredients:
 ### For the seed topping
 
 - 1 teaspoon toasted sesame seeds
-- ¼ teaspoon chilli flakes
-- ¼ teaspoon lemon zest
+- 1/4 teaspoon chilli flakes
+- 1/4 teaspoon lemon zest
 - 2 teaspoons extra virgin olive oil
 
 ### For the pita chips
 
 - 4 pita
-- 2 tsp sumac spice
-- 2 tsp zaatar
-- 1/2 tsp salt
-- 3 tbsp olive oil
+- 2 teaspoons sumac spice
+- 2 teaspoons zaatar
+- 1/2 teaspoon salt
+- 3 tablespoons olive oil
 
 ## Method
 

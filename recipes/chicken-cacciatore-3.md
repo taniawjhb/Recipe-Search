@@ -23,29 +23,29 @@ key_ingredients:
 
 ## Ingredients
 
-- 4 bone-in chicken thighs, large (1 kg / 2 lb)
+- 4 bone-in chicken thighs, large (1 kilogram / 2 pounds)
 - 4 chicken drumsticks
-- 1/2 tsp salt
+- 1/2 teaspoon salt
 - Large pinch tsp black pepper
-- 1 tbsp olive oil
+- 1 tablespoon olive oil
 
 ### Cacciatore
 
 - 1 onion, halved, finely sliced
-- 2 rosemary sprigs (about 15 cm/6" long), or 1 tsp dried rosemary
+- 2 rosemary sprigs (about 15 centimetres/6" long), or 1 teaspoon dried rosemary
 - 2 bay leaves, preferably fresh else dried
 - 3 garlic cloves, finely minced
-- 3 anchovy fillets (or 1 tsp anchovy paste), optional
-- 250g / 8 oz mushrooms, sliced
-- 2 medium red peppers or 1 large red pepper, sliced 8 mm thick
-- 90g tomato paste
-- 180ml dry red wine
-- 500ml chicken stock/broth, low sodium
-- 400g/14 oz canned crushed tomato
+- 3 anchovy fillets (or 1 teaspoon anchovy paste), optional
+- 250 grams / 8 ounces mushrooms, sliced
+- 2 medium red peppers or 1 large red pepper, sliced 8 millimetres thick
+- 90 grams tomato paste
+- 180 millilitres dry red wine
+- 500 millilitres chicken stock/broth, low sodium
+- 400 grams/14 ounces canned crushed tomato
 - 16 whole kalamata olives, pitted, drained
-- 1/4 tsp cooking/kosher salt
-- 1/4 tsp black pepper
-- 1 tsp dried oregano
+- 1/4 teaspoon cooking/kosher salt
+- 1/4 teaspoon black pepper
+- 1 teaspoon dried oregano
 
 ## Method
 

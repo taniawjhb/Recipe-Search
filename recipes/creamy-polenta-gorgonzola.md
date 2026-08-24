@@ -21,10 +21,10 @@ key_ingredients:
 ## Ingredients
 
 - 5 cups vegetable stock
-- ¾ teaspoon salt
-- 1¾ cups polenta
+- 3/4 teaspoon salt
+- 1 3/4 cups polenta
 - 1 cup cream
-- 120g crumbled Gorgonzola cheese
+- 120 grams crumbled Gorgonzola cheese
 - 3 tablespoons unsalted butter
 
 ## Method

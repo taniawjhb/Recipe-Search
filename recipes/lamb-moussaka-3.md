@@ -30,8 +30,8 @@ key_ingredients:
 - 1 tablespoon olive oil
 - 1 medium brown onion, finely chopped
 - 2 garlic cloves, crushed
-- 800g lamb mince
-- 420g can crushed tomatoes
+- 800 grams lamb mince
+- 420 grams can crushed tomatoes
 - 1 teaspoon ground cinnamon
 - 1/2 teaspoon ground allspice
 - 1/3 cup grated pizza cheese
@@ -39,7 +39,7 @@ key_ingredients:
 
 ### White sauce
 
-- 75g butter
+- 75 grams butter
 - 1/3 cup plain flour
 - 2 cups milk
 

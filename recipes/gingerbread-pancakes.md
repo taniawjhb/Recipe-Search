@@ -22,17 +22,17 @@ key_ingredients:
 
 ## Ingredients
 
-- 2 cups all-purpose flour (240g)
+- 2 cups all-purpose flour (240 grams)
 - 2 teaspoons baking powder
 - 1/4 teaspoon baking soda
 - 1 teaspoon salt
 - 2 teaspoons ground ginger
 - 2 teaspoons ground cinnamon
 - 1/2 teaspoon ground cloves
-- 1 1/4 cup whole milk (300ml)
+- 1 1/4 cup whole milk (300 millilitres)
 - 2 large eggs
-- 1/3 cup unsulphured molasses (80ml)
-- 4 tablespoons unsalted butter, melted (56g)
+- 1/3 cup unsulphured molasses (80 millilitres)
+- 4 tablespoons unsalted butter, melted (56 grams)
 
 ## Method
 

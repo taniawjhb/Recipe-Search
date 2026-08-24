@@ -27,16 +27,16 @@ key_ingredients:
 - 1 large cucumber, diced
 - 1 red bell pepper, diced
 - 2 cups cherry tomatoes, halved
-- ¼ cup red onion, diced
+- 1/4 cup red onion, diced
 - 4 ounces feta cheese, crumbled
-- ¼ cup finely chopped parsley
+- 1/4 cup finely chopped parsley
 
 ### Lemon dressing
 
-- ⅓ cup olive oil
-- ¼ cup lemon juice
+- 1/3 cup olive oil
+- 1/4 cup lemon juice
 - 1 teaspoon Dijon mustard
-- ½ teaspoon honey, or maple syrup
+- 1/2 teaspoon honey, or maple syrup
 - 1 garlic clove, minced
 - Salt and pepper, to taste
 

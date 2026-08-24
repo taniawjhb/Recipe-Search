@@ -22,13 +22,13 @@ key_ingredients:
 
 - 6 chicken fillets
 - 1/2 cup all purpose flour, for coating
-- 1 tsp salt
-- 1/2 tsp freshly ground black pepper
-- 2 tbsp lemon olive oil
+- 1 teaspoon salt
+- 1/2 teaspoon freshly ground black pepper
+- 2 tablespoons lemon olive oil
 - 2 cloves garlic, finely chopped
 - Zest of 1 lemon
-- 2 tbsp olive oil
-- 1 tsp finely chopped rosemary
+- 2 tablespoons olive oil
+- 1 teaspoon finely chopped rosemary
 - 1/2 cup white wine (or chicken stock)
 - 1/4 cup white balsamic
 - 1/4 cup lemon juice

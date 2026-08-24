@@ -38,7 +38,7 @@ key_ingredients:
 - 1/4 teaspoon ground black pepper
 - 1/8 to 1/4 teaspoon ground cinnamon
 - 1 dried bay leaf
-- 1 450 g can butter beans, drained and rinsed (or the largest beans you can find)
+- 1 450 grams can butter beans, drained and rinsed (or the largest beans you can find)
 - Creamy feta cheese, crumbled
 - Rustic bread, for serving
 

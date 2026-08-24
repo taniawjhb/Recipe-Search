@@ -22,7 +22,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 450gms fresh, skinless snapper, bass, halibut, or other ocean fish fillets, cut into 0.5cm dice
+- 450gms fresh, skinless snapper, bass, halibut, or other ocean fish fillets, cut into 0.5 centimetres dice
 - 1 1/2 cups fresh lime juice
 - 1 medium white onion, chopped into small pieces
 - 2 medium-large tomatoes, chopped into small pieces

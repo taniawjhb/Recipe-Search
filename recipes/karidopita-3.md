@@ -27,25 +27,25 @@ key_ingredients:
 
 ### For the cake
 
-- 380g chopped walnut (13 ounces)
-- 180g powdered Melba toast or breadcrumbs
-- 20g baking powder
+- 380 grams chopped walnut (13 ounces)
+- 180 grams powdered Melba toast or breadcrumbs
+- 20 grams baking powder
 - 1 flat tsp powdered nutmeg
 - 2 tsps powdered cinnamon
-- 1/2 tsp grounded clove
-- 200g butter
-- 165g sugar
+- 1/2 teaspoon grounded clove
+- 200 grams butter
+- 165 grams sugar
 - 7 eggs (separated into whites and yolks)
 - zest of 1 orange
-- 75ml brandy (1/3 of a cup)
+- 75 millilitres brandy (1/3 of a cup)
 
 ### For the syrup
 
 - 2 cups sugar
-- 100 grams honey (3.5 oz)
+- 100 grams honey (3.5 ounces)
 - 2 cups water
-- 1 tsp vanilla extract
-- 1 tbsp orange juice
+- 1 teaspoon vanilla extract
+- 1 tablespoon orange juice
 - 1/4 of a cup cognac
 
 ## Method
@@ -55,6 +55,6 @@ key_ingredients:
 3. Combine the two mixtures and blend, until smooth.
 4. Place the egg whites into the bowl of the electric mixer, along with a pinch of salt. Make sure your egg whites, bowl and whisk attachments are clean and free of any water. Whisk the egg whites until the mixture is very thick and glossy and a long trailing peak forms when the whisk is lifted (meringues).
 5. With a spatula add gradually the meringues into the mixture and blend with light circular movements from the bottom up.
-6. Butter the bottom and the sides of a round baking tray, approx 30cm diameter and bake in a preheated oven at 170C, for about 35 minutes, until nicely colored on the outside and baked through.
+6. Butter the bottom and the sides of a round baking tray, approx 30 centimetres diameter and bake in a preheated oven at 170°C, for about 35 minutes, until nicely colored on the outside and baked through.
 7. Let the karidopita (greek walnut cake) cool and then prepare the syrup. Add all the ingredients for the syrup into a pot, and boil, until the sugar has dissolved. Score the cake into pieces, and slowly ladle the hot syrup over the cold cake, allowing time for each ladle of syrup to be absorbed.
 8. Let it cool down for a while, before serving. This Greek walnut cake is ideally served cold with some vanilla ice-cream aside. Enjoy!!

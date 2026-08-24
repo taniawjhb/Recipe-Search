@@ -24,34 +24,34 @@ key_ingredients:
 
 ## Ingredients
 
-- 50g unsalted butter, divided
-- 750g chicken thighs, skinless, boneless, cut into bite size pieces
-- 1/4 tsp each black pepper and cooking salt
+- 50 grams unsalted butter, divided
+- 750 grams chicken thighs, skinless, boneless, cut into bite size pieces
+- 1/4 teaspoon each black pepper and cooking salt
 
 ### Pie filling
 
-- 80g streaky bacon, chopped into 1cm
+- 80 grams streaky bacon, chopped into 1 centimetre
 - 2 leeks
-- 2 celery stems, sliced 4mm thick (cut thick end in half lengthways first)
+- 2 celery stems, sliced 4 millimetres thick (cut thick end in half lengthways first)
 - 2 garlic cloves, finely minced
-- 80ml chardonnay or other dry white wine
-- 35g flour (plain / all-purpose)
-- 1 tbsp Dijon mustard
+- 80 millilitres chardonnay or other dry white wine
+- 35 grams flour (plain / all-purpose)
+- 1 tablespoon Dijon mustard
 - 2 thyme sprigs
 - 2 bay leaves
-- 250ml chicken stock
-- 250ml heavy cream
-- 1/2 tsp salt
-- 1/4 tsp black pepper
+- 250 millilitres chicken stock
+- 250 millilitres heavy cream
+- 1/2 teaspoon salt
+- 1/4 teaspoon black pepper
 
 ### Pie
 
-- 2 x 20cm frozen butter puff pastry sheets, or single sheet large enough to cover baking dish, 360g
+- 2 x 20 centimetres frozen butter puff pastry sheets, or single sheet large enough to cover baking dish, 360 grams
 - 1 egg, yolk and whites separated, lightly whisked
 
 ## Method
 
-1. Trim the reedy dark green ends and root off the leeks, then cut in half. Cut each piece in half lengthways. Remove the outer 5 to 6 layers (keep them together), lay them flat, cut in half lengthways then into 1.8cm squares. Cut the inner core into 2cm pieces.
+1. Trim the reedy dark green ends and root off the leeks, then cut in half. Cut each piece in half lengthways. Remove the outer 5 to 6 layers (keep them together), lay them flat, cut in half lengthways then into 1.8 centimetres squares. Cut the inner core into 2 centimetres pieces.
 
 ### Filling
 

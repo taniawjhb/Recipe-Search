@@ -26,17 +26,17 @@ key_ingredients:
 - 2 cloves garlic, minced
 - 1/2 dried/fresh chili peppers, minced
 - 1 green pepper, diced
-- 2 tbsp canola oil
+- 2 tablespoons canola oil
 - 1 2/3 cup canned tomatoes (diced)
-- 2 tbsp tomato paste
+- 2 tablespoons tomato paste
 - ground pepper to taste (optional)
-- 2 tsp ground cumin
-- 1-2 tsp chilli powder and paprika
+- 2 teaspoons ground cumin
+- 1-2 teaspoons chilli powder and paprika
 - 1/2 cup vegetable/chicken stock
-- 2 tbsp water, if necessary
+- 2 tablespoons water, if necessary
 - 3 cups beans/lentils/legumes (canned)
 - 1 pinch salt
-- 1 tbsp fresh cilantro, chopped
+- 1 tablespoon fresh cilantro, chopped
 - 1 lime, to serve
 
 ## Method

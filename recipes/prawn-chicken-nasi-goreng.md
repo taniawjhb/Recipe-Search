@@ -28,11 +28,11 @@ key_ingredients:
 - 1 brown onion, finely chopped
 - 1 carrot, peeled, finely chopped
 - 2 teaspoons sambal oelek
-- 1 (about 200g) single chicken breast fillet, thinly sliced
-- 250g peeled small green prawns
-- 450g (3 cups) cooked white long-grain rice, chilled
+- 1 (about 200 grams) single chicken breast fillet, thinly sliced
+- 250 grams peeled small green prawns
+- 450 grams (3 cups) cooked white long-grain rice, chilled
 - 1/2 small wombok (Chinese cabbage), hard core removed, finely shredded
-- 200g grape tomatoes, halved
+- 200 grams grape tomatoes, halved
 - 1 tablespoon salt-reduced soy sauce
 - 1 Lebanese cucumber, halved, thinly sliced
 

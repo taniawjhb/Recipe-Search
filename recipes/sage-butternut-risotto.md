@@ -22,8 +22,8 @@ key_ingredients:
 
 ## Ingredients
 
-- 800g butternut
-- 3 tbsp butter
+- 800 grams butternut
+- 3 tablespoons butter
 - 1/4 cup olive oil
 - 4 cloves of garlic
 - 8 cups vegetable stock
@@ -37,20 +37,20 @@ key_ingredients:
 - 1 tablespoon flat leaf parsley, chopped
 - 4 tablespoons cold butter
 - 1/2 cup Parmesan, finely grated
-- 4 tbsp butter
-- 2 tbsp olive oil
+- 4 tablespoons butter
+- 2 tablespoons olive oil
 - 20 fresh sage leaves
 
 ## Method
 
-1. Preheat the oven to 200°C. Now cut the butternut into 2cm cube pieces. Add to a roasting pan, dot with the butter, drizzle with olive oil. Now add the finely chopped thyme, salt, pepper and the whole pieces of garlic.
+1. Preheat the oven to 200°C. Now cut the butternut into 2 centimetres cube pieces. Add to a roasting pan, dot with the butter, drizzle with olive oil. Now add the finely chopped thyme, salt, pepper and the whole pieces of garlic.
 2. Bake the butternut in the centre of the oven for 30-40 minutes, until it is charred and caramelised.
 3. Heat the oil in a large saucepan over medium heat; add onion, carrot and celery and season with salt and pepper; add some of the roasted garlic from the butternut, and cook until slightly translucent. Cook until the vegetable mix has cooked and softened but not browned.
 4. Now add a third of the roasted butternut, and stir to coat with oil. Cook for one minute.
 5. Add the rice and stir to coat with the oil; season with salt and pepper and cook until slightly translucent.
 6. The rice should be hot and sizzling; you should stir carefully to ensure it does not stick.
 7. Add wine to the hot rice, the liquid should hiss and be quickly absorbed. Stir gently until almost all the liquid has cooked off. Add hot stock and broth mixture, a ladleful at a time, completely stirring in the liquid each time. Remember at this stage you are trying to coax the starches out of the rice by gently and continuously stirring.
-8. Keep adding broth as needed so there is always a 1/2cm liquid layer over the rice.
+8. Keep adding broth as needed so there is always a 1/2 centimetre liquid layer over the rice.
 9. After about 8 minutes add another third of the roasted butternut.
 10. After 15 to 20 minutes, the rice should be close to al dente.
 11. At this stage add the remaining butternut and stir to combine well.

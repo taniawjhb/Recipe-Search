@@ -23,22 +23,22 @@ key_ingredients:
 
 ## Ingredients
 
-- 2 tbsp olive oil
+- 2 tablespoons olive oil
 - 1 small onion, roughly chopped
 - 1 garlic clove, crushed
-- 410g can cannellini beans, drained and rinsed
-- 75ml fresh chicken stock, hot
-- 2 tbsp extra-virgin olive oil
+- 410 grams can cannellini beans, drained and rinsed
+- 75 millilitres fresh chicken stock, hot
+- 2 tablespoons extra-virgin olive oil
 - Good squeeze of lemon juice
-- 1 fat baguette, cut into 32 slices about 1cm thick
+- 1 fat baguette, cut into 32 slices about 1 centimetre thick
 
 ### For the black olive relish
 
-- 50g can anchovies in olive oil, drained and chopped
+- 50 grams can anchovies in olive oil, drained and chopped
 - Small handful fresh flat-leaf parsley, leaves finely chopped
-- 4 tbsp extra-virgin olive oil
-- 50g good-quality pitted black olives, such as Kalamata, chopped
-- 1 tbsp lemon juice
+- 4 tablespoons extra-virgin olive oil
+- 50 grams good-quality pitted black olives, such as Kalamata, chopped
+- 1 tablespoon lemon juice
 
 ## Method
 

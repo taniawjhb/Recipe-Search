@@ -20,12 +20,12 @@ key_ingredients:
 
 ## Ingredients
 
-- 200 ml double cream
-- 700 ml whole milk
+- 200 millilitres double cream
+- 700 millilitres whole milk
 - 4 large egg yolks
-- 3 tbsp cornflour
-- 50 g caster sugar
-- 1 tsp vanilla extract
+- 3 tablespoons cornflour
+- 50 grams caster sugar
+- 1 teaspoon vanilla extract
 
 ## Method
 

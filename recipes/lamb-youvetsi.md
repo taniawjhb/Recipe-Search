@@ -24,20 +24,20 @@ key_ingredients:
 
 ## Ingredients
 
-- 900 g beef or lamb stew meat (beef chuck or lamb shoulder probably best)
+- 900 grams beef or lamb stew meat (beef chuck or lamb shoulder probably best)
 - salt and pepper
 - 2 tablespoons olive oil, or a little more as needed
 - 1 onion
 - 3 cloves garlic
-- ½ cup red wine
+- 1/2 cup red wine
 - 1 can chopped tomatoes
 - 2 teaspoons tomato paste/puree
 - 1 teaspoon cinnamon
-- ½ teaspoon nutmeg
+- 1/2 teaspoon nutmeg
 - 1 teaspoon sugar
 - 2 cups light stock e.g. chicken/vegetable
-- 1 ½ cups orzo
-- ½ cup grated kefalotyri (approx), or parmesan/pecorino
+- 1 1/2 cups orzo
+- 1/2 cup grated kefalotyri (approx), or parmesan/pecorino
 
 ## Method
 

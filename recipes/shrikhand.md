@@ -22,7 +22,7 @@ key_ingredients:
 
 - 1 1/2 cups thick greek yogurt
 - 1 pinch saffron strands
-- 1/4 to 1/2 tsp green cardamom powder (3 to 4 cardamom pods)
+- 1/4 to 1/2 teaspoon green cardamom powder (3 to 4 cardamom pods)
 - 1/4 cup sugar - powdered (use as needed)
 - 2 tbsps almonds, chopped
 - 1 tbsps pistachios, chopped (optional)
@@ -35,7 +35,7 @@ key_ingredients:
 4. Place the bundle of yogurt over the strainer/colander with the tall bowl beneath. Place a heavy object over the yogurt so all of the whey drains to the bowl beneath. Ensure the colander does not touch the drained whey.
 5. Transfer this to the refrigerator and leave it for 15 to 18 hours.
 6. The drained super thick hung curd (chakka) will be ready after the whey has been drained completely.
-7. Soak saffron in 1 tbsp hot water or hot milk.
+7. Soak saffron in 1 tablespoon hot water or hot milk.
 8. Powder the sugar and set aside. If you do not have cardamom powder, add the cardamom pods to the grinder along with sugar and grind to a fine powder.
 9. Remove strained yogurt/chakka from the cloth and transfer to a mixing bowl.
 10. Add saffron infused milk, powdered sugar and cardamom powder.

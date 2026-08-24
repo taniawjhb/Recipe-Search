@@ -19,10 +19,10 @@ key_ingredients:
 
 ## Ingredients
 
-- 400g fresh strawberries
-- 150g granulated sugar
-- 250ml whole milk
-- 250ml heavy cream
+- 400 grams fresh strawberries
+- 150 grams granulated sugar
+- 250 millilitres whole milk
+- 250 millilitres heavy cream
 
 ## Method
 

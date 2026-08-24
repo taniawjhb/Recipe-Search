@@ -24,7 +24,7 @@ key_ingredients:
 
 - 4 red bell peppers
 - 1/4 cup extra-virgin olive oil
-- 2 tbsp red wine vinegar
+- 2 tablespoons red wine vinegar
 - 2 garlic cloves, peeled
 - 2 cups crumbled feta cheese
 - 1-2 red chili (optional)

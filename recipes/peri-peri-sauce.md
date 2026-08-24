@@ -25,10 +25,10 @@ key_ingredients:
 - 1/2 cup white vinegar
 - 1/2 cup freshly squeezed lemon juice
 - 1/2 cup olive oil
-- 2 tbsp chili powder
-- 2 tbsp paprika
-- 2 tbsp salt
-- 2 tbsp chopped garlic
+- 2 tablespoons chili powder
+- 2 tablespoons paprika
+- 2 tablespoons salt
+- 2 tablespoons chopped garlic
 - 5-10 bird's eye chillies, minced
 
 ## Method

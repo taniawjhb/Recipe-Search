@@ -22,17 +22,17 @@ key_ingredients:
 
 ## Ingredients
 
-- 770g Red Delicious apples
+- 770 grams Red Delicious apples
 - 3 eggs at room temperature
-- 290g 00 flour
-- 100g butter
-- 50g potato starch
-- 150g sugar
+- 290 grams 00 flour
+- 100 grams butter
+- 50 grams potato starch
+- 150 grams sugar
 - Cinnamon powder to taste
-- 100g whole milk at room temperature
-- 16g baking powder
-- 1 tsp vanilla
-- Juice of ½ lemon
+- 100 grams whole milk at room temperature
+- 16 grams baking powder
+- 1 teaspoon vanilla
+- Juice of 1/2 lemon
 
 ## Method
 
@@ -40,5 +40,5 @@ key_ingredients:
 2. Melt the butter, cut into cubes, in the microwave for 30 seconds, or in a saucepan over very low heat. Let it cool. While it is cooling combine the flour, baking powder, potato starch and cinnamon in a bowl and whisk to combine. Add the eggs and sugar in a bowl and whisk until well combined - about two minutes, then add the melted butter and whisk to combine.
 3. Now add half the dry ingredients and whisk until just combined followed by half the milk, repeat until ingredients are finished.
 4. When it's ready, add two thirds of the apples to the batter mixture and stir gently until well combined.
-5. Pour the mixture into a greased and floured cake tin, preferably a 22cm diameter springform cake tin. Then level it and sprinkle the remaining apples on top.
+5. Pour the mixture into a greased and floured cake tin, preferably a 22 centimetres diameter springform cake tin. Then level it and sprinkle the remaining apples on top.
 6. Bake in a preheated oven at 180°C for 55 minutes. Test with a toothpick to see if it's cooked through before removing from the oven. Let the apple pie cool completely before unmolding and serving.

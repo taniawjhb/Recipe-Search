@@ -23,14 +23,14 @@ key_ingredients:
 ## Ingredients
 
 - 1 large eggplant
-- 1⁄4 cup tahini
+- 1/4 cup tahini
 - 3 garlic cloves
-- 1⁄4 cup fresh lemon juice
+- 1/4 cup fresh lemon juice
 - 1 pinch ground cumin
 - Salt, to taste
 - 1 tablespoon extra virgin olive oil
 - 1 tablespoon fresh flat-leaf parsley
-- 1⁄4 cup brine-cured black olives, such as kalamata
+- 1/4 cup brine-cured black olives, such as kalamata
 
 ## Method
 

@@ -35,7 +35,7 @@ key_ingredients:
 - 1 teaspoon salt
 - 1/2 cup soy sauce
 - 1 tablespoon vegetable oil
-- Two 1,5kg chickens, quartered
+- Two 1,5 kilograms chickens, quartered
 
 ## Method
 

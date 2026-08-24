@@ -27,15 +27,15 @@ key_ingredients:
 - 1 onion, chopped
 - 2 carrots, peeled, chopped
 - 2 celery ribs, chopped
-- 90g thinly sliced pancetta, coarsely chopped
+- 90 grams thinly sliced pancetta, coarsely chopped
 - 2 garlic cloves, minced
-- 450g swiss chard, stems trimmed, leaves coarsely chopped
+- 450 grams swiss chard, stems trimmed, leaves coarsely chopped
 - 1 russet potato, peeled, cubed
 - 1 can diced tomatoes
 - 1 fresh rosemary sprig
 - 1 can cannellini beans, drained, rinsed
-- 500ml beef broth
-- 30g parmesan cheese rind
+- 500 millilitres beef broth
+- 30 grams parmesan cheese rind
 - 2 tablespoons chopped fresh Italian parsley
 - Salt and pepper
 

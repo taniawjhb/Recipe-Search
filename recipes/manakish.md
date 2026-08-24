@@ -21,14 +21,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 2 tsp active dry yeast
-- 300 ml water (warm)
-- 500 g flour
-- 2 tsp salt
-- 2 tsp sugar
-- 12 tbsp olive oil
-- 6 tbsp Za'atar
-- 300 g halloumi
+- 2 teaspoons active dry yeast
+- 300 millilitres water (warm)
+- 500 grams flour
+- 2 teaspoons salt
+- 2 teaspoons sugar
+- 12 tablespoons olive oil
+- 6 tablespoons Za'atar
+- 300 grams halloumi
 - Lemon (for serving)
 
 ## Method

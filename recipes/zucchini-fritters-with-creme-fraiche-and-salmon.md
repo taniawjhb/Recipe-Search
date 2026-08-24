@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 500 g zucchini, grated
+- 500 grams zucchini, grated
 - 2 spring onions, only the green part, thinly sliced
 - 1 bunch of mint, only the leaves, finely chopped
 - 1/3 bunch of dill, finely chopped
@@ -29,11 +29,11 @@ key_ingredients:
 - grated zest of 2 limes
 - 1 levelled teaspoon ground cumin
 - 2 pinches chili flakes
-- 200 g feta cheese, crumbled
+- 200 grams feta cheese, crumbled
 - 2 eggs
-- 80 g all-purpose flour
+- 80 grams all-purpose flour
 - 2-3 tablespoons olive oil
-- 125ml crème fraiche
+- 125 millilitres crème fraiche
 - Salt
 - pepper
 - 150gms smoked salmon

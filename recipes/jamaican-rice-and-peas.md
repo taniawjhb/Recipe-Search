@@ -23,14 +23,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 2 tbsp olive oil
+- 2 tablespoons olive oil
 - 1 large onion, diced
 - 4 cloves garlic, minced
-- 1 tsp fresh ginger, grated
-- 1 tsp fresh thyme, chopped
-- 1 tsp salt
-- 1 tsp freshly ground black pepper
-- 1/2 tsp ground allspice
+- 1 teaspoon fresh ginger, grated
+- 1 teaspoon fresh thyme, chopped
+- 1 teaspoon salt
+- 1 teaspoon freshly ground black pepper
+- 1/2 teaspoon ground allspice
 - 1 Scotch bonnet chile (or Habanero), diced
 - 1.75 cups water (or low-sodium chicken stock)
 - 1 (13.5 ounce) can full-fat coconut milk

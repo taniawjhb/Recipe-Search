@@ -22,12 +22,12 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g fresh spinach
-- 8 tbsp olive oil
-- 1-2 tbsp white wine vinegar
+- 500 grams fresh spinach
+- 8 tablespoons olive oil
+- 1-2 tablespoons white wine vinegar
 - 2 cloves garlic, finely chopped
 - Half cup milk
-- 1 tbsp flour
+- 1 tablespoon flour
 - Salt to taste
 - Pinch nutmeg
 

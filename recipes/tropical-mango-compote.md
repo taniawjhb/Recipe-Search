@@ -20,7 +20,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 250g mango chunks fresh or frozen
+- 250 grams mango chunks fresh or frozen
 - 1 tablespoon light brown sugar
 - Pulp of 2 or 3 passion fruit, depending on size
 - juice of 1/2 lime

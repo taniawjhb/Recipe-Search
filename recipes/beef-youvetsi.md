@@ -24,12 +24,12 @@ key_ingredients:
 
 ## Ingredients
 
-- 900g beef chuck
+- 900 grams beef chuck
 - Salt and pepper
 - 2 tablespoons olive oil, or a little more as needed
 - 1 onion
 - 3 cloves garlic
-- ½ cup red wine
+- 1/2 cup red wine
 - 1 can chopped tomatoes
 - 2 teaspoons tomato paste puree
 - 2 teaspoons cinnamon
@@ -37,8 +37,8 @@ key_ingredients:
 - 1 teaspoon sugar
 - 1/2 teaspoon ground cloves
 - 2 cups chicken stock
-- 1 ½ cups orzo
-- ½ cup grated kefalotyri (approx), or parmesan/pecorino
+- 1 1/2 cups orzo
+- 1/2 cup grated kefalotyri (approx), or parmesan/pecorino
 
 ## Method
 

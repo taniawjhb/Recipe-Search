@@ -21,20 +21,20 @@ key_ingredients:
 
 ## Ingredients
 
-- 250g boiled bacalhau
-- 300g potatoes, boiled with skin on
-- 2 tbsp milk
+- 250 grams boiled bacalhau
+- 300 grams potatoes, boiled with skin on
+- 2 tablespoons milk
 - 2 eggs
 - 1 onion, finely chopped
 - Half cup chopped parsley
-- 1 tsp paprika
+- 1 teaspoon paprika
 - Black pepper & salt to taste
 - Finely sliced red chilli (optional)
 
 ## Method
 
 1. Take your frozen bacalhau and submerge in water for 2-3 days (depending on flavour), changing the water half-daily.
-2. Put your potatoes on to boil for 35 min with skin on. Then boil the bacalhau in water for 15-20 minutes (depending on size), adding 1 bay leaf to the water (this helps with surviving the smell).
+2. Put your potatoes on to boil for 35 minutes with skin on. Then boil the bacalhau in water for 15-20 minutes (depending on size), adding 1 bay leaf to the water (this helps with surviving the smell).
 3. Once boiled, remove skin and ALL bones, then shred the fish into tiny fibres using a pestle and mortar (it's quite a task, but worth it as my mom always said).
 4. Peel your cooked potatoes, then mash them. DO NOT USE A FOOD PROCESSOR.
 5. Add your shredded fish, potatoes, chopped parsley, diced onion, paprika and chilli then stir well. Add your eggs one at a time, stirring as you do.

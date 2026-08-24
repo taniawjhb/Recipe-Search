@@ -22,18 +22,18 @@ key_ingredients:
 
 ## Ingredients
 
-- 1.2 kg roasting potatoes
+- 1.2 kilograms roasting potatoes
 - 1 1/2 cups chicken stock/broth
 - 1/2 cup olive oil
 - 1/3 cup lemon juice
 - 5 garlic cloves, finely grated using microplane or pasted
-- 1 tbsp dried oregano
-- 2 tsp salt
+- 1 tablespoon dried oregano
+- 2 teaspoons salt
 
 ## Method
 
 1. Preheat oven to 200°C or 180°C fan.
-2. Peel potatoes and cut large ones into thick wedges – about 3cm thick.
+2. Peel potatoes and cut large ones into thick wedges – about 3 centimetres thick.
 3. Place potatoes in a roasting pan with all the other ingredients. Toss well.
 4. Roast for 20 minutes. Turn potatoes, roast for a further 25 to 30 minutes until the liquid is mostly absorbed by the potatoes/evaporated and you're left with mainly oil in the pan.
 5. Optional: Transfer potatoes to a separate tray. Tilt the original roasting pan and scoop off as much of the oil as you can (some juices is ok), then drizzle over the potatoes.

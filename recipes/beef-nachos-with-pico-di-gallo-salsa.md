@@ -32,7 +32,7 @@ key_ingredients:
 
 ### Beef
 
-- 500g beef mince
+- 500 grams beef mince
 - 2-3 cloves garlic, chopped
 - 1 onion, chopped
 - 1 jalapeno pepper, seeded and chopped
@@ -40,7 +40,7 @@ key_ingredients:
 - 2 teaspoons dark chili powder
 - 2 teaspoons ground cumin
 - 2 teaspoons paprika
-- 1 can black beans, 400g, drained
+- 1 can black beans, 400 grams, drained
 - 1-2 cups cooked tomato sauce (sub for canned chopped tomato and extend cook time)
 
 ### Cheese Sauce
@@ -48,7 +48,7 @@ key_ingredients:
 - 2 tablespoons butter
 - 2 tablespoons all-purpose flour
 - 1 1/2 - 2 cups milk
-- 300g gouda, shredded, about 2 1/2 cups
+- 300 grams gouda, shredded, about 2 1/2 cups
 - 2 varieties of corn chips, for serving
 
 ## Method

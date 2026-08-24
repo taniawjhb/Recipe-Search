@@ -23,7 +23,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 60g dried porcini mushrooms
+- 60 grams dried porcini mushrooms
 - 8 cups chicken stock
 - 1/4 cup olive oil
 - 1 medium onion, diced
@@ -46,7 +46,7 @@ key_ingredients:
 5. Add the rice and stir to coat with the oil; season with salt and pepper and cook until slightly translucent.
 6. The rice should be hot and sizzling, you should stir carefully to ensure it does not stick.
 7. Add wine to the hot rice, the liquid should hiss and be quickly absorbed. Stir gently until almost all the liquid has cooked off. Add hot stock and broth mixture, a ladleful at a time, completely stirring in the liquid each time. At this stage you are trying to coax the starches out the rice by gently and continuously stirring.
-8. Keep adding broth as needed so there is always a 1/2cm liquid layer over the rice.
+8. Keep adding broth as needed so there is always a 1/2 centimetre liquid layer over the rice.
 9. After about 8 minutes add the balance of the soaked mushrooms.
 10. After 15 to 20 minutes, the rice should be close to al dente.
 11. If you are adding pan fried fresh mushrooms, stir them in at this stage and combine well.

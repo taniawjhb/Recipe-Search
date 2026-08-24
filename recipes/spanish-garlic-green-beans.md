@@ -20,11 +20,11 @@ key_ingredients:
 
 ## Ingredients
 
-- 2 tbsp extra virgin olive oil
-- 450g green beans
+- 2 tablespoons extra virgin olive oil
+- 450 grams green beans
 - 5 cloves garlic, roughly chopped
-- 2 tbsp chopped fresh parsley
-- 1/2 tbsp sherry vinegar
+- 2 tablespoons chopped fresh parsley
+- 1/2 tablespoon sherry vinegar
 - pinch sea salt
 - dash black pepper
 

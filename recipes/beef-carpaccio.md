@@ -24,16 +24,16 @@ key_ingredients:
 
 - 700gms beef fillet
 - 45gms black peppercorns
-- 4 tbsp fresh thyme leaves
+- 4 tablespoons fresh thyme leaves
 - 3 lemons
-- 100g parmesan
+- 100 grams parmesan
 - 150gms wild rocket leaves
 - Extra virgin olive oil as needed
 
 ## Method
 
-1. Roughly crush the black pepper and 1 tbsp salt in a mortar, place in a single layer on a chopping board.
+1. Roughly crush the black pepper and 1 tablespoon salt in a mortar, place in a single layer on a chopping board.
 2. Preheat a grill or a pan to very hot. Roll the fillet in the salt and pepper mix, then briefly grill, turning continuously to blacken the outsides, but making sure that the centre remains raw. Remove and place in fridge.
-3. Slice the cold fillet into 1/2cm slices on a board. Using a large pointed cooking knife, press and spread the slices to make them thin and lacy. The grilled edges will hold the pieces together.
+3. Slice the cold fillet into 1/2 centimetre slices on a board. Using a large pointed cooking knife, press and spread the slices to make them thin and lacy. The grilled edges will hold the pieces together.
 4. To make the thyme salmoriglio, pound 4 level tablespoons fresh thyme with 1 teaspoon sea salt until completely crushed. Add 2 tablespoons lemon juice. Pour 8 tablespoons extra virgin olive oil slowly into the mixture. Add a little freshly ground black pepper.
 5. Spread out the slices on the plate, and spoon over the thyme sauce. Lightly toss the rocket leaves with the oil and lemon dressing.

@@ -22,7 +22,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 450g kingklip / tuna fillet
+- 450 grams kingklip / tuna fillet
 - 2 large juicy lemons
 - 1/2 large tomato
 - 1 shallot

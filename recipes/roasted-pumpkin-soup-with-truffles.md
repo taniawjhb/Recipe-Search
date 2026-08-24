@@ -22,18 +22,18 @@ key_ingredients:
 
 ## Ingredients
 
-- 1.5kg pumpkin
+- 1.5 kilograms pumpkin
 - Sea salt and freshly ground black pepper
 - 1 head of garlic, cut in half horizontally
 - Handful of rosemary sprigs
 - Olive oil, to drizzle
-- 1 1/2 tbsp olive oil
+- 1 1/2 tablespoons olive oil
 - 1 onion, peeled and chopped
 - Pinch of freshly grated nutmeg
-- 30g Parmesan, freshly grated
-- 800ml hot chicken stock
-- 100ml double cream
-- 15g butter
+- 30 grams Parmesan, freshly grated
+- 800 millilitres hot chicken stock
+- 100 millilitres double cream
+- 15 grams butter
 - Black truffle paste, to serve
 - Shaved parmesan, to serve
 

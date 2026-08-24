@@ -21,13 +21,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 150g smoked bacon, cut into cubes
-- 150-200ml cream
+- 150 grams smoked bacon, cut into cubes
+- 150-200 millilitres cream
 - 1/2 onion, sliced
 - 1 glass of red wine (preferably Sagrantino DOP Umbria)
 - 3 tablespoons extra virgin olive oil
 - Salt to taste
-- 50g Parmigiano Reggiano DOP, grated
+- 50 grams Parmigiano Reggiano DOP, grated
 
 ## Method
 

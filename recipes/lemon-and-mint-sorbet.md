@@ -24,7 +24,7 @@ key_ingredients:
 - 1 cup sugar
 - 8-10 mint sprigs, leaves & stems + a few more for decoration, washed
 - 2 teaspoons lemon zest
-- ½ cup lemon juice
+- 1/2 cup lemon juice
 
 ## Method
 

@@ -25,14 +25,14 @@ key_ingredients:
 ## Ingredients
 
 - 2 cups all-purpose flour
-- ½ cup granulated sugar
-- ½ teaspoon salt
+- 1/2 cup granulated sugar
+- 1/2 teaspoon salt
 - 1 cup (2 sticks) butter - chilled and cut into small cubes
 - 240gms cream cheese - softened
 - 2 cups granulated sugar
-- ¼ cup flour
-- ¾ cups fresh-squeezed lemon juice
-- ⅓ cup powdered sugar - plus more for topping
+- 1/4 cup flour
+- 3/4 cups fresh-squeezed lemon juice
+- 1/3 cup powdered sugar - plus more for topping
 - 1 cup blueberries
 - 6 large eggs
 - 1 teaspoon vanilla

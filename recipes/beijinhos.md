@@ -30,10 +30,10 @@ key_ingredients:
 
 1. Add the condensed milk, the butter, and the cream to a medium sauce pan and place it over medium heat until the butter melts.
 2. After the butter has melted, add half of the shredded coconut (1/2 cup) to the pan and stir.
-3. Continue to cook over medium heat, for approximately 10 mins, stirring repeatedly, scraping the sides and the bottom of the pan with a spatula to avoid burning.
-4. The beijinho is ready when you scrape the bottom of the pan and the mixture takes 2-3 seconds to come back to its place, or when the mixture reaches 99-104C – you can use a candy thermometer, or just a regular food thermometer, to check.
+3. Continue to cook over medium heat, for approximately 10 minutes, stirring repeatedly, scraping the sides and the bottom of the pan with a spatula to avoid burning.
+4. The beijinho is ready when you scrape the bottom of the pan and the mixture takes 2-3 seconds to come back to its place, or when the mixture reaches 99-104°C – you can use a candy thermometer, or just a regular food thermometer, to check.
 5. Pour the hot coconut mixture into a dish or plate, cover with plastic wrap to contact and let it cool – about 2 hours.
 6. Meanwhile, pour the remaining shredded coconut into a deep plate or bowl.
-7. When the beijinho mixture has cooled, butter your hands, and scoop 1/2 Tbsp to Tbsp portions and roll into little balls.
+7. When the beijinho mixture has cooled, butter your hands, and scoop 1/2 tablespoon to Tbsp portions and roll into little balls.
 8. Roll the little balls in the shredded coconut, and insert a whole clove into each little coconut ball to decorate, if desired.
 9. Keep them in a cool place or in the refrigerator until serving time.

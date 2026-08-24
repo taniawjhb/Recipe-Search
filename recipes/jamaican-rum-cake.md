@@ -52,7 +52,7 @@ key_ingredients:
 
 ## Method
 
-1. Preheat the oven to 325 degrees F. Spray a 12-cup bundt pan with nonstick cooking spray and dust with almond meal.
+1. Preheat the oven to 325°F. Spray a 12-cup bundt pan with nonstick cooking spray and dust with almond meal.
 2. With an electric mixer, beat 1/2 cup of softened butter with 1 1/2 cups of granulated sugar.
 3. In a separate bowl mix all the dry ingredients together, including the shredded coconut. Then beat the dry mixture into the butter mixture. It will be crumbly.
 4. Whisk the coconut milk, eggs, rum, extracts, and drained crushed pineapple together, and add to the mixer. Beat until combined.

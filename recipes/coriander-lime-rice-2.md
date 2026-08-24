@@ -34,6 +34,6 @@ key_ingredients:
 ## Method
 
 1. Rinse your rice in cold running water, until the water runs clear. Set aside and allow to drain nicely.
-2. In the pot you intend cooking the rice, add the olive oil and place over medium high heat. Once the oil is hot add the finely chopped garlic and allow to just start browning. Now add the rice and 1/2 tsp salt and fry, stirring continuously, until the rice just begins to get a little colour.
+2. In the pot you intend cooking the rice, add the olive oil and place over medium high heat. Once the oil is hot add the finely chopped garlic and allow to just start browning. Now add the rice and 1/2 teaspoon salt and fry, stirring continuously, until the rice just begins to get a little colour.
 3. To this add the boiling water, being careful as it will release a lot of steam. Immediately reduce the heat and allow the rice to simmer gently until cooked to your brand's timing. Test the rice from 1 minute before the recommended time. Once the rice is cooked but al dente, remove from the heat; most of the water should have been absorbed. If you have any excess water, partially cover the pot with the lid and drain the excess water.
 4. Fluff the rice with a fork. Add the finely chopped spring onions and lime zest and gently toss to combine. Let cool for 1 minute, then add the remaining 2 teaspoons of olive oil, 1/4 teaspoon salt, lime juice, cilantro, and red pepper flakes or jalapeño, if using. Stir to combine and season to taste.

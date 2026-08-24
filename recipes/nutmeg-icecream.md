@@ -33,6 +33,6 @@ key_ingredients:
 1. In a saucepan bring the milk and the cream just to a boil. Do not boil but turn off the heat as soon as it gets to boiling stage.
 2. In a bowl whisk together the eggs, the sugar, the nutmeg, the salt, and the vanilla.
 3. Whisk 1/2 cup of the milk mixture into the egg mixture, and whisk the mixture into the remaining milk mixture.
-4. Cook the custard over moderate heat, stirring constantly with a wooden spoon, until it registers 175 degrees F. on a candy thermometer.
+4. Cook the custard over moderate heat, stirring constantly with a wooden spoon, until it registers 175°F. on a candy thermometer.
 5. Transfer the custard to a metal bowl set in a larger bowl of ice and cold water and stir it until it is cold.
 6. Freeze the custard in an ice-cream maker according to the manufacturer's instructions.

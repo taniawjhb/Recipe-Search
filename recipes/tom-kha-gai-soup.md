@@ -24,19 +24,19 @@ key_ingredients:
 ## Ingredients
 
 - 1 tablespoon coconut oil
-- ½ of one onion, sliced
+- 1/2 of one onion, sliced
 - 2 cloves garlic, chopped
-- ½ of one red jalapeno pepper sliced, or a couple Thai chiles, halved
-- 3 ¼-inch slices galangal or ginger
+- 1/2 of one red jalapeno pepper sliced, or a couple Thai chiles, halved
+- 3 1/4-inch slices galangal or ginger
 - 1 lemongrass stalk, pounded with the side of a knife and cut into 2-inch long pieces
 - 2 teaspoons red Thai curry paste (optional)
 - 4 cups chicken stock
 - 4 cups canned coconut milk
 - 2 medium chicken breasts cut into bite-sized pieces / vegetarian or to use shrimp
-- 240g mushroom, sliced or torn
+- 240 grams mushroom, sliced or torn
 - 2-3 plum tomatoes, deseeded and roughly chopped
 - 1-2 tablespoons sugar
-- 1 ½ – 2 tablespoons fish sauce, plus more to taste
+- 1 1/2 – 2 tablespoons fish sauce, plus more to taste
 - 2-3 tablespoons fresh lime juice
 - 2-3 green onions, sliced thin
 - fresh cilantro, chopped, for garnish

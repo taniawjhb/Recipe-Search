@@ -23,7 +23,7 @@ key_ingredients:
 
 - 1/2 cup red onion, chopped
 - 1/4 cup lemon juice
-- 1 300g box couscous, about 1 1/3 cups
+- 300 grams couscous, about 1 1/3 cups
 - 2 tablespoons extra virgin olive oil, divided
 - 1 teaspoon salt, plus more to taste
 - 1/2 cup shelled raw pistachios (optional)

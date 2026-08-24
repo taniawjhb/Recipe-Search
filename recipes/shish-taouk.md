@@ -25,7 +25,7 @@ key_ingredients:
 - 1 cup whole-milk Greek yogurt
 - 2 tablespoons freshly squeezed lemon juice, or more to taste
 - 2 tablespoons olive oil
-- 2 tbsp tomato paste
+- 2 tablespoons tomato paste
 - 6 cloves garlic, minced
 - 1 tablespoon red pepper flakes
 - 1/2 tablespoon salt

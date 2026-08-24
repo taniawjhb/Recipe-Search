@@ -24,15 +24,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g ground beef
-- 200g ground pork
+- 500 grams ground beef
+- 200 grams ground pork
 - 1 large red onion, grated
 - 1 clove of garlic, minced
 - 1 cup breadcrumbs
 - 1 egg
 - 1/4 cup chopped fresh parsley
 - 6-7 leaves fresh mint (chopped)
-- 2 tbsp olive oil
+- 2 tablespoons olive oil
 - 1/2 teaspoon oregano
 - Salt and pepper
 - Oil for frying

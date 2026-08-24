@@ -26,12 +26,12 @@ key_ingredients:
 - 2 tablespoons butter
 - 2 tomatoes, seeded and chopped
 - 1 tablespoon garlic, pressed or minced
-- ½ tablespoon ginger, grated
+- 1/2 tablespoon ginger, grated
 - 1 can lite coconut milk
 - 2 tablespoons Thai red curry paste
-- ¼ cup fresh cilantro, chopped
-- 1kg mussels, debearded and scrubbed (about 30 mussels)
-- ¼ cup Thai basil leaves
+- 1/4 cup fresh cilantro, chopped
+- 1 kilogram mussels, debearded and scrubbed (about 30 mussels)
+- 1/4 cup Thai basil leaves
 - 1 tablespoon Thai fish sauce
 - 1 tablespoon lime juice
 - French bread for dipping (optional)

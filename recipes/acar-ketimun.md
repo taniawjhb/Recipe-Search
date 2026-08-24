@@ -21,7 +21,7 @@ key_ingredients:
 ## Ingredients
 
 - 2 cucumbers
-- 100 ml vinegar
+- 100 millilitres vinegar
 - 1 red chilli
 - 2 shallots
 - 1 tablespoon sugar

@@ -23,7 +23,7 @@ key_ingredients:
 
 - 1 tablespoon butter
 - 3/4 cup almonds, blanched and slivered
-- 450g baby spinach, rinsed and torn into bite-size pieces
+- 450 grams baby spinach, rinsed and torn into bite-size pieces
 - 1 cup dried cranberries
 - 2 tablespoons toasted sesame seeds
 - 1 tablespoon poppy seeds

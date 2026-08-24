@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g assorted cherry tomatoes
+- 500 grams assorted cherry tomatoes
 - 1 tablespoon extra-virgin olive oil
 - 12 to 15 garlic cloves, peeled
 - Zest of 1 lemon
@@ -29,7 +29,7 @@ key_ingredients:
 - Coarse salt
 - Cracked black pepper
 - 1/2 cup loosely packed basil leaves, torn into halves and thirds
-- 800g white fleshed fish, like kingklip, filleted
+- 800 grams white fleshed fish, like kingklip, filleted
 
 ## Method
 

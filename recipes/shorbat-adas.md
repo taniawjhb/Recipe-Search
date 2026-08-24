@@ -27,10 +27,10 @@ key_ingredients:
 - 1 cup carrots, chopped
 - 1 onion, chopped
 - 2 garlic cloves, chopped
-- 1 tbsp olive oil
+- 1 tablespoon olive oil
 - Salt & pepper to taste
-- 1 tsp cumin
-- 1/2 tsp turmeric
+- 1 teaspoon cumin
+- 1/2 teaspoon turmeric
 
 ## Method
 

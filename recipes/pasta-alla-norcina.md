@@ -27,12 +27,12 @@ key_ingredients:
 - 1 small onion
 - 240gms fresh mushrooms
 - 2 cloves garlic
-- 2 tbsp olive oil
+- 2 tablespoons olive oil
 - 1 cup dry white wine
 - Salt & pepper
 - Pinch red chili flakes (optional)
 - 1 1/2 cups heavy cream
-- 500g pasta (rigatoni/penne)
+- 500 grams pasta (rigatoni/penne)
 
 ### To serve
 

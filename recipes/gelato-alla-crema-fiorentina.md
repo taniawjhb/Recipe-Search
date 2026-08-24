@@ -24,13 +24,13 @@ key_ingredients:
 
 ### For the Custard
 
-- 275g milk
-- 135g cream
+- 275 grams milk
+- 135 grams cream
 - 3 egg yolks
-- 90g sugar
-- 1/2 tsp vanilla
-- 40g dried amaretti cookies
-- 1 tsp almond extract
+- 90 grams sugar
+- 1/2 teaspoon vanilla
+- 40 grams dried amaretti cookies
+- 1 teaspoon almond extract
 
 ## Method
 

@@ -21,9 +21,9 @@ key_ingredients:
 
 ## Ingredients
 
-- 250g bacon slices
+- 250 grams bacon slices
 - 20 pearl onions, peeled, or 1 large yellow onion, sliced
-- 1.5kg chicken thighs and legs, excess fat trimmed, skin on
+- 1.5 kilograms chicken thighs and legs, excess fat trimmed, skin on
 - 6 garlic cloves, peeled
 - Salt and pepper to taste
 - 2 cups chicken stock
@@ -31,8 +31,8 @@ key_ingredients:
 - 2 bay leaves
 - Several fresh thyme sprigs
 - Several fresh parsley sprigs
-- 250g button mushrooms, trimmed and roughly chopped
-- 2 tbsp butter
+- 250 grams button mushrooms, trimmed and roughly chopped
+- 2 tablespoons butter
 - Chopped fresh parsley for garnish
 
 ## Method

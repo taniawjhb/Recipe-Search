@@ -25,15 +25,15 @@ key_ingredients:
 
 - 2 dried red chillies, soaked in boiling water, drained, chopped
 - 3 garlic cloves, chopped
-- 1 tablespoon grated fresh turmeric or 1 tsp dried turmeric
+- 1 tablespoon grated fresh turmeric or 1 teaspoon dried turmeric
 - 2 tablespoons grated galangal/ginger
 - 2 lemongrass stems (inner core only), grated
 - 2 eschalots, chopped
 - Finely grated zest of 1 lime
-- 2 tsp shrimp paste
-- ¼ cup (65g) grated palm sugar
+- 2 teaspoons shrimp paste
+- 1/4 cup (65 grams) grated palm sugar
 - 6 lime leaves, finely shredded
-- 400ml coconut milk
+- 400 millilitres coconut milk
 - 20 prawns, unpeeled, deveined
 - 1 long red chilli, thinly sliced
 - Steamed rice, to serve

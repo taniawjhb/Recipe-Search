@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 700g ground beef
+- 700 grams ground beef
 - Salt and freshly ground black pepper to taste
 - 1 cup parsley/thyme/sage leaves, finely minced
 - 2 minced garlic cloves

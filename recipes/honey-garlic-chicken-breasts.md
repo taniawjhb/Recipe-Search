@@ -21,20 +21,20 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g chicken breast, boneless and skinless
+- 500 grams chicken breast, boneless and skinless
 - Salt and pepper
-- 60 g flour
-- 50g unsalted butter (or 2 1/2 tbsp olive oil)
+- 60 grams flour
+- 50 grams unsalted butter (or 2 1/2 tablespoons olive oil)
 - 2 garlic cloves, minced
-- 1.5 tbsp apple cider vinegar (or white or other clear vinegar)
-- 1 tbsp soy sauce, light or all purpose
-- 90 g honey
+- 1.5 tablespoons apple cider vinegar (or white or other clear vinegar)
+- 1 tablespoon soy sauce, light or all purpose
+- 90 grams honey
 
 ## Method
 
 1. Cut the breasts in half horizontally to create 4 steaks in total. Sprinkle each side with salt and pepper.
 2. Place flour in a shallow dish. Coat chicken in flour and shake off excess.
-3. Melt most of the butter in a large skillet over high heat – hold back about 1 tsp for later.
+3. Melt most of the butter in a large skillet over high heat – hold back about 1 teaspoon for later.
 4. Place chicken in skillet and cook for 2 – 3 minutes until golden. Turn and cook the other side for 1 minute.
 5. Turn heat down slightly to medium high.
 6. Make a bit of room in the pan and add garlic and top with remaining dab of butter. Stir garlic briefly once butter melts.

@@ -21,13 +21,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 kg prawns
-- 100 ml extra virgin olive oil
+- 1 kilogram prawns
+- 100 millilitres extra virgin olive oil
 - 4 cloves garlic, finely pasted
 - 1 tablespoon chopped parsley
-- 2 tsp chili powder
-- 2 tsp paprika
-- 60ml white wine
+- 2 teaspoons chili powder
+- 2 teaspoons paprika
+- 60 millilitres white wine
 - Salt and pepper to taste
 
 ## Method

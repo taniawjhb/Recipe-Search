@@ -26,17 +26,17 @@ key_ingredients:
 
 - 6 dried red chilli, soaked and finely chopped
 - 1 slice galangal/ginger (or both)
-- ⅔ of a stalk of lemongrass
+- 2/3 of a stalk of lemongrass
 - 2 shallots
 - Zest of 2 limes
 - 2 Makrut lime leaves
 - 2 cloves garlic
-- ½ tsp dry turmeric
-- ½ tsp roasted coriander seed
-- 1 tsp crushed, roasted peanuts
-- 1 tsp peanut butter
-- 2 tsp salt
-- ½ tsp shrimp paste
+- 1/2 teaspoon dry turmeric
+- 1/2 teaspoon roasted coriander seed
+- 1 teaspoon crushed, roasted peanuts
+- 1 teaspoon peanut butter
+- 2 teaspoons salt
+- 1/2 teaspoon shrimp paste
 
 ## Method
 

@@ -23,11 +23,11 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g chickpeas in brine
-- 300g fresh spinach, washed
+- 500 grams chickpeas in brine
+- 300 grams fresh spinach, washed
 - 2 thick slices of day old bread (sourdough works well), crusts removed and cut into cubes
 - 15 blanched unsalted almonds
-- ¼ cup tomato sauce
+- 1/4 cup tomato sauce
 - 3 garlic cloves, chopped
 - Extra virgin olive oil
 - 2 tablespoons sherry vinegar (or red wine vinegar if sherry vinegar is hard to come by)

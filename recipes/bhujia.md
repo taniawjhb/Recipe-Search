@@ -24,13 +24,13 @@ key_ingredients:
 ## Ingredients
 
 - 1 1/2 cups chickpea flour
-- ½ cup self raising flour
-- 1 tsp baking powder
-- 1 tsp coriander powder
-- 1 tsp cumin powder
-- ¼ tsp turmeric
-- 1 tsp salt
-- 1-2 tsp red chilli flakes (depending how hot you like it)
+- 1/2 cup self raising flour
+- 1 teaspoon baking powder
+- 1 teaspoon coriander powder
+- 1 teaspoon cumin powder
+- 1/4 teaspoon turmeric
+- 1 teaspoon salt
+- 1-2 teaspoons red chilli flakes (depending how hot you like it)
 - 1 large potato, coarsely grated
 - 1 large onion, coarsely grated
 - 2 handfuls finely shredded spinach leaves

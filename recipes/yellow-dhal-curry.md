@@ -23,19 +23,19 @@ key_ingredients:
 
 ## Ingredients
 
-- 4 tbsp butter
-- 1 tsp black mustard seed
-- 4 tsp cumin seed
+- 4 tablespoons butter
+- 1 teaspoon black mustard seed
+- 4 teaspoons cumin seed
 - 4 dried red chilli
 - 10-15 curry leaf
 - 2 bay leaf
 - 2 cinnamon sticks
-- 2 tsp crushed garlic
+- 2 teaspoons crushed garlic
 - 2 medium onions, chopped
 - 2 medium tomatoes, chopped
-- 1 tsp turmeric
-- 2 tsp curry powder
-- 2 tbsp chopped coriander
+- 1 teaspoon turmeric
+- 2 teaspoons curry powder
+- 2 tablespoons chopped coriander
 - 800gms cooked dhal
 
 ## Method

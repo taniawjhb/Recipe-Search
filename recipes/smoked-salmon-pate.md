@@ -22,9 +22,9 @@ key_ingredients:
 
 ## Ingredients
 
-- 150g smoked salmon, trimmings are fine
-- 200g tub cream cheese
-- 1 tbsp crème fraîche
+- 150 grams smoked salmon, trimmings are fine
+- 200 grams tub cream cheese
+- 1 tablespoon crème fraîche
 - juice of half a lemon
 - Pinch of finely zested lemon rind
 - small bunch dill, finely chopped

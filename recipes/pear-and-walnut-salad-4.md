@@ -22,16 +22,16 @@ key_ingredients:
 
 ### Salad
 
-- 200g mixed lettuce (arugula, romaine, etc.)
+- 200 grams mixed lettuce (arugula, romaine, etc.)
 - 1 ripe pear - unpeeled, cored, sliced
-- 55g walnuts, roughly chopped
-- 55g Pecorino Romano cheese, shaved
+- 55 grams walnuts, roughly chopped
+- 55 grams Pecorino Romano cheese, shaved
 
 ### Vinaigrette
 
 - 2 tablespoons white wine vinegar
 - 1/2 teaspoon mustard
-- 1/2 tsp finely minced garlic
+- 1/2 teaspoon finely minced garlic
 - 6 tablespoons olive oil
 
 ## Method

@@ -24,21 +24,21 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 kg fresh spinach, washed, dried, trimmed, and coarsely chopped
-- 3 Tbs. extra-virgin olive oil
-- 1 bunch scallions (about 3 oz. or 10 small), white and light-green parts only, trimmed and finely chopped
-- 2 cups crumbled feta cheese (10 oz.)
+- 1 kilogram fresh spinach, washed, dried, trimmed, and coarsely chopped
+- 3 tablespoons. extra-virgin olive oil
+- 1 bunch scallions (about 3 ounces. or 10 small), white and light-green parts only, trimmed and finely chopped
+- 2 cups crumbled feta cheese (10 ounces.)
 - 1/2 cup finely grated parmesan
 - 1 cup grated mozzarella
 - 2 large eggs, lightly beaten
-- 1 tsp paprika
-- 1/2 tsp ground cumin
+- 1 teaspoon paprika
+- 1/2 teaspoon ground cumin
 - 1/3 cup finely chopped fresh flat-leaf parsley
-- 1/4 tsp. freshly grated nutmeg
+- 1/4 teaspoon. freshly grated nutmeg
 - Kosher or fine sea salt
 - 1/3 cup extra-virgin olive oil for brushing; more as needed
-- 500 g frozen phyllo dough, thawed and at room temperature
-- 2 tsp. milk
+- 500 grams frozen phyllo dough, thawed and at room temperature
+- 2 teaspoons. milk
 
 ## Method
 

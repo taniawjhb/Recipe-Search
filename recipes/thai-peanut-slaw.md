@@ -22,23 +22,23 @@ key_ingredients:
 
 ## Ingredients
 
-- 60ml honey
-- 60ml vegetable oil
-- 60ml unseasoned rice vinegar
+- 60 millilitres honey
+- 60 millilitres vegetable oil
+- 60 millilitres unseasoned rice vinegar
 - 1 tablespoon soy sauce
 - 1 teaspoon Asian sesame oil
-- 2 tsp fish sauce
+- 2 teaspoons fish sauce
 - 1 tablespoon peanut butter
-- Heaping ½ teaspoon salt
+- Heaping 1/2 teaspoon salt
 - 1 teaspoon Sriracha sauce (optional)
 - 1 tablespoon minced fresh ginger
 - 1 large garlic clove, minced
-- 170g finely sliced cabbage
-- 230g grated carrots
+- 170 grams finely sliced cabbage
+- 230 grams grated carrots
 - 1 red bell pepper, thinly sliced into bite-sized pieces
-- 150g cooked and shelled edamame
+- 150 grams cooked and shelled edamame
 - 2 medium scallions, finely sliced
-- 70g chopped salted peanuts (or you can leave them whole)
+- 70 grams chopped salted peanuts (or you can leave them whole)
 - Small bunch loosely packed chopped fresh cilantro
 
 ## Method

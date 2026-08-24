@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 2 cups (250g / 8.8 oz) besan (also known as chickpea flour or gram flour)
+- 2 cups (250 grams / 8.8 ounces) besan (also known as chickpea flour or gram flour)
 - 1 tablespoon crushed red chili flakes
 - 3/4 teaspoon salt
 - 1/2 teaspoon baking powder

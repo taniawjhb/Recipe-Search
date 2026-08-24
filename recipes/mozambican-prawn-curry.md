@@ -22,15 +22,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 800g frozen prawn meat (defrost overnight in fridge)
-- 4 tsp sunflower oil
+- 800 grams frozen prawn meat (defrost overnight in fridge)
+- 4 teaspoons sunflower oil
 - 2 onions, finely chopped
-- 2 tbsp fish masala
-- 1/2 tsp turmeric
+- 2 tablespoons fish masala
+- 1/2 teaspoon turmeric
 - 2 tomatoes, finely chopped
 - 1 tin coconut cream
 - Salt and black pepper to taste
-- 50g grated coconut
+- 50 grams grated coconut
 - Chopped fresh coriander to garnish
 
 ## Method

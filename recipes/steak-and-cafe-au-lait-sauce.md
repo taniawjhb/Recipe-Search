@@ -24,34 +24,34 @@ key_ingredients:
 
 ### Coffee rub
 
-- 3 Tbsp (45 ml) medium ground coffee beans
-- 2 Tbsp (30 ml) sea salt
-- 1 Tbsp (15 ml) paprika
-- 1 Tbsp (15 ml) brown sugar
-- 1 Tbsp (15 ml) ground garlic
-- 1 Tbsp (15 ml) onion powder
-- 1 Tbsp (15 ml) mustard powder
-- 1 Tbsp (15 ml) cumin
-- 1-2 tsp (5-10 ml) chilli powder
-- 1 tsp (5 ml) black pepper
+- 3 tablespoons (45 millilitres) medium ground coffee beans
+- 2 tablespoons (30 millilitres) sea salt
+- 1 tablespoon (15 millilitres) paprika
+- 1 tablespoon (15 millilitres) brown sugar
+- 1 tablespoon (15 millilitres) ground garlic
+- 1 tablespoon (15 millilitres) onion powder
+- 1 tablespoon (15 millilitres) mustard powder
+- 1 tablespoon (15 millilitres) cumin
+- 1-2 teaspoons (5-10 millilitres) chilli powder
+- 1 teaspoon (5 millilitres) black pepper
 
 ### Steaks
 
 - Sunflower oil
-- 4 x 250 g centre cut fillet steaks
+- 4 x 250 grams centre cut fillet steaks
 - a big knob of butter
 - 2 garlic cloves, whole but squashed
 - a big sprig of thyme
 
 ### Café au lait sauce
 
-- 375 ml fresh cream
-- 1½ Tbsp freshly ground coffee
+- 375 millilitres fresh cream
+- 1 1/2 tablespoons freshly ground coffee
 - a knob of butter
-- 150 g shiitake and shimeji mushroom mix
-- 125 ml good quality beef stock
-- 1 Tbsp fresh thyme, chopped
-- 1 Tbsp chives, chopped
+- 150 grams shiitake and shimeji mushroom mix
+- 125 millilitres good quality beef stock
+- 1 tablespoon fresh thyme, chopped
+- 1 tablespoon chives, chopped
 - sea salt and freshly ground pepper
 
 ## Method

@@ -22,23 +22,23 @@ key_ingredients:
 
 ## Ingredients
 
-- 6 Tbsp vegetable oil
+- 6 tablespoons vegetable oil
 - 2 teaspoon ground coriander
 - 2 teaspoon ground cumin
 - 2 teaspoon ground turmeric
 - 2 teaspoon Kashmiri chili powder
-- 2 Tbsp garam masala
-- 2 Tbsp sweet (not hot) paprika
+- 2 tablespoons garam masala
+- 2 tablespoons sweet (not hot) paprika
 - 2 cup plain yogurt (can sub buttermilk)
-- 4 Tbsp lemon juice
+- 4 tablespoons lemon juice
 - 8 minced garlic cloves
-- 4 Tbsp minced fresh ginger
+- 4 tablespoons minced fresh ginger
 - 2 teaspoon salt
-- 750g pumpkin, cleaned, trimmed and cut into large chunks
+- 750 grams pumpkin, cleaned, trimmed and cut into large chunks
 
 ## Method
 
-1. Preheat the oven to 200C, fan on.
+1. Preheat the oven to 200°C, fan on.
 2. Heat the oil in a small pan over medium heat, then cook the coriander, cumin, turmeric, cayenne, garam masala and paprika, stirring often, until fragrant (approximately 2-3 minutes). Let cool.
 3. Mix the spice mixture into the yogurt, add lemon juice, garlic, salt, ginger and stir till combined.
 4. Coat the pumpkin pieces with the marinade, and place in a large roasting dish.

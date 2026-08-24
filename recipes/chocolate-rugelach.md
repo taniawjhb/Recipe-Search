@@ -38,7 +38,7 @@ key_ingredients:
 
 1. In a ziplock plastic bag, add one egg, melted butter, milk, vanilla, yeast, sugar, salt and flour. Squish and knead the bag for 5-10 minutes until the dough is evenly mixed.
 2. Place the bag in a bowl of very warm water for 45 minutes or until dough doubles in size. You can add more warm water if it gets cold.
-3. Preheat oven to 175C. Time to make the filling. Mix the honey, cocoa powder and softened butter in a bowl. If the butter is too hard, you can melt it. If you melt it, stick it in the refrigerator before you spread it on the dough.
+3. Preheat oven to 175°C. Time to make the filling. Mix the honey, cocoa powder and softened butter in a bowl. If the butter is too hard, you can melt it. If you melt it, stick it in the refrigerator before you spread it on the dough.
 4. Separate the dough into 3 even balls. Sprinkle with a little bit of flour. Roll out each ball into a circle, flipping and stretching until the dough is super thin.
 5. Spread a layer of filling on the dough. Cut into 8 slices, like a pizza. Separate each slice and roll tightly. You need to separate the slices so they don't get covered in chocolate on the outside from the other slices. Place each rugelach on a non-stick baking tray.
 6. Brush with a beaten egg and bake for 15-20 minutes. Meanwhile, make the glaze by adding the water to a saucepan on medium heat. Then add the sugar and stir until the sugar melts. Simmer for 1 minute.

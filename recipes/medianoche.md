@@ -21,15 +21,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 lb. pork loin
+- 1 pound. pork loin
 - Salt and freshly ground black pepper
-- 2 tbsp. olive oil
+- 2 tablespoons. olive oil
 - 4 medianoche bread, or challah/brioche
 - 1/2 cup yellow mustard
 - 450gms sliced deli ham, halved
 - 8 slices swiss cheese, halved
 - 4 dill pickles
-- 4 tbsp. unsalted butter, softened
+- 4 tablespoons. unsalted butter, softened
 
 ## Method
 

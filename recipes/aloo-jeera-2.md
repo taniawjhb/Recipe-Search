@@ -20,19 +20,19 @@ key_ingredients:
 
 ## Ingredients
 
-- 2 tsp turmeric powder, divided
-- 1.5 tsp red chili powder (Kashmiri chili powder is potent; adjust to taste)
-- 4 tbsp chickpea flour
-- 2 tsp salt
-- 4 tsp water, to form slurry with chickpea flour
-- 2 tbsp vegetable oil (you can add extra if you like)
-- 1 tsp mustard seeds (skip if unavailable)
-- 1.5 tsp cumin seeds (can substitute with cumin powder)
+- 2 teaspoons turmeric powder, divided
+- 1.5 teaspoons red chili powder (Kashmiri chili powder is potent; adjust to taste)
+- 4 tablespoons chickpea flour
+- 2 teaspoons salt
+- 4 teaspoons water, to form slurry with chickpea flour
+- 2 tablespoons vegetable oil (you can add extra if you like)
+- 1 teaspoon mustard seeds (skip if unavailable)
+- 1.5 teaspoons cumin seeds (can substitute with cumin powder)
 - 6 potatoes, medium, Yukon Gold
 
 ## Method
 
-1. Bring a pot of water to boil along with 1 tsp of turmeric powder. Quarter the potatoes (no need to peel) and drop them into the water once you start to see bubbles appear. Boil for about 10-15 minutes.
+1. Bring a pot of water to boil along with 1 teaspoon of turmeric powder. Quarter the potatoes (no need to peel) and drop them into the water once you start to see bubbles appear. Boil for about 10-15 minutes.
 2. At the 10 minute mark, poke your potatoes with a fork. If the fork goes through cleanly, you're good to go; if not, cook a bit more, checking every minute. Don't over boil them.
 3. In a medium sized bowl add the chickpea flour, remaining turmeric, salt, and red chili powder and give it a good whisk.
 4. Once the potatoes are done boiling, remove from heat using a colander or slotted spoon. Rinse under cold water to stop them cooking further and peel the potatoes.

@@ -21,13 +21,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 250g boiled bacalhau
-- 300g potatoes, boiled with skin on
-- 2 tbsp milk
+- 250 grams boiled bacalhau
+- 300 grams potatoes, boiled with skin on
+- 2 tablespoons milk
 - 2 eggs
 - 1 onion, finely chopped
 - Half cup chopped parsley
-- 1 tsp paprika
+- 1 teaspoon paprika
 - Black pepper & salt to taste
 - Fine sliced red chilli (optional)
 

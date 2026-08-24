@@ -23,16 +23,16 @@ key_ingredients:
 ## Ingredients
 
 - 4 medium-sized red onions
-- 1.6kg chicken
-- ¾ to 1 cup vegetable oil or any good cooking oil of your choice
+- 1.6 kilograms chicken
+- 3/4 to 1 cup vegetable oil or any good cooking oil of your choice
 - 2 tablespoons kibbeh (Ethiopian spiced butter)
 - 2 tablespoons tomato paste (optional)
 - 6 eggs, hard-boiled
-- 2 tbsp minced garlic
-- 2 tbsp grated ginger
-- ¼ cup water
+- 2 tablespoons minced garlic
+- 2 tablespoons grated ginger
+- 1/4 cup water
 - Salt to taste
-- ½ cup berbere spice
+- 1/2 cup berbere spice
 - 1 cup vinegar and 2 cups water, to clean chicken
 
 ## Method

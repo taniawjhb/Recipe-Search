@@ -40,4 +40,4 @@ key_ingredients:
 4. Dot chicken with butter pieces.
 5. Mix together tomato sauce, wine vinegar, sherry and crushed garlic.
 6. Pour mixture over chicken and sprinkle parsley on chicken.
-7. Bake uncovered at 180C until chicken is cooked through, basting frequently.
+7. Bake uncovered at 180°C until chicken is cooked through, basting frequently.

@@ -24,7 +24,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 1.2kg pork shoulder, boneless, cut into bite size chunks
+- 1.2 kilograms pork shoulder, boneless, cut into bite size chunks
 - Salt
 - Pepper
 - 4 tablespoons olive oil
@@ -33,15 +33,15 @@ key_ingredients:
 - 3 carrots
 - 1 leek
 - 2 cloves of garlic
-- 700g shallots, finely chopped
-- 100 g white wine
+- 700 grams shallots, finely chopped
+- 100 grams white wine
 - 1 tablespoon tomato paste
-- 400 g canned tomatoes
+- 400 grams canned tomatoes
 - 2 bay leaves
 - 1 stick cinnamon
 - 2 sprigs oregano
 - 2 sprigs thyme
-- 200 g water (optional)
+- 200 grams water (optional)
 
 ## Method
 

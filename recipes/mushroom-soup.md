@@ -20,15 +20,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 30g / 2 tbsp unsalted butter
+- 30 grams / 2 tablespoons unsalted butter
 - 1 onion, chopped
 - 2 garlic cloves, minced
-- 400g white mushrooms
-- 200g Portabellini mushrooms
-- 800 ml vegetable stock or chicken stock
-- 1/4 tsp salt, cooking/kosher
+- 400 grams white mushrooms
+- 200 grams Portabellini mushrooms
+- 800 millilitres vegetable stock or chicken stock
+- 1/4 teaspoon salt, cooking/kosher
 - pinch tsp black pepper
-- 200 ml crème fraiche or cream
+- 200 millilitres crème fraiche or cream
 
 ## Method
 

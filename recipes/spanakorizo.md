@@ -22,14 +22,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 450 g fresh spinach, rinsed
+- 450 grams fresh spinach, rinsed
 - Juice of half lemon
 - 1 onion chopped or 2-3 spring onions chopped
-- 2 ½ tablespoons olive oil, plus more for drizzling
+- 2 1/2 tablespoons olive oil, plus more for drizzling
 - 1 teaspoon dry mint (preferably spearmint)
 - 1-2 tablespoons chopped fresh dill
 - 2/3 cup water
-- 1/3 cup (60 g) medium grain rice
+- 1/3 cup (60 grams) medium grain rice
 - Salt/Pepper
 - 1 tablespoon tomato paste, optional
 

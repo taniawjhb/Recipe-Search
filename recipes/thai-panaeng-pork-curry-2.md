@@ -23,20 +23,20 @@ key_ingredients:
 
 ## Ingredients
 
-- 400g sliced pork fillet
-- 2 tbsp Panaeng Curry Paste
+- 400 grams sliced pork fillet
+- 2 tablespoons Panaeng Curry Paste
 - 8 lime leaves, shredded
 - 1 red chilli
-- 3 baby marrow, sliced 2cm
+- 3 baby marrow, sliced 2 centimetres
 - 3 patty pan, quartered
 - A handful of broccoli florets
 - 2 cans coconut milk
 - 1/2 cup shredded basil
-- 1 tbsp fish sauce
-- 1 tsp peanut butter
-- 1 tsp sugar
+- 1 tablespoon fish sauce
+- 1 teaspoon peanut butter
+- 1 teaspoon sugar
 - Coconut/sunflower oil for frying
-- 1 tbsp roasted, chopped peanuts for serving
+- 1 tablespoon roasted, chopped peanuts for serving
 
 ## Method
 

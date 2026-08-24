@@ -23,11 +23,11 @@ key_ingredients:
 
 - 1 loaf sour dough baguette
 - 2 cloves garlic
-- 45ml olive oil
+- 45 millilitres olive oil
 - salt & pepper
 - 250gms cream cheese, softened
 - small bunch of chives
-- 1 tsp finely chopped parsley
+- 1 teaspoon finely chopped parsley
 - juice of 1 lemon
 - 2-3 avocados
 - 200gms smoked salmon, finely sliced

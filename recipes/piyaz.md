@@ -26,11 +26,11 @@ key_ingredients:
 - 2 tomatoes, diced
 - 1/2 red onion, thinly sliced
 - 1 cup fresh parsley, chopped
-- 1 tsp sumac
-- 1/2 tsp Aleppo pepper
-- 1/2 tsp salt
+- 1 teaspoon sumac
+- 1/2 teaspoon Aleppo pepper
+- 1/2 teaspoon salt
 - 1 lemon, juice of
-- 2 tbsp olive oil
+- 2 tablespoons olive oil
 
 ## Method
 

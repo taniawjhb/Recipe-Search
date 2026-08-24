@@ -20,11 +20,11 @@ key_ingredients:
 
 ## Ingredients
 
-- 200g medium to dark chocolate
+- 200 grams medium to dark chocolate
 - 6 eggs, separated
-- 2 tbsp real vanilla extract
-- 60g butter
-- 90ml milk
+- 2 tablespoons real vanilla extract
+- 60 grams butter
+- 90 millilitres milk
 
 ## Method
 

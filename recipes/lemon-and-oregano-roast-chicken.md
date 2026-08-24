@@ -23,8 +23,8 @@ key_ingredients:
 ## Ingredients
 
 - 8 bone-in chicken thighs
-- ⅓ cup extra-virgin olive oil
-- ¼ cup lemon juice
+- 1/3 cup extra-virgin olive oil
+- 1/4 cup lemon juice
 - 4 garlic cloves, minced
 - 1 tablespoon dried oregano
 - 2 teaspoons dried thyme

@@ -20,10 +20,10 @@ key_ingredients:
 
 ## Ingredients
 
-- 400g cherry tomato
+- 400 grams cherry tomato
 - 1 small red onion
 - handful of mint leaves
-- 1/2 tsp finely chopped thyme leaves
+- 1/2 teaspoon finely chopped thyme leaves
 - extra-virgin olive oil, for drizzling
 - a generous pinch of lemon zest
 

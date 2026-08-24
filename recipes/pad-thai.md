@@ -27,17 +27,17 @@ key_ingredients:
 - 1/2 cup sliced tofu
 - 1/2 cup bean sprouts (half for cooking, half for garnish)
 - 1/4 cup shredded carrot
-- 6 sticks of chive, cut into 1cm pieces
+- 6 sticks of chive, cut into 1 centimetre pieces
 - 1/2 cup cubed tofu
 - 1 egg, beaten
 - 2 cloves garlic, finely chopped
-- 1 tbsp fish sauce
-- 3 tbsp oyster sauce
-- 2 tbsp tamarind juice (use tamarind paste and dilute with water as needed)
-- 1 tsp sugar
+- 1 tablespoon fish sauce
+- 3 tablespoons oyster sauce
+- 2 tablespoons tamarind juice (use tamarind paste and dilute with water as needed)
+- 1 teaspoon sugar
 - 1/4 cup chicken stock
 - Coconut/sunflower oil for frying
-- 1 tbsp roasted peanuts for serving
+- 1 tablespoon roasted peanuts for serving
 
 ## Method
 

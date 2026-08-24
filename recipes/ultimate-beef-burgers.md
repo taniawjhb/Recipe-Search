@@ -19,7 +19,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 1kg ground chuck
+- 1 kilogram ground chuck
 - 1/2 cup Panko breadcrumbs
 - 1 large egg
 - 2 tablespoons Worcestershire sauce

@@ -23,25 +23,25 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 1/2 tbsp olive oil
+- 1 1/2 tablespoons olive oil
 - 2 white onions, diced
 - 1 carrot, diced
 - 2 celery stalks, diced
-- 800-900 g ground beef
+- 800-900 grams ground beef
 - 3/4 cup red wine
 - 4 garlic cloves, minced
-- 2 1/2 tsp salt
-- 1 tsp pepper
-- 1 tsp cinnamon
-- 1/4 tsp ground cloves
-- 1 tbsp dried basil
-- 3/4 tsp all spice
+- 2 1/2 teaspoons salt
+- 1 teaspoon pepper
+- 1 teaspoon cinnamon
+- 1/4 teaspoon ground cloves
+- 1 tablespoon dried basil
+- 3/4 teaspoon all spice
 - 3 bay leaves
-- 600 g canned tomatoes, diced
-- 1 tbsp sugar
-- 2 tbsp tomato paste
+- 600 grams canned tomatoes, diced
+- 1 tablespoon sugar
+- 2 tablespoons tomato paste
 - 1 cup water
-- 1 package spaghetti noodles (454 g package)
+- 1 package spaghetti noodles (454 grams package)
 - olive oil
 - grated parmesan or kefalograviera cheese
 

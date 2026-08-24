@@ -25,8 +25,8 @@ key_ingredients:
 - 4 eggs
 - 2 cups sugar
 - 2 1/2 cups flour, plus extra if needed
-- 2 tbsp baking powder
-- 6 tbsp cocoa powder
+- 2 tablespoons baking powder
+- 6 tablespoons cocoa powder
 - 1 cup semi-sweet mini chocolate chips
 - 2 cups hazelnuts, chopped
 

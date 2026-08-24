@@ -35,7 +35,7 @@ key_ingredients:
 
 ## Method
 
-1. Preheat oven to 190 degrees C.
+1. Preheat oven to 190°C.
 2. In an 8 inch square baking dish, mix blueberries, 2 tablespoons sugar, vanilla sugar and apple juice. Set aside.
 3. In a small bowl, thoroughly mix flour, baking powder, and salt. Set aside.
 4. In a medium bowl, cream butter and 1/2 cup sugar until light and fluffy. Beat in egg and vanilla extract. Gradually add flour mixture, stirring just until ingredients are combined.

@@ -22,9 +22,9 @@ key_ingredients:
 
 - 2 cucumbers
 - 1 small red onion, finely sliced
-- 1 tbsp white vinegar
+- 1 tablespoon white vinegar
 - 3 green chillis, finely chopped
-- 1 tbsp light olive oil
+- 1 tablespoon light olive oil
 - Salt to taste
 
 ## Method

@@ -24,20 +24,20 @@ key_ingredients:
 ## Ingredients
 
 - Water
-- 450 g green beans, trimmed
+- 450 grams green beans, trimmed
 - Salt and pepper, to taste
 - Crushed red pepper flakes, optional, to taste
-- 100 g quality crumbled feta cheese, to taste
-- 2 tbsp (or more to your liking) pitted olives, chopped
+- 100 grams quality crumbled feta cheese, to taste
+- 2 tablespoons (or more to your liking) pitted olives, chopped
 - Handful of cherry tomatoes, cut in half
 
 For dressing
 
-- 2 tbsp extra virgin olive oil
-- 2 tbsp freshly squeezed lemon juice
+- 2 tablespoons extra virgin olive oil
+- 2 tablespoons freshly squeezed lemon juice
 - 1 to 2 garlic cloves, minced
-- 2 tbsp chopped fresh dill
-- 1/2 tsp sweet Spanish paprika
+- 2 tablespoons chopped fresh dill
+- 1/2 teaspoon sweet Spanish paprika
 - Salt and pepper, to taste
 
 ## Method

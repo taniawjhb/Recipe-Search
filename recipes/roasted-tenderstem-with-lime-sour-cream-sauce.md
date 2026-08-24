@@ -21,21 +21,21 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g tenderstem broccoli or regular broccoli, cut into florets
-- 2 tbsp extra virgin olive oil
-- 1/4 tsp each salt and pepper
+- 500 grams tenderstem broccoli or regular broccoli, cut into florets
+- 2 tablespoons extra virgin olive oil
+- 1/4 teaspoon each salt and pepper
 - 1 garlic clove, finely minced
 
 ### Sour Cream Sauce
 
 - 1/2 cup sour cream
 - 1/4 cup Greek yoghurt
-- 1.5 tsp honey
-- 1-2 tbsp lime juice
+- 1.5 teaspoons honey
+- 1-2 tablespoons lime juice
 - Zest of 1 lime
 - 1/2 garlic clove, crushed smooth
-- 1/4 tsp each salt and pepper
-- 2 tbsp finely chopped chives
+- 1/4 teaspoon each salt and pepper
+- 2 tablespoons finely chopped chives
 
 ## Method
 

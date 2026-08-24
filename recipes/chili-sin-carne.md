@@ -26,17 +26,17 @@ key_ingredients:
 - 2 cloves garlic, minced
 - 1/2 dried chili pepper, minced
 - 1 green pepper, diced
-- 2 tbsp canola oil
+- 2 tablespoons canola oil
 - 1 2/3 cup canned tomatoes (diced)
-- 2 tbsp tomato paste
+- 2 tablespoons tomato paste
 - Ground pepper to taste (optional)
-- 1 tsp ground cumin
-- 2 tbsp brown sugar
+- 1 teaspoon ground cumin
+- 2 tablespoons brown sugar
 - 1/2 cup vegetable broth, low-sodium
-- 2 tbsp water, if necessary
+- 2 tablespoons water, if necessary
 - 3 cups beans/lentils/legumes (canned)
 - 1 pinch salt (optional)
-- 1 tbsp fresh cilantro, chopped (optional)
+- 1 tablespoon fresh cilantro, chopped (optional)
 - 1 lime (optional)
 
 ## Method

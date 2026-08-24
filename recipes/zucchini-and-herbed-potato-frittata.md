@@ -24,9 +24,9 @@ key_ingredients:
 ## Ingredients
 
 - 12 large free range eggs
-- 1 tsp chopped parsley
-- 150g grated parmesan cheese
-- 80ml cream
+- 1 teaspoon chopped parsley
+- 150 grams grated parmesan cheese
+- 80 millilitres cream
 - salt & pepper to taste
 - 1 red onion, finely chopped
 - 20 pattypan (mixed colours)
@@ -34,9 +34,9 @@ key_ingredients:
 - 1 clove garlic, crushed
 - sprig of thyme
 - salt & pepper to taste
-- 1 tbsp olive oil
+- 1 tablespoon olive oil
 - 3 large potatoes
-- 6 tbsp olive oil
+- 6 tablespoons olive oil
 - 1 clove garlic
 - rosemary
 

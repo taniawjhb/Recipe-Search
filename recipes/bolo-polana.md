@@ -24,8 +24,8 @@ key_ingredients:
 
 - 1 1/2 cups butter
 - 1 cup white sugar
-- 2 tsp lemon zest
-- 2 tsp orange zest
+- 2 teaspoons lemon zest
+- 2 teaspoons orange zest
 - 9 egg yolks
 - 5 egg whites
 - 2 medium-sized potatoes, peeled, cooked and mashed until smooth
@@ -33,7 +33,7 @@ key_ingredients:
 
 ## Method
 
-1. Preheat oven to 360F (about 180C).
+1. Preheat oven to 360°F (about 180°C).
 2. Butter the bottom and sides of a spring form cake tin.
 3. In a large bowl, cream the butter and sugar until light and creamy.
 4. Beat in the mashed potatoes, ground cashew nuts, lemon zest and orange zest.

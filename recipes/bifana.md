@@ -22,10 +22,10 @@ key_ingredients:
 ## Ingredients
 
 - 4 sandwich bread rolls (Portuguese papo seco)
-- 600g pork cutlets, sliced very thin
+- 600 grams pork cutlets, sliced very thin
 - 5 cloves garlic, chopped
-- 70g lard
-- 150ml white wine
+- 70 grams lard
+- 150 millilitres white wine
 - 3 bay leaves
 - Juice of a lemon
 - 1 teaspoon paprika

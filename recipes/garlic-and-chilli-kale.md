@@ -18,8 +18,8 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 bag mixed kale (2 bunches, about 300g)
-- 2 tbsp extra virgin olive oil
+- 1 bag mixed kale (2 bunches, about 300 grams)
+- 2 tablespoons extra virgin olive oil
 - 2 cloves garlic
 - Pinch of chili flakes (peperoncino)
 - Salt & pepper to taste

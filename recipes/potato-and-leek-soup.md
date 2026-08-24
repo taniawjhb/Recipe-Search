@@ -24,7 +24,7 @@ key_ingredients:
 - 3 tablespoons unsalted butter
 - 4 large leeks, white and light green parts only, roughly chopped (about 5 cups)
 - 3 cloves garlic, peeled and smashed
-- 900g potatoes, peeled and roughly chopped into 1/2-inch pieces
+- 900 grams potatoes, peeled and roughly chopped into 1/2-inch pieces
 - 7 cups chicken or vegetable stock
 - 2 bay leaves
 - 3 sprigs fresh thyme

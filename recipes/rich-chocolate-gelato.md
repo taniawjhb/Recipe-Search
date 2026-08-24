@@ -20,7 +20,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 270g high-quality semisweet chocolate, chopped
+- 270 grams high-quality semisweet chocolate, chopped
 - 1 1/2 cups whole milk
 - 1 cup heavy cream
 - 6 large egg yolks

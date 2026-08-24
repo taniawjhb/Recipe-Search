@@ -24,8 +24,8 @@ key_ingredients:
 
 ## Ingredients
 
-- 1½ pound boneless and skinless chicken breasts or thighs, cut into cubes
-- ⅓ cup cooking oil
+- 1 1/2 pound boneless and skinless chicken breasts or thighs, cut into cubes
+- 1/3 cup cooking oil
 - 1 cinnamon stick
 - 3 cloves
 - 3 star anise

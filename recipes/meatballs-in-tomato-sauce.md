@@ -23,7 +23,7 @@ key_ingredients:
 ## Ingredients
 
 - 2 tablespoons of olive oil
-- 750g ground beef
+- 750 grams ground beef
 - 1 1/4 cup fresh white breadcrumbs
 - 8 tablespoons grated Manchego or Parmesan cheese
 - 3 tablespoons tomato paste
@@ -32,7 +32,7 @@ key_ingredients:
 - 3 teaspoons chopped fresh thyme
 - 1 1/4 teaspoons turmeric
 - Salt and pepper, to taste
-- 500ml canned plum tomatoes, chopped
+- 500 millilitres canned plum tomatoes, chopped
 - 4 tablespoons red wine
 - 4 teaspoons chopped fresh basil leaves
 - 3 teaspoons chopped fresh rosemary

@@ -25,19 +25,19 @@ key_ingredients:
 
 ## Ingredients
 
-- 500 g granulated sugar
-- 300 g water
+- 500 grams granulated sugar
+- 300 grams water
 - 1 stick cinnamon
-- 50 g glucose
+- 50 grams glucose
 - 6 cloves
 - peel of 1 lemon
 - 1 tablespoon lemon juice
-- 400 g butter
-- 150 g walnuts
-- 150 g almonds
+- 400 grams butter
+- 150 grams walnuts
+- 150 grams almonds
 - 1 teaspoon cinnamon
 - 1/2 teaspoon cloves, ground
-- 900 g phyllo dough sheet
+- 900 grams phyllo dough sheet
 - pistachios, ground, to serve
 
 ## Method
@@ -54,7 +54,7 @@ key_ingredients:
 10. Cover with another sheet of phyllo and drizzle with butter. Spread the filling over the entire surface.
 11. Place two wooden sticks in the middle of the phyllo and roll the smaller side towards the middle, leaving an empty space at the edge.
 12. Do not roll too tight and gently press the ends together towards the middle with your hands, creating folds in the phyllo and remove the sticks.
-13. Brush a 30x40 cm baking pan with butter and add the saragli. Drizzle with butter immediately and repeat the same process until the baking pan is full of saragli rolls.
+13. Brush a 30x40 centimetres baking pan with butter and add the saragli. Drizzle with butter immediately and repeat the same process until the baking pan is full of saragli rolls.
 14. When the pan is full, drizzle any leftover butter over the saragli rolls.
 15. Bake for 70-90 minutes.
 16. When ready, remove from oven and immediately pour the cool syrup over the scorching hot saragli rolls.

@@ -31,13 +31,13 @@ key_ingredients:
 - 1 red bell pepper
 - 2 cloves garlic, minced
 - 1/2 cup fresh parsley, finely chopped
-- 1 tbsp tomato paste
+- 1 tablespoon tomato paste
 - 1 lemon, juice of
-- 2 tbsp olive oil, extra virgin
-- 1 tsp kosher salt
-- 1/2 tsp black pepper
-- 1/2 tsp Aleppo pepper
-- 1 tsp sumac
+- 2 tablespoons olive oil, extra virgin
+- 1 teaspoon kosher salt
+- 1/2 teaspoon black pepper
+- 1/2 teaspoon Aleppo pepper
+- 1 teaspoon sumac
 
 ## Method
 

@@ -23,7 +23,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 225g chickpeas, cooked
+- 225 grams chickpeas, cooked
 - 2 onions, grated
 - 5 tablespoons olive oil
 - 6 cloves garlic, crushed
@@ -35,7 +35,7 @@ key_ingredients:
 - 2 cubes vegetable bouillon
 - 1 bunch cilantro, chopped
 - Juice of a lemon
-- 1L water
+- 1 litre water
 
 ## Method
 

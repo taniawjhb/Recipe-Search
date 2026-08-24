@@ -113,7 +113,59 @@
     return out;
   }
 
+  // --- Ingredient categorisation -------------------------------------------
+  // Mirrors .github/skills/ingredient-categorisation/SKILL.md. Each ingredient
+  // line is assigned to the FIRST matching category; "Fruit and Vegetables" is
+  // the catch-all default. Categories are displayed in CATEGORY_ORDER.
+
+  const CATEGORY_ORDER = [
+    "Fruit and Vegetables",
+    "Meat",
+    "Fish",
+    "Dairy and Eggs",
+    "Carbs and grains",
+    "Protein",
+    "Tins, Jars & bottles",
+    "Seasonings",
+  ];
+
+  // Rule 1 — anything clearly canned/jarred/bottled or a pantry condiment.
+  const TINS_RE = /\b(tinned|canned|tin of|can of|jarred|jar of|bottled|bottle of|passata|tomato paste|tomato pur[e\u00e9]e|tomato sauce|paste|pesto|capers?|olives|pickle[ds]?|gherkins?|soy sauce|fish sauce|oyster sauce|hoisin|worcestershire|sriracha|hot sauce|chilli sauce|sweet chilli|vinegar|oil|honey|maple syrup|syrup|treacle|molasses|jam|marmalade|chutney|mustard(?! seeds?| powder)|mayonnaise|mayo|ketchup|stock|broth|bouillon|coconut milk|coconut cream|condensed milk|evaporated milk|wine)\b/;
+  // House convention for fresh vs dried aromatics.
+  const AROMATIC_RE = /\b(garlic|ginger|chilli|chili|chile|chillies|chilies)\b/;
+  const DRIED_RE = /\b(ground|powder|powdered|granules|flakes|dried|salt)\b/;
+  const NUTBUTTER_RE = /\b(nut butter|peanut butter|almond butter|cashew butter|tahini|butter beans?)\b/;
+  const VEGBEAN_RE = /\b(green|runner|french|string|snake|broad)\s+beans?\b|\bbean ?sprouts?\b/;
+
+  const CATEGORY_RULES = [
+    ["Meat", /\b(chicken|beef|pork|lamb|turkey|duck|mince|bacon|ham|sausages?|chorizo|pancetta|prosciutto|veal|offal|steaks?|ribeye|sirloin|tenderloin|meatballs?|brisket|rump|salami|pepperoni|guanciale|lardons?|rashers?|cutlets?|drumsticks?)\b/],
+    ["Fish", /\b(salmon|cod|tuna|prawns?|shrimps?|squid|calamari|mussels?|clams?|crab|anchov(?:y|ies)|haddock|halibut|sea ?bass|trout|mackerel|sardines?|snapper|scallops?|lobster|octopus|white ?fish)\b/],
+    ["Dairy and Eggs", /\b(milk|cream|butter|ghee|yoghurt|yogurt|cheese|cheddar|mozzarella|parmesan|parmigiano|feta|ricotta|mascarpone|paneer|halloumi|eggs?|buttermilk|cr[e\u00e8]me fra[i\u00ee]che|creme fraiche|sour cream|custard|gruy[e\u00e8]re|brie|gouda|pecorino|goats? ?cheese)\b/],
+    ["Carbs and grains", /\b(flour|rice|pasta|noodles?|couscous|cous cous|bulg[ua]r|quinoa|oats?|bread|breadcrumbs?|tortillas?|polenta|semolina|sugar|cornflour|cornstarch|corn ?meal|baking powder|baking soda|bicarbonate|yeast|spaghetti|penne|macaroni|lasagne|lasagna|orzo|gnocchi|pastry|filo|phyllo|vermicelli|chocolate|cocoa)\b/],
+    ["Protein", /\b(lentils?|chickpeas?|beans?|cannellini|borlotti|tofu|tempeh|edamame|seitan|almonds?|walnuts?|cashews?|pistachios?|peanuts?|hazelnuts?|pecans?|pine ?nuts?|nuts?|pumpkin seeds?|sunflower seeds?|sesame seeds?|chia|flaxseed|linseed)\b/],
+    ["Seasonings", /\b(salt|pepper|peppercorns?|cumin|coriander|turmeric|paprika|cinnamon|cardamom|cloves?|bay lea(?:f|ves)|oregano|thyme|rosemary|basil|parsley|mint|dill|sage|tarragon|nutmeg|saffron|curry powder|garam masala|stock cube|spices?|herbs?|za'?atar|sumac|fenugreek|fennel seeds?|mustard seeds?|caraway|nigella|star anise|allspice)\b/],
+  ];
+
+  function categoriseIngredient(text) {
+    const s = " " + String(text).toLowerCase() + " ";
+    if (TINS_RE.test(s)) return "Tins, Jars & bottles";
+    if (AROMATIC_RE.test(s)) {
+      return DRIED_RE.test(s) ? "Seasonings" : "Fruit and Vegetables";
+    }
+    if (NUTBUTTER_RE.test(s)) return "Protein";
+    if (VEGBEAN_RE.test(s)) return "Fruit and Vegetables";
+    if (/\bvanilla\b/.test(s)) return "Seasonings";
+    for (const [cat, re] of CATEGORY_RULES) {
+      if (re.test(s)) return cat;
+    }
+    // Any remaining dry "... powder" spice (mustard, onion, five-spice, ...);
+    // baking/cocoa/custard powders are already caught as Carbs/Dairy above.
+    if (/\bpowder\b/.test(s)) return "Seasonings";
+    return "Fruit and Vegetables";
+  }
+
   // --- Menu page ------------------------------------------------------------
+
 
   function initMenuPage() {
     const page = document.getElementById("menu-page");
@@ -138,27 +190,42 @@
           else counts.set(key, { text: line, n: 1 });
         }
       }
-      const items = [...counts.values()].sort((a, b) =>
-        a.text.localeCompare(b.text)
-      );
       shoppingEl.innerHTML = "";
+      const items = [...counts.values()];
       if (!items.length) {
         shoppingEl.innerHTML =
           '<li class="result-count">No ingredient lines found for the recipes in your menu.</li>';
         return;
       }
+      // Bucket every ingredient into its supermarket category.
+      const buckets = new Map();
+      for (const it of items) {
+        const cat = categoriseIngredient(it.text);
+        if (!buckets.has(cat)) buckets.set(cat, []);
+        buckets.get(cat).push(it);
+      }
       const frag = document.createDocumentFragment();
-      items.forEach((it, i) => {
-        const li = document.createElement("li");
-        const id = "sl-" + i;
-        li.innerHTML =
-          '<input type="checkbox" id="' + id + '">' +
-          '<label for="' + id + '">' +
-          escapeHtml(it.text) +
-          (it.n > 1 ? ' <span class="qty">\u00d7' + it.n + "</span>" : "") +
-          "</label>";
-        frag.appendChild(li);
-      });
+      let idx = 0;
+      for (const cat of CATEGORY_ORDER) {
+        const bucket = buckets.get(cat);
+        if (!bucket || !bucket.length) continue;
+        bucket.sort((a, b) => a.text.localeCompare(b.text));
+        const head = document.createElement("li");
+        head.className = "shopping-category";
+        head.textContent = cat;
+        frag.appendChild(head);
+        for (const it of bucket) {
+          const li = document.createElement("li");
+          const id = "sl-" + idx++;
+          li.innerHTML =
+            '<input type="checkbox" id="' + id + '">' +
+            '<label for="' + id + '">' +
+            escapeHtml(it.text) +
+            (it.n > 1 ? ' <span class="qty">\u00d7' + it.n + "</span>" : "") +
+            "</label>";
+          frag.appendChild(li);
+        }
+      }
       shoppingEl.appendChild(frag);
     }
 
@@ -205,9 +272,16 @@
 
     if (copyBtn) {
       copyBtn.addEventListener("click", () => {
-        const text = [...shoppingEl.querySelectorAll("label")]
-          .map((l) => "- " + l.textContent.trim())
-          .join("\n");
+        const lines = [];
+        shoppingEl.querySelectorAll("li").forEach((li) => {
+          if (li.classList.contains("shopping-category")) {
+            lines.push((lines.length ? "\n" : "") + li.textContent.trim());
+          } else {
+            const label = li.querySelector("label");
+            if (label) lines.push("- " + label.textContent.trim());
+          }
+        });
+        const text = lines.join("\n");
         if (!text) return;
         if (navigator.clipboard) {
           navigator.clipboard.writeText(text).then(() => {

@@ -28,12 +28,12 @@ key_ingredients:
 - 1.5 shallots/small red onions
 - Peel of 2 limes
 - 2 cloves garlic
-- 1 slice fresh turmeric/1 tsp dry turmeric
-- 1/2 tsp roasted coriander seed
-- 1 tsp crushed, roasted peanuts
-- 1 tsp peanut butter
-- 1/2 tsp salt
-- 1/4 tsp shrimp paste
+- 1 slice fresh turmeric/1 teaspoon dry turmeric
+- 1/2 teaspoon roasted coriander seed
+- 1 teaspoon crushed, roasted peanuts
+- 1 teaspoon peanut butter
+- 1/2 teaspoon salt
+- 1/4 teaspoon shrimp paste
 
 ## Method
 

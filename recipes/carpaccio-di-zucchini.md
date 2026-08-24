@@ -19,13 +19,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g green zucchini
-- 500g yellow zucchini
-- 5 tablespoons (100ml) extra virgin olive oil
+- 500 grams green zucchini
+- 500 grams yellow zucchini
+- 5 tablespoons (100 millilitres) extra virgin olive oil
 - Juice of 1 small lemon
 - 2 teaspoons grated lemon rind
-- 225g baby rocket
-- 100g shaved parmesan
+- 225 grams baby rocket
+- 100 grams shaved parmesan
 
 ## Method
 

@@ -24,16 +24,16 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 x 14oz can of precooked chickpea / garbanzo beans
-- 1 tsp/5ml ground sumac
-- 1 tsp/5ml ground cumin
-- ½ medium red onion, halved and thinly sliced
+- 1 x 14 ounces can of precooked chickpea / garbanzo beans
+- 1 teaspoon/5 millilitres ground sumac
+- 1 teaspoon/5 millilitres ground cumin
+- 1/2 medium red onion, halved and thinly sliced
 - 10 cherry tomatoes, quartered
 - 3 spring onions/scallions, finely chopped
 - 1 red bell pepper, deseeded and finely chopped
-- 40g spinach leaves, washed and roughly chopped
-- 30ml/2 tbsp extra virgin olive oil
-- ½ juice of lemon
+- 40 grams spinach leaves, washed and roughly chopped
+- 30 millilitres/2 tablespoons extra virgin olive oil
+- 1/2 juice of lemon
 - Salt and freshly ground black pepper to taste
 - Sprinkle of extra sumac to serve
 - Flatbread or pita bread to serve

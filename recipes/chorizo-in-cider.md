@@ -21,15 +21,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 3 tsp olive oil
+- 3 teaspoons olive oil
 - 1 red onion
-- 1 1/2 tsp paprika
+- 1 1/2 teaspoons paprika
 - 1/4 cup chicken stock
-- 200ml dry apple cider
+- 200 millilitres dry apple cider
 - 1 bay leaf
 - 2 chorizo, sliced diagonally
-- 2 tsp sherry vinegar
-- 2 tsp fresh chopped flat leaf parsley
+- 2 teaspoons sherry vinegar
+- 2 teaspoons fresh chopped flat leaf parsley
 
 ## Method
 

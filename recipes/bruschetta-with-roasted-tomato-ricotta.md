@@ -22,7 +22,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 300g multicolored cherry tomatoes
+- 300 grams multicolored cherry tomatoes
 - 2 garlic cloves, thickly sliced
 - 5 tablespoons extra-virgin olive oil, plus more for drizzling
 - Salt & pepper

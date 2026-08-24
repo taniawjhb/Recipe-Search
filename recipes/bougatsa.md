@@ -24,18 +24,18 @@ key_ingredients:
 
 ## Ingredients
 
-- 270 g granulated sugar
+- 270 grams granulated sugar
 - 4 eggs
 - 2 egg yolks
-- 400 g milk
-- 400 g heavy cream
+- 400 grams milk
+- 400 grams heavy cream
 - 1 pinch salt
 - 1 teaspoon vanilla extract
-- 1 tsp orange zest
-- 1 tsp lemon zest
+- 1 teaspoon orange zest
+- 1 teaspoon lemon zest
 - 1 teaspoon baking powder
-- 450 g phyllo dough
-- 150 g butter
+- 450 grams phyllo dough
+- 150 grams butter
 - 1 tablespoon dark brown soft sugar
 - 2 tablespoons icing sugar
 - 1 tablespoon cinnamon
@@ -43,7 +43,7 @@ key_ingredients:
 ## Method
 
 1. Preheat the oven to 200°C (390°F) set to fan.
-2. Melt the butter in a small saucepan over medium heat, and using a pastry brush, brush a 30x35 cm baking pan generously with butter.
+2. Melt the butter in a small saucepan over medium heat, and using a pastry brush, brush a 30x35 centimetres baking pan generously with butter.
 3. Brush a sheet of phyllo dough with butter and place it in the pan. Brush another sheet with butter and place it on top.
 4. Do not brush the rest of the phyllo sheets with butter; instead drizzle some butter on to them, one at a time. Crumple each sheet, folding it like an accordion and transfer to the pan. Be careful not to press down on them so they don't flatten.
 5. Continue in the same way, placing each folded sheet of phyllo gently next to the other, until all of the sheets of phyllo dough are in the pan. Drizzle the leftover butter over the top of the folded phyllo in the pan.

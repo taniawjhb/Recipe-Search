@@ -22,9 +22,9 @@ key_ingredients:
 
 ## Ingredients
 
-- 525 g minced beef (not too lean)
-- 225 g salsiccia
-- Approximately 600 ml meat stock
+- 525 grams minced beef (not too lean)
+- 225 grams salsiccia
+- Approximately 600 millilitres meat stock
 - 3 tablespoons extra virgin olive oil
 - 1 large carrot or two small ones
 - 1–2 ribs of celery
@@ -32,7 +32,7 @@ key_ingredients:
 - 2 sprigs rosemary
 - 2 bay leaves
 - Large pinch nutmeg
-- 250 ml dry white wine
+- 250 millilitres dry white wine
 - 1 1/2 tablespoon cornstarch (or flour)
 - Salt
 

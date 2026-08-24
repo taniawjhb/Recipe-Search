@@ -23,14 +23,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 250g dark chocolate with 70% cocoa
-- 30g cocoa powder, unsweetened
-- 60g almonds, blanched
-- 110g butter, unsalted
-- 150g granulated sugar
+- 250 grams dark chocolate with 70% cocoa
+- 30 grams cocoa powder, unsweetened
+- 60 grams almonds, blanched
+- 110 grams butter, unsalted
+- 150 grams granulated sugar
 - 4 eggs
-- 40g peanuts, skinless and unsalted
-- 2 tsp instant coffee
+- 40 grams peanuts, skinless and unsalted
+- 2 teaspoons instant coffee
 - 1 pinch salt
 - powdered sugar or unsweetened cocoa powder for decoration, optional
 

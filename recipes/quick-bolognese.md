@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 600g beef mince
+- 600 grams beef mince
 - 1 red onion, finely chopped
 - 1 medium sized carrot, finely chopped
 - 1-2 stalks celery, finely chopped
@@ -30,8 +30,8 @@ key_ingredients:
 - 1 sprig rosemary
 - 1 bay leaf
 - 1 can whole tomato
-- 2 tbsp tomato paste
-- 250ml beef stock
+- 2 tablespoons tomato paste
+- 250 millilitres beef stock
 - Handful of fresh chopped parsley
 - Olive oil
 - Knob of butter

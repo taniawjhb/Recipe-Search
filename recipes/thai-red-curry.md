@@ -23,17 +23,17 @@ key_ingredients:
 ## Ingredients
 
 - 4 chicken breasts, sliced
-- 2 tbsp fresh Red Curry Paste
+- 2 tablespoons fresh Red Curry Paste
 - 1 red chilli
 - 3 baby marrow, sliced
 - 3 patty pan, quartered
 - 3 baby squash, halved
 - 1 red onion, quartered
 - 1/2 cup basil
-- 400ml coconut milk
-- 200ml coconut cream
-- 1 tbsp fish sauce
-- 1 tsp sugar
+- 400 millilitres coconut milk
+- 200 millilitres coconut cream
+- 1 tablespoon fish sauce
+- 1 teaspoon sugar
 - Coconut/sunflower oil for frying
 
 ## Method

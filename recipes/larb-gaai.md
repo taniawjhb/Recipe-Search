@@ -24,21 +24,21 @@ key_ingredients:
 
 ## Ingredients
 
-- 4 tsp cornflour / cornstarch
-- 6 tbsp water
-- 5 tbsp lime juice (1 to 2 limes)
-- 4 tbsp fish sauce
-- 4 tsp brown sugar
-- 4 tbsp peanut oil (or other high smoke point cooking oil)
-- 2 tbsp fresh ginger, grated or very finely chopped
+- 4 teaspoons cornflour / cornstarch
+- 6 tablespoons water
+- 5 tablespoons lime juice (1 to 2 limes)
+- 4 tablespoons fish sauce
+- 4 teaspoons brown sugar
+- 4 tablespoons peanut oil (or other high smoke point cooking oil)
+- 2 tablespoons fresh ginger, grated or very finely chopped
 - 4 garlic cloves, large, minced
 - 2 lemongrass stalks, white and very pale green part only, finely chopped
 - 4 Thai or birds eye chilli, deseeded and finely chopped (adjust to taste)
-- 1000g chicken mince (ground chicken) OR pork
+- 1000 grams chicken mince (ground chicken) OR pork
 - 1 red onion, cut into 4 wedges then finely sliced
 - 2/3 cup coriander/cilantro leaves, plus extra to garnish
 - 2/3 cup mint leaves, plus extra to garnish
-- 6 tbsp crushed peanuts (optional)
+- 6 tablespoons crushed peanuts (optional)
 - 8 - 12 small to medium lettuce leaves
 - Extra lime wedges, chilli
 

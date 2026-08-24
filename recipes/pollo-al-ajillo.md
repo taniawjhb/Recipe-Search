@@ -29,8 +29,8 @@ key_ingredients:
 - 12 cloves garlic, peeled and lightly crushed
 - 2 bay leaves
 - 2 teaspoons chopped fresh thyme leaves
-- 200ml white wine
-- 200ml chicken stock
+- 200 millilitres white wine
+- 200 millilitres chicken stock
 
 ## Method
 

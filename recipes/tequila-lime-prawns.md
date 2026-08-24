@@ -23,15 +23,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 450g jumbo prawns, peeled and deveined
-- 2 tbsp tequila
-- 1 tbsp olive oil
-- 1/2 tsp salt
-- 1/4 tsp black pepper
-- 1 tsp paprika
-- 1 tsp cumin
-- 1/2 tsp brown sugar
-- 1/4 tsp chili powder
+- 450 grams jumbo prawns, peeled and deveined
+- 2 tablespoons tequila
+- 1 tablespoon olive oil
+- 1/2 teaspoon salt
+- 1/4 teaspoon black pepper
+- 1 teaspoon paprika
+- 1 teaspoon cumin
+- 1/2 teaspoon brown sugar
+- 1/4 teaspoon chili powder
 - 2 large garlic cloves, minced
 - 1 lime, juice and zest
 - 1 jalapeño, seeds removed and diced

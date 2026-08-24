@@ -19,9 +19,9 @@ key_ingredients:
 
 ## Ingredients
 
-- 400g 00 flour
+- 400 grams 00 flour
 - 220gms of egg (about 4 eggs)
-- 30ml olive oil
+- 30 millilitres olive oil
 - Pinch of salt
 
 ## Method

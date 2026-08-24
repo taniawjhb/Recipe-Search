@@ -34,6 +34,6 @@ key_ingredients:
 
 ## Method
 
-1. Preheat the oven to 200C.
+1. Preheat the oven to 200°C.
 2. Combine the asparagus, 2 teaspoons olive oil, salt, and garlic in a large bowl, tossing well to coat. Arrange the asparagus mixture in a single layer on a baking sheet. Bake for 12 minutes or until crisp-tender.
 3. Combine the remaining 2 teaspoons oil, rind, juice, mustard, and pepper in a small bowl, stirring with a whisk. Arrange the asparagus on a platter; drizzle the juice mixture over the asparagus. Sprinkle with parsley.

@@ -23,19 +23,19 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 1/4 lb boneless pork tenderloin
-- 1-2 tbsp olive oil
-- 2 tsp chopped sage
+- 1 1/4 pounds boneless pork tenderloin
+- 1-2 tablespoons olive oil
+- 2 teaspoons chopped sage
 - salt and pepper
 - 1 Gala apple, core removed and cut into chunks with the skin on
-- 125ml Loxtonia Cider or good quality cider
+- 125 millilitres Loxtonia Cider or good quality cider
 - 1/2 a yellow onion, diced
-- 2 tbsp balsamic vinegar
+- 2 tablespoons balsamic vinegar
 - 1 cup apple jam
 
 ## Method
 
-1. Preheat the oven to 180C. Heat 1 tablespoon of olive oil in a cast-iron skillet over high heat. Carefully place the pork tenderloin into the pan and cook each side for approximately 3 to 4 minutes, or until each side is nicely browned.
+1. Preheat the oven to 180°C. Heat 1 tablespoon of olive oil in a cast-iron skillet over high heat. Carefully place the pork tenderloin into the pan and cook each side for approximately 3 to 4 minutes, or until each side is nicely browned.
 2. Lower the heat to medium-low. Remove the tenderloin from the pan, temporarily placing it on a plate. Add a generous pinch of salt to both sides of the tenderloin, as well as a small pinch of freshly ground pepper; set aside.
 3. To the pan, add another tablespoon of oil (if needed). Add the apple chunks and diced onion. Give everything a stir and sauté for a couple of minutes until the onions turn translucent. Pour in 1 tablespoon of balsamic vinegar and stir everything together. Remove the skillet from the heat.
 4. Gently push aside the apple chunks and onions to clear a space in the middle of the pan for the pork tenderloin. Transfer the tenderloin back into the pan, pouring its residual juices from the plate in as well. Add the cider to the pan.

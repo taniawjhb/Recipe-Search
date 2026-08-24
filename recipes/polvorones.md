@@ -19,10 +19,10 @@ key_ingredients:
 
 ## Ingredients
 
-- 3 ½ cups (400g) all-purpose flour
-- 1 ½ cups (150g) powdered sugar
-- 1 cup (200g) lard (or melted butter)
-- 1 cup (125g) raw almonds, peeled
+- 3 1/2 cups (400 grams) all-purpose flour
+- 1 1/2 cups (150 grams) powdered sugar
+- 1 cup (200 grams) lard (or melted butter)
+- 1 cup (125 grams) raw almonds, peeled
 
 ## Method
 

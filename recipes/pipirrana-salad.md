@@ -28,7 +28,7 @@ key_ingredients:
 - 1 large green/red pepper
 - 2 cloves garlic, minced
 - A pinch of cumin
-- ½ teaspoon salt
+- 1/2 teaspoon salt
 - 3 tablespoons extra virgin olive oil
 - 2 tablespoons red wine vinegar
 

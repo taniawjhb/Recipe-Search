@@ -22,17 +22,17 @@ key_ingredients:
 ## Ingredients
 
 - 12 large free range eggs
-- 100ml cream
+- 100 millilitres cream
 - 40gms butter
 - Large knob of butter
-- 2 tbsp olive oil
+- 2 tablespoons olive oil
 - 2 punnets portabellini mushrooms
 - 2 cloves garlic, finely chopped
 - pinch of dry red chili
 - 1 red onion
-- 2 tsp finely chopped parsley
-- 50ml brandy/cognac
-- 100ml cream
+- 2 teaspoons finely chopped parsley
+- 50 millilitres brandy/cognac
+- 100 millilitres cream
 
 ## Method
 

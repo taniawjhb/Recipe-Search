@@ -22,7 +22,7 @@ key_ingredients:
 ## Ingredients
 
 - 2 tablespoons extra virgin olive oil
-- 1 tbsp butter
+- 1 tablespoon butter
 - 1 chorizo, split in 2, and diced
 - 1 cup diced onion
 - 2 teaspoons minced garlic

@@ -44,7 +44,7 @@ Whipped Topping:
 
 ## Method
 
-1. Preheat oven to 180C.
+1. Preheat oven to 180°C.
 2. In a medium bowl combine flour, baking powder, and salt. Separate the eggs into two other mixing bowls.
 3. Add 3/4 cup sugar to the bowl with the egg yolks and mix on high speed until yolks are pale yellow. Add 1/3 cup milk and vanilla and stir to combine. Pour the egg yolk mixture over the flour mixture and stir gently just until combined (don't over-mix).
 4. Use electric beaters to beat the egg whites on high speed. As they begin to whip into stiff peaks, gradually mix in the remaining 1/4 cup of sugar. Fold the stiffly beaten egg whites into the batter gently, scraping the bottom and sides of the bowl, until combined.

@@ -18,14 +18,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 500 ml cream
-- 1 vanilla pod OR 1 tsp vanilla bean paste
+- 500 millilitres cream
+- 1 vanilla pod OR 1 teaspoon vanilla bean paste
 - 5 egg yolks
-- 50 g caster sugar
+- 50 grams caster sugar
 
 ### Caramel Topping
 
-- 40 g caster sugar
+- 40 grams caster sugar
 
 ## Method
 
@@ -37,4 +37,4 @@ key_ingredients:
 6. Water bath: Pour in enough boiling water so it comes halfway up the sides of the ramekins. (If you have too much water, ramekins will float around – not good!)
 7. Bake for 35 – 40 minutes, or until the custard is set but there is still a slight wobble when you gently give the ramekin a little shake.
 8. Remove ramekins from water. Leave to cool, then refrigerate for at least 6 hours and preferably overnight (up to 3 days is OK).
-9. Blow torch method: Sprinkle 1/2 tsp sugar over the surface of each crème brûlée. Use a blow torch to melt and caramelise the sugar. Serve immediately.
+9. Blow torch method: Sprinkle 1/2 teaspoon sugar over the surface of each crème brûlée. Use a blow torch to melt and caramelise the sugar. Serve immediately.

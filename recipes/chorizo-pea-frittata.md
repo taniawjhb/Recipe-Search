@@ -22,20 +22,20 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 tsp oil
+- 1 teaspoon oil
 - 1 onion, roughly chopped
 - 1 red pepper, seeds removed, chopped
-- 200g chorizo, skin removed and roughly chopped
+- 200 grams chorizo, skin removed and roughly chopped
 - 6 free-range eggs
-- 50ml/2fl oz milk
+- 50 millilitres/2 fluid ounces milk
 - 1 garlic clove, finely chopped
-- 200g cooked potatoes, roughly chopped
-- 100g frozen peas
-- 2 tbsp chopped flatleaf parsley
+- 200 grams cooked potatoes, roughly chopped
+- 100 grams frozen peas
+- 2 tablespoons chopped flatleaf parsley
 
 ## Method
 
-1. Preheat the oven to 200C.
+1. Preheat the oven to 200°C.
 2. Heat an ovenproof frying pan on the hob until just hot, then add the oil, onion and red pepper and fry for 2 minutes, until just softened. Turn the heat up, add the chorizo and cook for 3-4 minutes until it has released its oil and is crisp around the edges. The mixture will go a lovely red colour.
 3. Meanwhile, crack the eggs into a large jug and whisk with the milk, a pinch of salt and plenty of black pepper.
 4. Add the garlic and potatoes to the chorizo mixture and fry for another 2 minutes, stirring gently, until just hot through. Add the peas and cook for another minute, until the whole mixture is hot.

@@ -21,9 +21,9 @@ key_ingredients:
 
 ## Ingredients
 
-- 400g kale, rinsed and finely sliced
-- 5 potatoes, peeled and sliced 1cm
-- 250ml stock + 1.5l water
+- 400 grams kale, rinsed and finely sliced
+- 5 potatoes, peeled and sliced 1 centimetre
+- 250 millilitres stock + 1.5 litres water
 - 1 chorizo, split into 3
 - 1 onion, diced
 - 2 cloves garlic, minced
@@ -36,4 +36,4 @@ key_ingredients:
 2. Meanwhile, in a frying pan over medium-low heat, fry the remaining chorizo, sliced then halved, until it has released most of its fat and is slightly crispy.
 3. Puree the potato mixture with a blender or food processor. Stir 1/3 chorizo, salt and pepper into the soup and return to medium heat.
 4. Cover and simmer 5 minutes.
-5. Stir kale into soup and simmer for 20 min, until kale is tender and jade green. Stir in the remaining tablespoon of olive oil, serve, and finish with a sprinkling of crispy chorizo.
+5. Stir kale into soup and simmer for 20 minutes, until kale is tender and jade green. Stir in the remaining tablespoon of olive oil, serve, and finish with a sprinkling of crispy chorizo.

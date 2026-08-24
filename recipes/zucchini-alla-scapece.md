@@ -21,13 +21,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 2 medium-large zucchini or 4-6 small zucchini, sliced 3-5mm
-- ¼ cup extra virgin olive oil
+- 2 medium-large zucchini or 4-6 small zucchini, sliced 3-5 millimetres
+- 1/4 cup extra virgin olive oil
 - Kosher salt to taste
 - Black pepper, freshly cracked, to taste
 - 2 tablespoons red wine vinegar
 - 1 clove garlic, smashed and peeled
-- ¼ cup fresh mint leaves, roughly chopped or torn
+- 1/4 cup fresh mint leaves, roughly chopped or torn
 
 ## Method
 

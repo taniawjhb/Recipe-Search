@@ -20,10 +20,10 @@ key_ingredients:
 
 ## Ingredients
 
-- 100g All-Purpose Flour
+- 100 grams All-Purpose Flour
 - 2 teaspoons baking powder
 - pinch of salt
-- 150 ml water
+- 150 millilitres water
 - 1 Tablespoon vegetable oil
 - 1 Banana
 - Sugar and/or shredded coconut for coating

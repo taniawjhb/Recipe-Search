@@ -23,11 +23,11 @@ key_ingredients:
 ## Ingredients
 
 - Juice of 2 lemons
-- 1.5kg prawns, cleaned and heads removed (optional, although I don't suggest it)
-- 4 tbsp butter
-- 150ml olive oil
+- 1.5 kilograms prawns, cleaned and heads removed (optional, although I don't suggest it)
+- 4 tablespoons butter
+- 150 millilitres olive oil
 - 10 cloves garlic, crushed
-- 3 tbsp piri-piri sauce (or more if desired)
+- 3 tablespoons piri-piri sauce (or more if desired)
 - 2 can beer
 - 1 cup chopped parsley
 - Salt & pepper

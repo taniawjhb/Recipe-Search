@@ -21,13 +21,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 250 ml whole milk
-- 130 g sugar
+- 250 millilitres whole milk
+- 130 grams sugar
 - Big pinch of salt
 - 1 lemon
-- 375 ml heavy cream
+- 375 millilitres heavy cream
 - 6 large egg yolks
-- 125 ml dry Marsala wine
+- 125 millilitres dry Marsala wine
 
 ## Method
 

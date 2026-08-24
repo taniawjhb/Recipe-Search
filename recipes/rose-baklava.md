@@ -29,14 +29,14 @@ key_ingredients:
 - 1 cup butter, melted
 - 1 cup white sugar
 - 1 cup water
-- 3 tbsp rose water
+- 3 tablespoons rose water
 - 1/2 cup honey
 - 1 teaspoon vanilla extract
 - 1 teaspoon grated lemon zest
 
 ## Method
 
-1. Preheat oven to 175 degrees C. Butter a 9x13 inch baking dish.
+1. Preheat oven to 175°C. Butter a 9x13 inch baking dish.
 2. Place the nuts and the cinnamon into a food processor and pulse until a fine texture, but do not overwork.
 3. Unroll the phyllo and cut the whole stack in half to fit the dish. Cover the phyllo with a damp cloth while assembling the baklava, to keep it from drying out.
 4. Place two sheets of phyllo in the bottom of the prepared dish. Brush generously with butter. Sprinkle 2 to 3 tablespoons of the nut mixture on top. Repeat the layers until all ingredients are used, ending with about 6 sheets of phyllo. Using a sharp knife, cut the baklava (all the way through to the bottom of the dish) into four long rows, then nine times diagonally to make 36 diamond shapes.

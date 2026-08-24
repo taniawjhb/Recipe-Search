@@ -21,14 +21,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 225g chicken livers, well-trimmed
+- 225 grams chicken livers, well-trimmed
 - 1/2 small onion, thinly sliced
 - 1 small garlic clove, smashed and peeled
 - 1 bay leaf
 - 1/4 teaspoon thyme leaves
 - fine salt
-- 120ml light chicken stock
-- 175g unsalted butter, at room temperature
+- 120 millilitres light chicken stock
+- 175 grams unsalted butter, at room temperature
 - 2 teaspoons Cognac or Scotch whisky
 - freshly ground pepper
 

@@ -25,7 +25,7 @@ key_ingredients:
 - 2 tablespoons oil
 - 1 tablespoon minced ginger
 - 1 tablespoon minced garlic
-- 1 cup (160 g) onions, chopped
+- 1 cup (160 grams) onions, chopped
 - 1.5 tablespoons Jamaican curry powder
 - 1 Scotch bonnet pepper, sliced
 - 3 sprigs fresh thyme, or 1/2 teaspoon dried thyme
@@ -33,7 +33,7 @@ key_ingredients:
 - 1/2 teaspoon ground allspice
 - 500gms boneless skinless chicken thighs, cut into 3 pieces each
 - 1 large potato, cut into 1-inch chunks
-- 1 cup (250 ml) water
+- 1 cup (250 millilitres) water
 
 ## Method
 

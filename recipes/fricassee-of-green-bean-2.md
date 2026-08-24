@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 300g green beans
+- 300 grams green beans
 - 2 shallot, finely sliced
 - 1/2 clove garlic
 - pinch dry red chilli

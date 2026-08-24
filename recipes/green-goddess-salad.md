@@ -36,11 +36,11 @@ key_ingredients:
 - 1 cup fresh parsley
 - 1 cup mixed soft leafy herbs, dill, mint, tarragon and/or cilantro
 - 2 tablespoons chopped chives
-- 2 tablespoons fresh lemon juice, plus ½ teaspoon zest
+- 2 tablespoons fresh lemon juice, plus 1/2 teaspoon zest
 - 1 tablespoon extra-virgin olive oil
 - 2 teaspoons capers
 - 1 small garlic clove
-- ¼ teaspoon sea salt
+- 1/4 teaspoon sea salt
 - Freshly ground black pepper
 
 ## Method

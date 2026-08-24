@@ -45,6 +45,6 @@ key_ingredients:
 
 ## Method
 
-1. In a large heavy-based pot, heat 2 tbsp olive oil. Add the chopped onions and sauté until golden brown. Add the garlic, all the spices, dried mint, sugar and flour. Cook for about 2 minutes on medium heat, stirring regularly.
+1. In a large heavy-based pot, heat 2 tablespoons olive oil. Add the chopped onions and sauté until golden brown. Add the garlic, all the spices, dried mint, sugar and flour. Cook for about 2 minutes on medium heat, stirring regularly.
 2. Now add the stock and water. Raise the heat to high and bring the liquid to a rolling boil; add the lentils. Cook for 5 minutes on high heat then reduce the heat to medium-low. Cover and cook for 20 minutes or until the lentils are fully cooked to tender. (Partway through cooking, check the liquid levels, and if you need to, add a little bit of hot water.)
 3. Once the lentils are fully cooked, add the baby spinach, stir in the lime juice and chopped parsley. Remove from the heat and let sit covered for 5 minutes or so. Serve hot with pita bread or your favourite rustic Italian bread.

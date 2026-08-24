@@ -22,12 +22,12 @@ key_ingredients:
 ## Ingredients
 
 - 4 garlic cloves
-- ½ tbsp roughly chopped fresh rosemary
-- 1 tbsp fresh parsley leaves
-- 1 tbsp extra-virgin olive oil
-- 400 g tin cannellini beans, drained and rinsed
+- 1/2 tablespoon roughly chopped fresh rosemary
+- 1 tablespoon fresh parsley leaves
+- 1 tablespoon extra-virgin olive oil
+- 400 grams tin cannellini beans, drained and rinsed
 - 2 salad onions, sliced
-- 30 g frozen peas, defrosted
+- 30 grams frozen peas, defrosted
 - 4 thick slices seeded bread
 
 ## Method

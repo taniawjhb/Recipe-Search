@@ -23,13 +23,13 @@ key_ingredients:
 
 ## Ingredients
 
-- 240g dried rice vermicelli noodles
+- 240 grams dried rice vermicelli noodles
 - 2 deboned chicken fillets, sliced finely across the grain
 - 1 large yellow onion, quartered
 - 2 (2-inch pieces) fresh ginger, unpeeled and halved length-wise
 - 6 cups chicken stock
 - 2 cups water
-- 1/2 tsp ground coriander
+- 1/2 teaspoon ground coriander
 - 2 whole cloves (optional)
 - 3 tablespoons fish sauce (or less, to taste preference)
 - 1/2 teaspoon hoisin sauce

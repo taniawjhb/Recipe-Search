@@ -21,18 +21,18 @@ key_ingredients:
 
 ## Ingredients
 
-- 250g all-purpose flour, plus more for hands and work surface
-- 75g granulated sugar
+- 250 grams all-purpose flour, plus more for hands and work surface
+- 75 grams granulated sugar
 - 1 tablespoon fresh lemon zest (about 1 lemon)
 - 2 and 1/2 teaspoons baking powder
 - 1/2 teaspoon salt
-- 115g unsalted butter, frozen
-- 120ml heavy cream (plus 2 Tbsp for brushing)
+- 115 grams unsalted butter, frozen
+- 120 millilitres heavy cream (plus 2 tablespoons for brushing)
 - 1 large egg
 - 1 and 1/2 teaspoons pure vanilla extract
-- 180g fresh or frozen blueberries (do not thaw)
+- 180 grams fresh or frozen blueberries (do not thaw)
 - for topping: coarse sugar
-- 120g confectioners' sugar
+- 120 grams confectioners' sugar
 - 3 tablespoons fresh lemon juice (about 1 large lemon)
 
 ## Method

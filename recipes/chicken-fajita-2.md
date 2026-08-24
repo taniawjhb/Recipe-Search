@@ -19,7 +19,7 @@ key_ingredients:
 ## Ingredients
 
 - 450gms skinless, boneless chicken thighs, cut in half
-- 3 tbsp fajita seasoning
+- 3 tablespoons fajita seasoning
 - 1 tablespoon vegetable oil
 - 1 green bell peppers, chopped
 - 1 red bell peppers, chopped

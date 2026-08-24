@@ -24,17 +24,17 @@ key_ingredients:
 ### Crust
 
 - 2 cups all-purpose flour
-- ½ cup granulated sugar
-- ½ teaspoon salt
+- 1/2 cup granulated sugar
+- 1/2 teaspoon salt
 - 1 cup (2 sticks) butter, chilled and cut into small cubes
 
 ### Filling
 
-- 240g cream cheese, softened
+- 240 grams cream cheese, softened
 - 2 cups granulated sugar
-- ¼ cup flour
-- ¾ cup fresh-squeezed passion fruit juice
-- ⅓ cup powdered sugar, plus more for topping
+- 1/4 cup flour
+- 3/4 cup fresh-squeezed passion fruit juice
+- 1/3 cup powdered sugar, plus more for topping
 - 6 large eggs
 - 1 teaspoon vanilla
 

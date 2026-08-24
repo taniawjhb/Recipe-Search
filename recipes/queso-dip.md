@@ -21,17 +21,17 @@ key_ingredients:
 
 ## Ingredients
 
-- 2.5 cups / 225 g Cheddar cheese, freshly shredded
-- 1 tbsp cornflour / cornstarch
-- 8 g butter
+- 2.5 cups / 225 grams Cheddar cheese, freshly shredded
+- 1 tablespoon cornflour / cornstarch
+- 8 grams butter
 - 1 large garlic clove, minced
 - 1/4 small white onion, very finely chopped
-- 375 g evaporated milk
+- 375 grams evaporated milk
 - 1 small tomato, finely diced (3/4 cup)
-- 1/4 tsp each onion powder, garlic powder, cumin
-- 113g can chopped green chile, fire roasted
+- 1/4 teaspoon each onion powder, garlic powder, cumin
+- 113 grams can chopped green chile, fire roasted
 - 1/4 cup coriander finely chopped
-- 2 - 3 tbsp milk, any
+- 2 - 3 tablespoons milk, any
 - Salt
 
 ## Method
@@ -42,5 +42,5 @@ key_ingredients:
 4. Add tomato (including juices) and cook for 2 minutes until tomato is slightly softened.
 5. Add evaporated milk and cheese. Stir, then add chiles and spices. Stir until cheese melts and it becomes a silky sauce.
 6. Add salt to taste - amount required depends on saltiness of cheese used - and stir through coriander.
-7. Stir in milk or water to adjust consistency (about 2 tbsp) - the dip thickens when it cools, and milk can be added later to adjust to taste.
+7. Stir in milk or water to adjust consistency (about 2 tablespoons) - the dip thickens when it cools, and milk can be added later to adjust to taste.
 8. Remove from heat. Serve warm or at room temperature - it will be soft and scoopable even when it cools.

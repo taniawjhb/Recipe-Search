@@ -26,8 +26,8 @@ key_ingredients:
 
 ### Prawns
 
-- 1kg prawns, shell on, deveined and cleaned
-- 3 tbsp butter
+- 1 kilogram prawns, shell on, deveined and cleaned
+- 3 tablespoons butter
 - 1/4 cup olive oil
 - 2 cloves of garlic, finely chopped
 - 1 glass white wine
@@ -65,8 +65,8 @@ key_ingredients:
 7. Heat the oil in a large saucepan over medium heat; add onion, carrot and celery and season with salt and pepper.
 8. Add the rice and stir to coat with the oil; season with salt and pepper and cook until slightly translucent. The rice should be hot and sizzling; stir carefully to ensure it does not stick.
 9. Add wine to the hot rice; the liquid should hiss and be quickly absorbed. Stir gently until almost all the liquid has cooked off. Add hot stock, a ladleful at a time, completely stirring in the liquid each time. At this stage you are trying to coax the starches out of the rice by gently and continuously stirring.
-10. Keep adding broth as needed so there is always a 1/2cm liquid layer over the rice.
-11. After about 8 minutes add the saffron, which has been soaked in 2 tbsp warm water.
+10. Keep adding broth as needed so there is always a 1/2 centimetre liquid layer over the rice.
+11. After about 8 minutes add the saffron, which has been soaked in 2 tablespoons warm water.
 12. After 15 to 20 minutes, the rice should be close to al dente.
 13. At this stage add the reserved prawn meat, cut into bite size hunks, and stir to combine well - the prawns will cook through in the heat of the rice.
 14. Taste and adjust seasoning.

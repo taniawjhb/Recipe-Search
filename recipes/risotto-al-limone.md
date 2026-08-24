@@ -22,11 +22,11 @@ key_ingredients:
 
 ## Ingredients
 
-- 1 cup (200g) risotto rice (arborio or carnaroli)
+- 1 cup (200 grams) risotto rice (arborio or carnaroli)
 - 4 cups (1 litre) chicken or veg stock
 - 1 onion, finely chopped
 - 1 lemon
-- 3 tablespoons (45g) unsalted butter
+- 3 tablespoons (45 grams) unsalted butter
 - 2 tablespoons Parmigiano Reggiano
 - Olive oil
 - Salt and pepper

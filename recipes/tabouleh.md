@@ -26,8 +26,8 @@ key_ingredients:
 ## Ingredients
 
 - 1.5 cups couscous
-- 2 tbsp olive oil
-- 1 tsp salt
+- 2 tablespoons olive oil
+- 1 teaspoon salt
 - 15 cherry tomatoes
 - 30 gms fresh parsley
 - 30 gms coriander
@@ -35,11 +35,11 @@ key_ingredients:
 - 1 small cucumber
 - 1/2 red pepper
 - 1/2 red onion
-- 2 tbsp chives
+- 2 tablespoons chives
 - 1/2 cup flaked almonds
 - Juice of 1 lemon
-- 4 tbsp olive oil
-- 2 tbsp red wine vinegar
+- 4 tablespoons olive oil
+- 2 tablespoons red wine vinegar
 - 1 clove garlic
 
 ## Method
@@ -48,5 +48,5 @@ key_ingredients:
 2. Prepare all the individual ingredients, cutting everything into a very small dice.
 3. To assemble the salad, start by loosening the couscous with a fork. The couscous should be loose and fluffy.
 4. Add all the prepared ingredients to the couscous, adding everything before stirring to mix, to avoid making the couscous mushy.
-5. Prepare the dressing by combining the juice of 1 lemon, 4 tbsp olive oil, 2 tbsp red wine vinegar, salt, pepper and the crushed garlic. Set aside until needed.
+5. Prepare the dressing by combining the juice of 1 lemon, 4 tablespoons olive oil, 2 tablespoons red wine vinegar, salt, pepper and the crushed garlic. Set aside until needed.
 6. Add the dressing and gently stir to combine all the ingredients.

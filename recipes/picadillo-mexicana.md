@@ -22,12 +22,12 @@ key_ingredients:
 ## Ingredients
 
 - 1 tablespoon olive oil
-- 250g yellow potatoes, cut into small dice
+- 250 grams yellow potatoes, cut into small dice
 - 1 medium yellow onion, chopped
 - 1 jalapeno pepper, chopped
 - 1 serrano pepper, chopped
 - 2 cloves garlic, chopped
-- 450g ground beef
+- 450 grams ground beef
 - 2 large tomatoes, chopped
 - 3/4 cup beef stock
 - 1 tablespoon paprika

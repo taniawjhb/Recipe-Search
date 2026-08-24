@@ -32,9 +32,9 @@ key_ingredients:
 - 1 large sweet potato, peeled and cubed
 - Salt
 - 1 1/2 teaspoons ras el hanout (increase if you like it spicier)
-- 1 tsp ground coriander
-- 1 tsp ground cinnamon
-- 1/2 tsp ground turmeric
+- 1 teaspoon ground coriander
+- 1 teaspoon ground cinnamon
+- 1/2 teaspoon ground turmeric
 - 2 cups canned whole peeled tomatoes
 - 1/2 cup heaping chopped dried apricot
 - 1 litre vegetable/chicken stock

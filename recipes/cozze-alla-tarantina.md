@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 1kg fresh mussels
+- 1 kilogram fresh mussels
 - 1 can tomato passata or peeled tomatoes
 - 1.5 teaspoon peperoncino flakes
 - 3 garlic cloves, peeled and chopped

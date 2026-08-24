@@ -23,21 +23,21 @@ key_ingredients:
 
 ## Ingredients
 
-- 1.5kg swiss chard
+- 1.5 kilograms swiss chard
 - 1 red onion, finely chopped
 - 1 leek, cut into strips
 - 1/2 bunch fresh dill, finely chopped
-- 1 tbsp sea salt
+- 1 tablespoon sea salt
 - 4 tbsps extra virgin olive oil
 
 For the feta sauce
 
-- 80ml milk (1/4 of a cup)
-- 80ml milk cream (1/4 of a cup)
-- 300g feta cheese (10.5 ounces)
-- 1/2 tbsp thyme
+- 80 millilitres milk (1/4 of a cup)
+- 80 millilitres milk cream (1/4 of a cup)
+- 300 grams feta cheese (10.5 ounces)
+- 1/2 tablespoon thyme
 - Salt and pepper to taste
-- 1/2 tsp sweet paprika
+- 1/2 teaspoon sweet paprika
 
 ## Method
 

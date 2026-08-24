@@ -29,7 +29,7 @@ key_ingredients:
 - 2 tablespoons berbere, divided
 - Homemade Berbere (strongly recommended)
 - 1 cup red lentils, rinsed
-- 2½ cups quality chicken broth
+- 2 1/2 cups quality chicken broth
 - 1 teaspoon salt
 
 ## Method

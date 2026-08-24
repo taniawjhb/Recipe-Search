@@ -25,8 +25,8 @@ key_ingredients:
 
 ### For the whipped feta
 
-- 240g good quality feta, drained and rinsed
-- ¾ cup Greek yogurt
+- 240 grams good quality feta, drained and rinsed
+- 3/4 cup Greek yogurt
 - 1 lemon, zest
 - 2 tablespoons extra virgin olive oil, more as needed
 - 1 teaspoon Aleppo pepper, or red pepper flakes (to your taste)
@@ -36,17 +36,17 @@ key_ingredients:
 ### For the seed topping
 
 - 1 teaspoon toasted sesame seeds
-- ¼ teaspoon chilli flakes
-- ¼ teaspoon lemon zest
+- 1/4 teaspoon chilli flakes
+- 1/4 teaspoon lemon zest
 - 2 teaspoons extra virgin olive oil
 
 ### For the pita chips
 
 - 4 pita
-- 2 tsp sumac spice
-- 2 tsp zaatar
-- 1/2 tsp salt
-- 3 tbsp olive oil
+- 2 teaspoons sumac spice
+- 2 teaspoons zaatar
+- 1/2 teaspoon salt
+- 3 tablespoons olive oil
 
 ## Method
 
@@ -64,4 +64,4 @@ key_ingredients:
 
 1. Warm your pita for 20 seconds in the microwave to help them loosen up, then slice in half through the pita. Now cut the pita into 12 or so chips (as you would a pizza).
 2. Add the olive oil, spices and salt to a bowl, stir to combine, then add the pita chips and gently toss them to coat with the seasoning, being careful not to break them.
-3. Place the pita chips in a single layer and bake in a hot oven, 220C on the middle rack, turning once or twice, until golden and crunchy. Keep an eye on them as they can burn easily.
+3. Place the pita chips in a single layer and bake in a hot oven, 220°C on the middle rack, turning once or twice, until golden and crunchy. Keep an eye on them as they can burn easily.

@@ -23,13 +23,13 @@ key_ingredients:
 - 3/4 cup granulated sugar
 - 1 cup whole milk
 - 2 cups heavy cream
-- 1 tsp vanilla extract
-- 1/4 tsp salt
+- 1 teaspoon vanilla extract
+- 1/4 teaspoon salt
 
 ### For the Mix Ins
 
 - 1/3 cup creamy peanut butter
-- 100g milk chocolate
+- 100 grams milk chocolate
 
 ## Method
 

@@ -23,17 +23,17 @@ key_ingredients:
 
 ### For the salad
 
-- 250g baby beetroot, halved or quartered if they are large
-- 120g rocket leaves
-- 60g feta
-- 3 tbsp walnuts, lightly crushed with your fingers
+- 250 grams baby beetroot, halved or quartered if they are large
+- 120 grams rocket leaves
+- 60 grams feta
+- 3 tablespoons walnuts, lightly crushed with your fingers
 
 ### Dressing
 
-- 2 1/2 tbsp extra virgin olive oil
-- 1 tbsp balsamic vinegar (ordinary, not aged or glazed)
-- 1 tbsp honey
-- 1/2 tsp salt
+- 2 1/2 tablespoons extra virgin olive oil
+- 1 tablespoon balsamic vinegar (ordinary, not aged or glazed)
+- 1 tablespoon honey
+- 1/2 teaspoon salt
 - Black pepper
 
 ## Method

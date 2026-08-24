@@ -21,15 +21,15 @@ key_ingredients:
 ## Ingredients
 
 - 5 eggs, separated
-- 1 cup brown sugar, or ¾ cup white sugar
+- 1 cup brown sugar, or 3/4 cup white sugar
 - Pinch sea salt
-- ½ cup oil
-- ⅓ cup coconut milk
-- 1 tsp vanilla extract
-- 2 tsp baking powder
+- 1/2 cup oil
+- 1/3 cup coconut milk
+- 1 teaspoon vanilla extract
+- 2 teaspoons baking powder
 - 1 cup white flour
-- 3 tsp green tea powder, such as Japanese "matcha"
-- 1 tsp or more icing sugar
+- 3 teaspoons green tea powder, such as Japanese "matcha"
+- 1 teaspoon or more icing sugar
 
 ## Method
 

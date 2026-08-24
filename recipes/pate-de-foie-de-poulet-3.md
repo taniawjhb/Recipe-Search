@@ -29,7 +29,7 @@ key_ingredients:
 - 1 bay leaf
 - 1/4 teaspoon thyme leaves
 - fine salt
-- 120ml light chicken stock
+- 120 millilitres light chicken stock
 - 175gms unsalted butter, at room temperature
 - 2 teaspoons Cognac or Scotch whisky
 - Freshly ground pepper

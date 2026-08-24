@@ -23,17 +23,17 @@ key_ingredients:
 
 ## Ingredients
 
-- 800 g eggplant, cut into 2.5cm/1" cubes
-- 2 tbsp extra virgin olive oil
-- 1/2 tsp each salt and pepper
-- 2 tbsp extra virgin olive oil
+- 800 grams eggplant, cut into 2.5 centimetres/1" cubes
+- 2 tablespoons extra virgin olive oil
+- 1/2 teaspoon each salt and pepper
+- 2 tablespoons extra virgin olive oil
 - 4 garlic cloves, finely minced
 - 1/2 small onion, very finely chopped
-- 65 ml dry white wine, anything not too sweet or woody
-- 700 g tomato passata
-- 65 ml water
-- 1 tsp dried oregano
-- 1/2 tsp red chili flakes, optional (for a hint of heat)
+- 65 millilitres dry white wine, anything not too sweet or woody
+- 700 grams tomato passata
+- 65 millilitres water
+- 1 teaspoon dried oregano
+- 1/2 teaspoon red chili flakes, optional (for a hint of heat)
 - Salt and pepper to taste
 
 ## Method

@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 120g butter, divided
+- 120 grams butter, divided
 - 6 carrots, peeled and cut into thick circles
 - 1/4-1/5 cup ratafia
 - 1/3 cup honey

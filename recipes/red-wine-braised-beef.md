@@ -27,20 +27,20 @@ key_ingredients:
 
 - 1 tablespoon oil
 - 6 slices bacon, roughly chopped
-- 1.5kg chuck beef, cut into 5cm pieces
+- 1.5 kilograms chuck beef, cut into 5 centimetres pieces
 - 1 cup red wine, may sub chicken stock
 - 2 cups beef broth
-- ½ cup tomato sauce
+- 1/2 cup tomato sauce
 - 1 beef stock cube, crushed
-- ¼ cup flour
+- 1/4 cup flour
 - 2 large carrots, cut into 5-cm pieces
 - 1 white onion, chopped
 - 1 tablespoon minced garlic
 - 2 tablespoons fresh thyme, chopped, or 3 teaspoons dried thyme
-- 450g baby potatoes
-- 240g fresh mushrooms, sliced
+- 450 grams baby potatoes
+- 240 grams fresh mushrooms, sliced
 - 1-2 teaspoons salt, or to taste
-- ½ teaspoon pepper
+- 1/2 teaspoon pepper
 - chopped parsley for garnish
 
 ## Method

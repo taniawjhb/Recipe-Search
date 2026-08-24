@@ -35,7 +35,7 @@ key_ingredients:
 
 ## Method
 
-1. Slice your tuna into 0.5cm cubes and place them in a mixing bowl.
+1. Slice your tuna into 0.5 centimetres cubes and place them in a mixing bowl.
 2. In a small bowl, whisk together the ginger, soy sauce, lemon juice and sesame oil until combined.
 3. Pour the sauce over the tuna and gently mix until incorporated. Now add the avocado cubes and gently stir to avoid crushing them.
 4. Transfer into serving bowls and sprinkle with the chopped green onion and toasted sesame seeds.

@@ -28,17 +28,17 @@ key_ingredients:
 - 1 medium potato, cut into dice
 - 1 stalk of celery, cut into small pieces
 - 1 Portuguese chorizo
-- 1 medium can (420g) red kidney beans (with the liquid of the can)
-- 1/2 can (210g) white beans, drained
+- 1 medium can (420 grams) red kidney beans (with the liquid of the can)
+- 1/2 can (210 grams) white beans, drained
 - 2 cups fresh spinach
 - 1 garlic clove, minced
-- 1 tbsp tomato paste
+- 1 tablespoon tomato paste
 - 1 cup of meat broth
 - 1 cup water
 - 1 bay leaf
-- 1 tsp thyme
+- 1 teaspoon thyme
 - Sprinkle of pepper
-- 1 tsp olive oil
+- 1 teaspoon olive oil
 
 ## Method
 

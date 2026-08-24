@@ -21,15 +21,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 150g onions, finely chopped
-- 2 tbsp oil (vegetable oil may be substituted)
+- 150 grams onions, finely chopped
+- 2 tablespoons oil (vegetable oil may be substituted)
 - 2 cloves garlic
-- 150g peanut butter
-- 250ml coconut milk
-- 2 tsp vegetable stock powder
+- 150 grams peanut butter
+- 250 millilitres coconut milk
+- 2 teaspoons vegetable stock powder
 - Salt to taste
-- 1 tsp crushed red pepper, or to taste
-- 1.5kg fresh, young cassava leaves (spinach, finely chopped)
+- 1 teaspoon crushed red pepper, or to taste
+- 1.5 kilograms fresh, young cassava leaves (spinach, finely chopped)
 
 ## Method
 

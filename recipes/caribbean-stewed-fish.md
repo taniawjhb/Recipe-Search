@@ -22,7 +22,7 @@ key_ingredients:
 
 ## Ingredients
 
-- For the fish: 1.5kg firm white fish – cleaned, scaled and cut in steaks
+- For the fish: 1.5 kilograms firm white fish – cleaned, scaled and cut in steaks
 - 1/2 teaspoon grated ginger
 - 1/2 teaspoon white pepper
 - 1 teaspoon minced garlic

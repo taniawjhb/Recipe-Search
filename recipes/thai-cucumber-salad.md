@@ -22,16 +22,16 @@ key_ingredients:
 
 ## Ingredients
 
-- ¼ cup fresh lime juice
+- 1/4 cup fresh lime juice
 - 1 tablespoon fish sauce
 - 1 tablespoon sugar
 - 2 Thai chiles, thinly sliced
 - 1 small garlic clove, finely grated
 - 2 tablespoons canola oil
-- 3 English cucumbers, halved lengthwise, seeded, and sliced crosswise ¼-inch thick
+- 3 English cucumbers, halved lengthwise, seeded, and sliced crosswise 1/4-inch thick
 - 1 cup packed cilantro, chopped
-- ½ cup salted roasted peanuts
-- ½ small red onion, very thinly sliced
+- 1/2 cup salted roasted peanuts
+- 1/2 small red onion, very thinly sliced
 - Kosher salt
 
 ## Method

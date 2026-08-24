@@ -24,29 +24,29 @@ key_ingredients:
 
 ### Pudding
 
-- 226.8g medjool dates, pitted
-- 240ml boiling water
-- 75g butter, room temperature
-- 145g light brown sugar, firmly packed
-- 8.5g vanilla extract
+- 226.8 grams medjool dates, pitted
+- 240 millilitres boiling water
+- 75 grams butter, room temperature
+- 145 grams light brown sugar, firmly packed
+- 8.5 grams vanilla extract
 - 2 large eggs, room temperature
-- 35g molasses
-- 210g all-purpose flour
+- 35 grams molasses
+- 210 grams all-purpose flour
 - 1 heaped tsp baking powder
-- 1 tsp baking soda
+- 1 teaspoon baking soda
 - pinch of salt
 
 ### Toffee Sauce
 
-- 120ml heavy whipping cream
-- 115g butter
-- 165g light brown sugar, packed
+- 120 millilitres heavy whipping cream
+- 115 grams butter
+- 165 grams light brown sugar, packed
 - 1 pinch salt
-- 1 tsp vanilla extract
+- 1 teaspoon vanilla extract
 
 ## Method
 
-1. Preheat the oven to 175C. Lightly grease a 12-cup muffin tin or ramekins.
+1. Preheat the oven to 175°C. Lightly grease a 12-cup muffin tin or ramekins.
 2. Add the dates to the bowl of a food processor and pour boiling water on top. Set aside for 5 minutes.
 3. Meanwhile, prepare the batter: cream together butter and brown sugar. Add eggs, one at a time, beating after each addition. Add the molasses and vanilla and mix.
 4. Sift together the flour, baking powder and salt, and then stir into the batter.

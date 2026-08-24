@@ -21,11 +21,11 @@ key_ingredients:
 
 ## Ingredients
 
-- 300g tender stem broccoli
+- 300 grams tender stem broccoli
 - 1 orange
 - 1/4 cup olive oil
 - 3 cloves garlic
-- 1/4 tsp crushed red pepper flakes
+- 1/4 teaspoon crushed red pepper flakes
 - 1/4 cup flaked almonds
 - salt
 

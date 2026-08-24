@@ -31,8 +31,8 @@ key_ingredients:
 - 1 teaspoon dill (chopped)
 - Drizzle balsamic vinegar (to taste)
 - Drizzle extra virgin olive oil (to taste)
-- 2 tbsp red wine vinegar
-- 6 tbsp extra virgin olive oil
+- 2 tablespoons red wine vinegar
+- 6 tablespoons extra virgin olive oil
 
 ## Method
 

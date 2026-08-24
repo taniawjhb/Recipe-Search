@@ -27,8 +27,8 @@ key_ingredients:
 - 2 tomatoes, thinly sliced
 - Olives
 - White onion rings
-- 2 tbsp spirit vinegar
-- 5 tbsp olive oil
+- 2 tablespoons spirit vinegar
+- 5 tablespoons olive oil
 
 ## Method
 

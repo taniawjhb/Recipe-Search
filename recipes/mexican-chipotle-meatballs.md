@@ -26,7 +26,7 @@ For the meatballs:
 
 - 1 teaspoon sunflower oil
 - 1 large brown onion, finely diced
-- 800 g grass-fed beef mince
+- 800 grams grass-fed beef mince
 - 3 medium dried chipotle chilies (tinned chipotle can also be used), seeds out / 2 level tsp chipotle paste
 - 2 tablespoons chopped fresh coriander (cilantro)
 - 2 large garlic cloves, finely diced
@@ -46,7 +46,7 @@ For the sauce:
 - 1 teaspoon ground cumin seed or powder
 - 1/2 teaspoon paprika
 - 2 bay leaves
-- 400 g diced tomatoes or tomato puree (about 1 1/2 cups)
+- 400 grams diced tomatoes or tomato puree (about 1 1/2 cups)
 - 1/2 teaspoon sea salt
 
 ## Method

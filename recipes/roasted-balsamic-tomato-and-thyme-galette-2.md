@@ -22,26 +22,26 @@ key_ingredients:
 
 ### For the Galette Pastry
 
-- 1 and ½ cups all purpose flour
-- ½ teaspoon salt
-- ½ cup unsalted butter
+- 1 and 1/2 cups all purpose flour
+- 1/2 teaspoon salt
+- 1/2 cup unsalted butter
 - 5-6 tablespoons ice cold water
 
 ### For the cherry tomato filling
 
-- 500g cherry tomatoes
+- 500 grams cherry tomatoes
 - 2 tablespoons olive oil
 - 2 tablespoons balsamic vinegar
 - 7-8 cloves garlic, adjust to taste
 - 1 tablespoon fresh chopped thyme
-- ¼ teaspoon salt
+- 1/4 teaspoon salt
 
 ## Method
 
 ### For the galette dough
 
 1. Mix together the flour and salt in a large mixing bowl. Using a pastry cutter or your fingers, cut in the cubes of butter until they are crumbly and pea-sized.
-2. Mix in the ice-cold water one tablespoon at a time, stirring with a wooden spoon until a cohesive ball of dough forms. The dough will still be slightly crumbly, that's okay. Wrap tightly in plastic wrap and let rest in the fridge for 30 minutes. Preheat the oven to 220C.
+2. Mix in the ice-cold water one tablespoon at a time, stirring with a wooden spoon until a cohesive ball of dough forms. The dough will still be slightly crumbly, that's okay. Wrap tightly in plastic wrap and let rest in the fridge for 30 minutes. Preheat the oven to 220°C.
 
 ### For the cherry tomato filling
 
@@ -51,4 +51,4 @@ key_ingredients:
 
 1. On a lightly floured surface, roll out the pastry dough into a 12-inch circle. Place on a parchment paper lined sheet pan or on a preheated pizza stone.
 2. Pour the cherry tomato filling into the center of the galette, leaving about 2 inches of a border. Fold the border in over just the edges of the cherry tomatoes.
-3. Bake for 25-30 minutes at 220C on the middle oven rack, until the galette is golden brown. Remove the galette from the oven and allow to cool for 10 to 15 minutes before cutting.
+3. Bake for 25-30 minutes at 220°C on the middle oven rack, until the galette is golden brown. Remove the galette from the oven and allow to cool for 10 to 15 minutes before cutting.

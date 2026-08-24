@@ -21,18 +21,18 @@ key_ingredients:
 
 ## Ingredients
 
-- 225-250 g block halloumi
-- 2 tbsp olive oil
+- 225-250 grams block halloumi
+- 2 tablespoons olive oil
 
 Optional finishing
 
-- 1 1/2 tbsp honey
-- 1/2 tsp fresh thyme leaves and tiny sprigs
+- 1 1/2 tablespoons honey
+- 1/2 teaspoon fresh thyme leaves and tiny sprigs
 - 2 – 3 pinches chilli flakes (red pepper flakes), optional
 
 ## Method
 
-1. Cut halloumi into 1-1.25 cm thick slices. Place the slices on a paper towel and pat the surface dry.
+1. Cut halloumi into 1-1.25 centimetres thick slices. Place the slices on a paper towel and pat the surface dry.
 2. Warm a serving plate.
 3. Heat the oil in a non stick pan over medium high heat. Carefully place the halloumi in the pan. Cook for 1 1/2 minutes or until the underside is golden. Shuffle if needed so they cook evenly.
 4. Turn gently and cook the other side for 1 – 1/2 minutes until golden. Transfer onto some paper towel to absorb excess oil and then transfer onto the serving plate.

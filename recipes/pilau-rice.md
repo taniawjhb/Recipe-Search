@@ -20,14 +20,14 @@ key_ingredients:
 
 ## Ingredients
 
-- 60 g butter
+- 60 grams butter
 - 2 cups basmati rice
-- 2 tsp turmeric
+- 2 teaspoons turmeric
 - 2 bay leaves
 - 6 green cardamom pods
 - 8 cloves
-- 1 tsp fennel seeds
-- 2 tsp salt
+- 1 teaspoon fennel seeds
+- 2 teaspoons salt
 - 3 cups boiling water
 
 ## Method

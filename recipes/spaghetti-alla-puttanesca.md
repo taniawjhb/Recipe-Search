@@ -21,16 +21,16 @@ key_ingredients:
 
 ## Ingredients
 
-- 450g dried spaghetti
-- 1/2 cup (120ml) extra-virgin olive oil, divided
+- 450 grams dried spaghetti
+- 1/2 cup (120 millilitres) extra-virgin olive oil, divided
 - 4 medium cloves garlic, thinly sliced or finely chopped by hand
-- 4 to 6 anchovy fillets, finely chopped (20-30ml chopped anchovy)
+- 4 to 6 anchovy fillets, finely chopped (20-30 millilitres chopped anchovy)
 - Large pinch red pepper flakes
-- 1/4 cup capers, drained and chopped (60g)
-- 1/4 cup chopped pitted black olives (60g)
-- 1 (14-ounce; about 400g) can whole peeled tomatoes, preferably San Marzano, roughly broken up by hand
+- 1/4 cup capers, drained and chopped (60 grams)
+- 1/4 cup chopped pitted black olives (60 grams)
+- 1 (14-ounce; about 400 grams) can whole peeled tomatoes, preferably San Marzano, roughly broken up by hand
 - Small handful minced fresh parsley leaves
-- 1 ounce (30g) finely grated Pecorino Romano or Parmesan cheese, plus more for serving
+- 1 ounce (30 grams) finely grated Pecorino Romano or Parmesan cheese, plus more for serving
 - Freshly ground black pepper
 
 ## Method

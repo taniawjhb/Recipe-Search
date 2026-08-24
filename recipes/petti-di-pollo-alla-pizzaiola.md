@@ -24,7 +24,7 @@ key_ingredients:
 ## Ingredients
 
 - 4 chicken breasts
-- 2 tbsp cake flour, seasoned with salt & pepper
+- 2 tablespoons cake flour, seasoned with salt & pepper
 - Olive oil to fry
 - 1 onion, diced
 - 2 cloves garlic, minced

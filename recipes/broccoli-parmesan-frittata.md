@@ -28,7 +28,7 @@ key_ingredients:
 - 225gms broccoli, ends cut off, cut into bite size pieces
 - 8 large eggs
 - 3/4 cup ricotta cheese (you can use cottage cheese if you prefer)
-- 1 tbsp minced fresh chives
+- 1 tablespoon minced fresh chives
 - 1/4 teaspoon dried tarragon
 - 1 cup shredded Parmesan cheese
 

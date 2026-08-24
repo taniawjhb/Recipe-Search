@@ -33,7 +33,7 @@ key_ingredients:
 - 1/2 cup ketchup
 - 2-3 tablespoons molasses
 - 1/3 cup apple cider vinegar
-- 1 pork tenderloin (about 500g), cut into 4 pieces
+- 1 pork tenderloin (about 500 grams), cut into 4 pieces
 
 ## Method
 
@@ -81,7 +81,7 @@ sources:
 - 1/2 cup tomato sauce (All Gold)
 - 2 tablespoons molasses
 - 1/2 cup apple cider vinegar
-- 1 pork tenderloin (about 500g), cut into 4 pieces
+- 1 pork tenderloin (about 500 grams), cut into 4 pieces
 
 ## Method
 

@@ -25,15 +25,15 @@ key_ingredients:
 
 Custard filling
 
-- 1120 g whole milk
-- 200 g granulated sugar
-- 90 g semolina, fine
-- 30 g corn starch
+- 1120 grams whole milk
+- 200 grams granulated sugar
+- 90 grams semolina, fine
+- 30 grams corn starch
 - 3 eggs, medium
 - 1 teaspoon vanilla extract
 - lemon zest, of 1 lemon
 - 1 pinch salt
-- 90 g butter
+- 90 grams butter
 
 For the topping
 
@@ -54,7 +54,7 @@ To serve
 2. In a pot, add the milk and the sugar, and transfer over medium heat until it comes to a boil. In a bowl, add the semolina and the cornstarch, and mix. Add the eggs, vanilla extract, lemon zest, salt, and mix very well with a hand whisk.
 3. With a ladle, slowly add the hot milk from the pot into the bowl with the eggs, constantly stirring.
 4. Add the mixture into the pot again, transfer on heat, and stir constantly until the cream thickens. Remove from the heat, add the butter, and mix until it melts.
-5. Butter a 27 cm baking dish and sprinkle with semolina. Pour the whole mixture and spread it well with a spatula.
+5. Butter a 27 centimetres baking dish and sprinkle with semolina. Pour the whole mixture and spread it well with a spatula.
 6. For the coating: In a bowl, add the water, egg, sugar, and mix well.
 7. With a pastry brush, spread it over the whole surface of the milk pie and bake for 40-45 minutes.
 8. Remove from the heat and allow at least 4 hours for it to cool well.

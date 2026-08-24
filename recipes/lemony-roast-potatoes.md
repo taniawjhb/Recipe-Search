@@ -23,10 +23,10 @@ key_ingredients:
 
 ## Ingredients
 
-- 1kg potatoes peeled and chopped into chunky wedges
+- 1 kilogram potatoes peeled and chopped into chunky wedges
 - 6 garlic cloves crushed
 - 1/2 cup chicken broth (or vegetable broth)
-- 2 tbsp white wine
+- 2 tablespoons white wine
 - 1/2 cup olive oil
 - 1 large lemon, zested and juiced (medium to large)
 - 1 tablespoon oregano dried
@@ -36,7 +36,7 @@ key_ingredients:
 
 ## Method
 
-1. Grease a large baking dish or tray with olive oil and preheat the oven to 400F / 200C.
+1. Grease a large baking dish or tray with olive oil and preheat the oven to 400°F / 200°C.
 2. Cut the potatoes into chunky wedges and set aside.
 3. In a large bowl combine the garlic, stock, white wine, olive oil, lemon juice & zest, oregano and salt and pepper. Stir well, then add the potatoes and coat well. Pour the potato wedges into the dish/tray in an even layer.
 4. Bake uncovered for 45 minutes. Then stir well, turning all the potatoes and spooning over the liquid. Bake again for another 45 minutes or until the potatoes are well browned.

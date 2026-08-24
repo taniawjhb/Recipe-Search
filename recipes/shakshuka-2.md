@@ -21,16 +21,16 @@ key_ingredients:
 
 ## Ingredients
 
-- 3 tbsp olive oil
+- 3 tablespoons olive oil
 - 3 cloves garlic, finely chopped
 - 2 onions cut into fine rings
 - 4 medium size red/yellow/green pepper
-- 1 tsp ground cumin
-- 1 tsp unsmoked paprika
-- 1000ml ready made tomato sauce
+- 1 teaspoon ground cumin
+- 1 teaspoon unsmoked paprika
+- 1000 millilitres ready made tomato sauce
 - 200gms danish feta
-- 100ml white wine
-- 2 tbsp finely shredded basil
+- 100 millilitres white wine
+- 2 tablespoons finely shredded basil
 - 12 large free range eggs
 - extra olive oil for drizzling
 

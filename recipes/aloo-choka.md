@@ -27,7 +27,7 @@ key_ingredients:
 - 1 clove garlic, finely minced or grated
 - 1/4 green hot pepper, Serrano or habanero
 - 1 clove sliced garlic to temper
-- 1/2 tsp cayenne pepper
+- 1/2 teaspoon cayenne pepper
 
 ## Method
 

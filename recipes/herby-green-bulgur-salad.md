@@ -25,15 +25,15 @@ key_ingredients:
 
 - 2 cups bulgur wheat, dry (I used Turkish bulgur)
 - 3 cups boiling water
-- 1 tsp salt, or more to taste
+- 1 teaspoon salt, or more to taste
 - 1/4 cup olive oil
 - 1 cup cucumber, diced
 - 1 zucchini, diced
 - 1 cup green onion, chopped
-- 3/4 tsp cumin powder
-- 3 tbsp chopped chives
+- 3/4 teaspoon cumin powder
+- 3 tablespoons chopped chives
 - 1 lemon, juiced
-- 2 tbsp pomegranate molasses
+- 2 tablespoons pomegranate molasses
 - 2 tablespoons jalapeño pepper
 - 1 stalk celery, chopped
 - 1/2 cup crumbled feta cheese
@@ -44,11 +44,11 @@ key_ingredients:
 - 1 cup fresh parsley
 - 1 cup mixed soft leafy herbs (dill, mint, tarragon and/or cilantro)
 - 2 tablespoons chopped chives
-- 2 tablespoons fresh lemon juice, plus ½ teaspoon zest
+- 2 tablespoons fresh lemon juice, plus 1/2 teaspoon zest
 - 1 tablespoon extra-virgin olive oil
 - 2 teaspoons capers
 - 1 small garlic clove
-- ¼ teaspoon sea salt
+- 1/4 teaspoon sea salt
 - Freshly ground black pepper
 
 ## Method

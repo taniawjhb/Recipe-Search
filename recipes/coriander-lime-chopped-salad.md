@@ -24,9 +24,9 @@ key_ingredients:
 - 2 tomatoes, sliced or quartered
 - 1/2 red onion, thinly sliced
 - 1 avocado, sliced or diced
-- 1 tbs finely chopped cilantro
+- 1 tablespoon finely chopped cilantro
 - Juice of 2 limes
-- 2 tbs olive oil
+- 2 tablespoons olive oil
 - Salt and pepper to taste
 
 ## Method

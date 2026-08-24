@@ -21,15 +21,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 200g unsalted butter
-- 210g blanched whole almonds
-- 180g fine-quality bittersweet chocolate (not unsweetened)
+- 200 grams unsalted butter
+- 210 grams blanched whole almonds
+- 180 grams fine-quality bittersweet chocolate (not unsweetened)
 - 4 large eggs
 - 1 cup white sugar
 
 ## Method
 
-1. Preheat oven to 180°C and butter a 22cm cake pan. Line bottom of pan with a round of wax paper and butter the paper.
+1. Preheat oven to 180°C and butter a 22 centimetres cake pan. Line bottom of pan with a round of wax paper and butter the paper.
 2. Melt butter and cool. In a food processor finely grind together almonds and chocolate.
 3. Separate eggs.
 4. In a bowl with an electric mixer, beat yolks with granulated sugar until very thick and pale.

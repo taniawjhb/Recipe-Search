@@ -25,7 +25,7 @@ key_ingredients:
 - 1 small red onion, chopped
 - 1/4 cup (2 handfuls) cilantro leaves, finely chopped (substitute parsley if cilantro is not to your liking)
 - 1 tablespoon extra-virgin olive oil
-- 500g beef mince
+- 500 grams beef mince
 - 2-3 cloves garlic, chopped
 - 1 onion, chopped
 - 1 jalapeno pepper, seeded and chopped
@@ -33,7 +33,7 @@ key_ingredients:
 - 2 teaspoons dark chili powder
 - 2 teaspoons ground cumin, half a palmful
 - 2 teaspoons paprika
-- 1 can black beans, 400g, drained
+- 1 can black beans, 400 grams, drained
 - 1-2 cups cooked tomato sauce (sub for canned chopped tomato and extend cook time)
 - 2 tablespoons butter
 - 2 tablespoons all-purpose flour

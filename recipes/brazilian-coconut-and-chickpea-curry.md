@@ -23,25 +23,25 @@ key_ingredients:
 
 ## Ingredients
 
-- 1.5 tbsp olive oil
+- 1.5 tablespoons olive oil
 - 1 onion, finely chopped
 - 2 garlic cloves, minced
-- 1 red capsicum/bell pepper, cut into 3 x 0.75cm strips
+- 1 red capsicum/bell pepper, cut into 3 x 0.75 centimetres strips
 - 2 cans chickpeas, drained
-- 400ml coconut milk, full fat for best flavour
-- 400ml can crushed tomato
-- 1 cup (250ml) chicken or vegetable stock/broth, low sodium
-- 1 tbsp paprika
-- 1 tbsp cumin
-- 1/2 - 1 tsp cayenne pepper (adjust spiciness to taste)
-- 1.5 tsp sugar
-- 0.5 tsp salt
-- 50g baby spinach leaves (or kale)
+- 400 millilitres coconut milk, full fat for best flavour
+- 400 millilitres can crushed tomato
+- 1 cup (250 millilitres) chicken or vegetable stock/broth, low sodium
+- 1 tablespoon paprika
+- 1 tablespoon cumin
+- 1/2 - 1 teaspoon cayenne pepper (adjust spiciness to taste)
+- 1.5 teaspoons sugar
+- 0.5 teaspoons salt
+- 50 grams baby spinach leaves (or kale)
 
 ### Finishing & serving
 
-- 3 tbsp coriander/cilantro, roughly chopped, plus more for serving
-- 1 tbsp lime juice, plus extra wedges for serving
+- 3 tablespoons coriander/cilantro, roughly chopped, plus more for serving
+- 1 tablespoon lime juice, plus extra wedges for serving
 
 ## Method
 

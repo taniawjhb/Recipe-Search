@@ -22,25 +22,25 @@ key_ingredients:
 
 ## Ingredients
 
-- 710ml whole milk
-- 2 tsp vanilla extract
+- 710 millilitres whole milk
+- 2 teaspoons vanilla extract
 - 1 strip lemon peel
 - 6 egg yolks
-- 150g granulated white sugar
-- 45g all purpose flour
-- 120g dark chocolate, chopped
+- 150 grams granulated white sugar
+- 45 grams all purpose flour
+- 120 grams dark chocolate, chopped
 
 ### Bitter Cherries
 
-- 200g fresh cherries
-- 2 tbsp sugar
-- 90ml Amaretto
+- 200 grams fresh cherries
+- 2 tablespoons sugar
+- 90 millilitres Amaretto
 
 ### Assemble Zuppa Inglese
 
 - 18 savoiardi cookies or Madeira cake
-- 200ml cream, cold (optional)
-- 100g flaked almonds, toasted till lightly golden
+- 200 millilitres cream, cold (optional)
+- 100 grams flaked almonds, toasted till lightly golden
 
 ## Method
 
@@ -53,6 +53,6 @@ key_ingredients:
 
 ### Assemble Trifle
 
-1. Cut the savoiardi in half and dip quickly but completely into the amaretto cherry mixture, or if using madeira cake slice 1cm thick and line your serving dish, now brush generously with the amaretto cherry mixture.
+1. Cut the savoiardi in half and dip quickly but completely into the amaretto cherry mixture, or if using madeira cake slice 1 centimetre thick and line your serving dish, now brush generously with the amaretto cherry mixture.
 2. Now top this with half your cherries and their reserved syrup.
 3. Top with your chocolate pastry cream followed by a second layer of soaked biscuits or cake, and the balance of your cherries and then top with your whipped cream. Cover with plastic wrap and refrigerate for at least 2 hours to set.

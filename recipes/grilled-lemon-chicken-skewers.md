@@ -24,12 +24,12 @@ key_ingredients:
 
 - 800gms skinless deboned chicken thighs, trimmed of excess fat
 - 1 teaspoon salt
-- 2 Tbsp plain yogurt
+- 2 tablespoons plain yogurt
 - 2 cloves garlic, minced (about 2 teaspoons)
-- 1 Tbsp minced fresh oregano or 1/2 teaspoon dried oregano
+- 1 tablespoon minced fresh oregano or 1/2 teaspoon dried oregano
 - 1/8 teaspoon freshly ground black pepper
 - 1 teaspoon lemon juice
-- 1 Tbsp olive oil plus more for the grill
+- 1 tablespoon olive oil plus more for the grill
 - 2 lemons, thinly sliced
 
 ## Method

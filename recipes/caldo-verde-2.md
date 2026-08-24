@@ -20,9 +20,9 @@ key_ingredients:
 
 ## Ingredients
 
-- 400g kale, rinsed and finely sliced
-- 5 potatoes, peeled and sliced 1cm
-- 250ml stock + 1.5l water
+- 400 grams kale, rinsed and finely sliced
+- 5 potatoes, peeled and sliced 1 centimetre
+- 250 millilitres stock + 1.5 litres water
 - 1 chorizo, split into 3
 - 1 onion, diced
 - 2 cloves garlic, minced

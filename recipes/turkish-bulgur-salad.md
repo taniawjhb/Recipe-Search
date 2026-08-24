@@ -28,15 +28,15 @@ key_ingredients:
 - 3 cups boiling water
 - 1/4 cup tomato paste
 - 2 tablespoons roasted red pepper paste
-- 1 tsp salt, or more to taste
+- 1 teaspoon salt, or more to taste
 - 1/4 cup olive oil (I used Turkish olive oil)
 - 1 cup cucumber, diced
 - 1 red bell pepper, diced
 - 3/4 cup green onion, chopped
 - 1/3 cup fresh parsley, chopped
-- 3/4 tsp cumin powder or 7 spice
+- 3/4 teaspoon cumin powder or 7 spice
 - 1 lemon, juiced
-- 2 tbsp pomegranate molasses
+- 2 tablespoons pomegranate molasses
 - 1/3 cup purple onion (optional)
 - 2 tablespoons jalapeño pepper (optional, if you like spicy)
 

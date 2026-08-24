@@ -23,7 +23,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 1.5kg fresh mussels
+- 1.5 kilograms fresh mussels
 - 3 tablespoons butter
 - 3 tablespoons extra virgin olive oil
 - 1 onion, chopped fine
@@ -36,7 +36,7 @@ key_ingredients:
 - Juice from half a lemon
 - 1 cup white wine
 - 2 cups fish stock
-- 2 tbsp butter (extra)
+- 2 tablespoons butter (extra)
 - 1 cup cream
 - Crusty bread for serving
 

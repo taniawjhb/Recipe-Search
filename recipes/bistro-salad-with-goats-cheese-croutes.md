@@ -19,7 +19,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 240g goat cheese log (fresh chèvre-style goat cheese)
+- 240 grams goat cheese log (fresh chèvre-style goat cheese)
 - 1/2 cup panko or bread crumbs (chilled)
 - 1 tablespoon vegetable oil
 - 6 cups lettuce (tender lettuces such as spring mix, butter lettuce, or oak leaf lettuce)
@@ -31,7 +31,7 @@ key_ingredients:
 
 ## Method
 
-1. Cut the goat cheese into 8 to 10 disks. Put the panko or bread crumbs into a shallow bowl. If you will be baking the goat cheese croutes, mix the vegetable oil in with the panko and heat the oven to 180C.
+1. Cut the goat cheese into 8 to 10 disks. Put the panko or bread crumbs into a shallow bowl. If you will be baking the goat cheese croutes, mix the vegetable oil in with the panko and heat the oven to 180°C.
 2. Press the goat cheese disks into the panko. Flip the disks to make sure both sides are completely covered and roll the edges through the panko as well. Set the coated goat cheese on a baking sheet or platter.
 3. Place the platter in the freezer for 15 to 30 minutes to allow the croutes to set prior to cooking.
 4. While the goat cheese sets, tear the lettuce into bite-size pieces, wash and dry the lettuce, and set aside. If using herbs in addition to lettuce, wash, dry, and prepare them for the salad.

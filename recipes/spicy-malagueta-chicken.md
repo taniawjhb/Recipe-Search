@@ -22,12 +22,12 @@ key_ingredients:
 
 ## Ingredients
 
-- 500g boneless, skinless chicken thighs
-- 5 tbsp Spicy Malagueta Marinade
-- 1 large red pepper, deseeded and cut into 2-3cm thick strips
-- 2 tbsp honey
-- 1 tbsp cider vinegar
-- 1 tsp Dijon mustard (mixed well)
+- 500 grams boneless, skinless chicken thighs
+- 5 tablespoons Spicy Malagueta Marinade
+- 1 large red pepper, deseeded and cut into 2-3 centimetres thick strips
+- 2 tablespoons honey
+- 1 tablespoon cider vinegar
+- 1 teaspoon Dijon mustard (mixed well)
 - Salt and black pepper
 
 ## Method

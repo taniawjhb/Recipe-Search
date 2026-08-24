@@ -21,10 +21,10 @@ key_ingredients:
 ## Ingredients
 
 - 6 eggs (separate whites and yolks)
-- 350g semi-sweet chocolate chips
-- 226g butter
+- 350 grams semi-sweet chocolate chips
+- 226 grams butter
 - 3/4 cup sugar
-- 1 tsp vanilla
+- 1 teaspoon vanilla
 
 ## Method
 

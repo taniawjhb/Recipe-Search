@@ -21,15 +21,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 250g portabellini or wild mushrooms
+- 250 grams portabellini or wild mushrooms
 - 1 clove garlic, finely minced
-- 1 tbsp butter
-- 1 tbsp olive oil
-- 60ml marsala or sherry or brandy
-- 1/4 tsp finely chopped red chili
-- 1 tsp finely chopped thyme
+- 1 tablespoon butter
+- 1 tablespoon olive oil
+- 60 millilitres marsala or sherry or brandy
+- 1/4 teaspoon finely chopped red chili
+- 1 teaspoon finely chopped thyme
 - 1/2 cup cream
-- 1 tsp black truffle paste (optional)
+- 1 teaspoon black truffle paste (optional)
 
 ## Method
 

@@ -21,9 +21,9 @@ key_ingredients:
 
 ## Ingredients
 
-- 6 sirloin or ribeye steaks, 3cm thick
-- 1 1/2 tbsp chopped rosemary
-- 1 1/2 tbsp chopped sage
+- 6 sirloin or ribeye steaks, 3 centimetres thick
+- 1 1/2 tablespoons chopped rosemary
+- 1 1/2 tablespoons chopped sage
 - Zest of 1 lemon
 - Coarse sea salt and freshly ground pepper
 - Extra-virgin olive oil

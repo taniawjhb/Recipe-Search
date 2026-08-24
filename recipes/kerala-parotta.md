@@ -20,16 +20,16 @@ key_ingredients:
 ## Ingredients
 
 - 3 cups all purpose flour
-- 1 tbsp sugar
-- 1 tsp salt
+- 1 tablespoon sugar
+- 1 teaspoon salt
 - 1 egg
-- 1 tbsp oil
+- 1 tablespoon oil
 - 1/4 cup milk (warm)
 - Ghee for frying
 
 ## Method
 
-1. Mix flour, sugar, salt, egg, and 1 tbsp oil in a bowl.
+1. Mix flour, sugar, salt, egg, and 1 tablespoon oil in a bowl.
 2. Add milk and mix well.
 3. Make a soft dough using water. Knead the dough for 5-6 minutes until it becomes soft.
 4. Cover and keep the dough aside for 20 minutes.

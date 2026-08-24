@@ -21,7 +21,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 250gms green beans, trimmed and cut into 5cm pieces
+- 250gms green beans, trimmed and cut into 5 centimetres pieces
 - 6 cups water
 - 1 teaspoon salt
 - 2 tomatoes, diced

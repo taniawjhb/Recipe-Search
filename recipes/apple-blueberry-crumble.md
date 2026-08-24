@@ -23,12 +23,12 @@ key_ingredients:
 ## Ingredients
 
 - 8 medium-large apples (4 tart like granny smith, 4 sweet like honey crisp // organic when possible)
-- 1 lemon, juiced (1 lemon yields ~ 2 Tbsp or 30 ml)
+- 1 lemon, juiced (1 lemon yields ~ 2 tablespoons or 30 millilitres)
 - 2/3 cup sugar
-- 1 1/2 tsp ground cinnamon
-- 3 Tbsp arrowroot starch or cornstarch (for thickening)
+- 1 1/2 teaspoons ground cinnamon
+- 3 tablespoons arrowroot starch or cornstarch (for thickening)
 - 1/4 cup fresh apple juice (or water)
-- 3/4 tsp fresh grated ginger (optional // or sub 1/2 tsp ground ginger per 3/4 tsp fresh)
+- 3/4 teaspoon fresh grated ginger (optional // or sub 1/2 teaspoon ground ginger per 3/4 teaspoon fresh)
 - 1 pinch nutmeg (optional)
 
 ### Topping
@@ -39,13 +39,13 @@ key_ingredients:
 - 1/2 cup sugar
 - 1/2 cup muscovado sugar (or sub organic brown sugar)
 - 1/2 cup pecans (roughly chopped)
-- 1/4 tsp sea salt
-- 1 tsp ground cinnamon
+- 1/4 teaspoon sea salt
+- 1 teaspoon ground cinnamon
 - 1/2 cup olive oil
 
 ## Method
 
-1. Preheat oven to 180 degrees C.
+1. Preheat oven to 180°C.
 2. Peel apples, quarter, remove cores, and use a paring knife to thinly slice lengthwise.
 3. Add to a large mixing bowl and top with remaining filling ingredients. Toss to combine. Add to a 9x13 (or similar size) baking dish.
 4. Rinse and wipe out your mixing bowl and add all topping ingredients. Stir to combine, then use fingers to break down any clumps of muscovado sugar. Pour over apples in an even layer.

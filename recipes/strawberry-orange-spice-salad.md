@@ -23,7 +23,7 @@ key_ingredients:
 
 - 1 pound strawberries, hulled and halved (or quartered if very large)
 - 3 oranges
-- 1/4 tsp ground cardamom
+- 1/4 teaspoon ground cardamom
 - 1 tablespoon fresh lemon juice, plus more to taste
 - 2 1/2 tablespoons light brown sugar, packed
 - 1 tablespoon finely chopped fresh mint, plus a sprig for garnish

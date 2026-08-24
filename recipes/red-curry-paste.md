@@ -29,9 +29,9 @@ key_ingredients:
 - peel of 2 limes (remove and use the peel only, avoid the bitter white pith)
 - 1.5 shallots/small red onions
 - 2 cloves garlic
-- 1 slice of turmeric / 1 tsp dry turmeric
-- 1/2 tsp salt
-- 1/4 tsp shrimp paste
+- 1 slice of turmeric / 1 teaspoon dry turmeric
+- 1/2 teaspoon salt
+- 1/4 teaspoon shrimp paste
 
 ## Method
 

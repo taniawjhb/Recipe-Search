@@ -22,15 +22,15 @@ key_ingredients:
 
 ## Ingredients
 
-- 3 tbs. olive oil
+- 3 tablespoons. olive oil
 - 1 medium onion, chopped
 - 2 stalks of celery, chopped
 - 3-4 cloves of garlic, minced
 - Salt & pepper to taste
 - 1/2 cup dry white wine
 - 1 cup water
-- 1 (14 oz.) can chopped tomatoes
-- 1.5 kg mussels, scrubbed with beards removed
+- 1 (14 ounces.) can chopped tomatoes
+- 1.5 kilograms mussels, scrubbed with beards removed
 - 1/4 cup chopped fresh parsley
 
 ## Method

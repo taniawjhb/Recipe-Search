@@ -20,7 +20,7 @@ key_ingredients:
 
 ## Ingredients
 
-- 500ml natural yoghurt
+- 500 millilitres natural yoghurt
 - 1 cucumber, grated or finely chopped
 - large handful mint leaves, chopped
 - large pinch salt
