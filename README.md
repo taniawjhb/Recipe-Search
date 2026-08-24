@@ -4,6 +4,7 @@ Extracts recipes from a folder of cookbook PDFs, rewrites each into a consistent
 Markdown format, and generates a **searchable static HTML site** with a recipe
 index, an ingredient index, and a source trace showing which PDF(s) each recipe
 came from (all sources are listed when a recipe appears in more than one file).
+For Tania and her friends.
 
 ## Layout
 
