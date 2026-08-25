@@ -126,11 +126,15 @@
     "Carbs and grains",
     "Protein",
     "Tins, Jars & bottles",
+    "Wine & Spirits",
     "Seasonings",
   ];
 
   // Rule 1 — anything clearly canned/jarred/bottled or a pantry condiment.
-  const TINS_RE = /\b(tinned|canned|tin of|can of|jarred|jar of|bottled|bottle of|passata|tomato paste|tomato pur[e\u00e9]e|tomato sauce|paste|pesto|capers?|olives|pickle[ds]?|gherkins?|soy sauce|fish sauce|oyster sauce|hoisin|worcestershire|sriracha|hot sauce|chilli sauce|sweet chilli|vinegar|oil|honey|maple syrup|syrup|treacle|molasses|jam|marmalade|chutney|mustard(?! seeds?| powder)|mayonnaise|mayo|ketchup|stock|broth|bouillon|coconut milk|coconut cream|condensed milk|evaporated milk|wine)\b/;
+  const TINS_RE = /\b(tinned|canned|tin of|can of|jarred|jar of|bottled|bottle of|passata|tomato paste|tomato pur[e\u00e9]e|tomato sauce|paste|pesto|capers?|olives|pickle[ds]?|gherkins?|soy sauce|fish sauce|oyster sauce|hoisin|worcestershire|sriracha|hot sauce|chilli sauce|sweet chilli|vinegar|oil|honey|maple syrup|syrup|treacle|molasses|jam|marmalade|chutney|mustard(?! seeds?| powder)|mayonnaise|mayo|ketchup|stock|broth|bouillon|coconut milk|coconut cream|condensed milk|evaporated milk)\b/;
+  // Alcoholic drinks / cooking liquor -> their own supermarket aisle. Checked
+  // AFTER Tins so "red wine vinegar" (a condiment) stays under Tins.
+  const WINE_RE = /\b(wine|prosecco|champagne|rose|sherry|marsala|madeira wine|port|vermouth|brandy|cognac|armagnac|calvados|rum|vodka|gin|whisky|whiskey|bourbon|tequila|liqueur|amaretto|kirsch|grand marnier|cointreau|limoncello|ouzo|sake|mirin|campari|aperol|cider)\b/;
   // House convention for fresh vs dried aromatics.
   const AROMATIC_RE = /\b(garlic|ginger|chilli|chili|chile|chillies|chilies)\b/;
   const DRIED_RE = /\b(ground|powder|powdered|granules|flakes|dried|salt)\b/;
@@ -141,19 +145,25 @@
     ["Meat", /\b(chicken|beef|pork|lamb|turkey|duck|mince|bacon|ham|sausages?|chorizo|pancetta|prosciutto|veal|offal|steaks?|ribeye|sirloin|tenderloin|meatballs?|brisket|rump|salami|pepperoni|guanciale|lardons?|rashers?|cutlets?|drumsticks?)\b/],
     ["Fish", /\b(salmon|cod|tuna|prawns?|shrimps?|squid|calamari|mussels?|clams?|crab|anchov(?:y|ies)|haddock|halibut|sea ?bass|trout|mackerel|sardines?|snapper|scallops?|lobster|octopus|white ?fish)\b/],
     ["Dairy and Eggs", /\b(milk|cream|butter|ghee|yoghurt|yogurt|cheese|cheddar|mozzarella|parmesan|parmigiano|feta|ricotta|mascarpone|paneer|halloumi|eggs?|buttermilk|cr[e\u00e8]me fra[i\u00ee]che|creme fraiche|sour cream|custard|gruy[e\u00e8]re|brie|gouda|pecorino|goats? ?cheese)\b/],
-    ["Carbs and grains", /\b(flour|rice|pasta|noodles?|couscous|cous cous|bulg[ua]r|quinoa|oats?|bread|breadcrumbs?|tortillas?|polenta|semolina|sugar|cornflour|cornstarch|corn ?meal|baking powder|baking soda|bicarbonate|yeast|spaghetti|penne|macaroni|lasagne|lasagna|orzo|gnocchi|pastry|filo|phyllo|vermicelli|chocolate|cocoa)\b/],
-    ["Protein", /\b(lentils?|chickpeas?|beans?|cannellini|borlotti|tofu|tempeh|edamame|seitan|almonds?|walnuts?|cashews?|pistachios?|peanuts?|hazelnuts?|pecans?|pine ?nuts?|nuts?|pumpkin seeds?|sunflower seeds?|sesame seeds?|chia|flaxseed|linseed)\b/],
+    ["Carbs and grains", /\b(flour|rice|pasta|noodles?|couscous|cous cous|bulg[ua]r|quinoa|oats?|bread|breadcrumbs?|tortillas?|polenta|semolina|sugar|cornflour|cornstarch|corn ?meal|baking powder|baking soda|bicarbonate|yeast|spaghetti|penne|macaroni|lasagne|lasagna|orzo|gnocchi|pastry|filo|phyllo|vermicelli|chocolate|cocoa|almonds?|walnuts?|cashews?|pistachios?|peanuts?|hazelnuts?|pecans?|pine ?nuts?|nuts?|savoiardi|ladyfingers?|sponge fingers?|madeira cake|sponge cake|biscuits?|cookies?)\b/],
+    ["Protein", /\b(lentils?|chickpeas?|beans?|cannellini|borlotti|tofu|tempeh|edamame|seitan|pumpkin seeds?|sunflower seeds?|sesame seeds?|chia|flaxseed|linseed)\b/],
     ["Seasonings", /\b(salt|pepper|peppercorns?|cumin|coriander|turmeric|paprika|cinnamon|cardamom|cloves?|bay lea(?:f|ves)|oregano|thyme|rosemary|basil|parsley|mint|dill|sage|tarragon|nutmeg|saffron|curry powder|garam masala|stock cube|spices?|herbs?|za'?atar|sumac|fenugreek|fennel seeds?|mustard seeds?|caraway|nigella|star anise|allspice)\b/],
   ];
 
   function categoriseIngredient(text) {
     const s = " " + String(text).toLowerCase() + " ";
     if (TINS_RE.test(s)) return "Tins, Jars & bottles";
+    if (WINE_RE.test(s)) return "Wine & Spirits";
     if (AROMATIC_RE.test(s)) {
       return DRIED_RE.test(s) ? "Seasonings" : "Fruit and Vegetables";
     }
     if (NUTBUTTER_RE.test(s)) return "Protein";
     if (VEGBEAN_RE.test(s)) return "Fruit and Vegetables";
+    // Bell peppers / capsicums are produce, even though bare "pepper" is a
+    // seasoning keyword below.
+    if (/\b(bell pepper|bell peppers|capsicums?|romano pepper|sweet pepper)\b/.test(s)) {
+      return "Fruit and Vegetables";
+    }
     if (/\bvanilla\b/.test(s)) return "Seasonings";
     for (const [cat, re] of CATEGORY_RULES) {
       if (re.test(s)) return cat;
@@ -196,7 +206,7 @@
     s = s.replace(PREP_RE, " ");
     s = s.replace(LEAD_UNIT_RE, "");         // a unit exposed after dropping size/prep words
     s = s.replace(/\b(?:and|or|of)\b/g, " ");
-    s = s.replace(/[^a-z\u00e0-\u00ff'\s-]/g, " "); // strip stray numbers/punctuation
+    s = s.replace(/[^a-z\u00e0-\u00ff'\s]/g, " "); // strip stray numbers/punctuation (hyphens -> space)
     s = s.replace(/\s+/g, " ").trim();
     return s;
   }

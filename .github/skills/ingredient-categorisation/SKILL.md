@@ -25,7 +25,8 @@ grouped by supermarket section.
 5. **Carbs and grains**
 6. **Protein**
 7. **Tins, Jars & bottles**
-8. **Seasonings**
+8. **Wine & Spirits**
+9. **Seasonings**
 
 ## Classification Rules
 
@@ -68,14 +69,34 @@ or dried item goes to its natural category).
    breadcrumbs, tortillas, potatoes_ (see note), _polenta, semolina, sugar,
    cornflour, baking powder, baking soda, yeast, cornmeal._
 
+   > **Nuts belong here** by house convention — almonds, walnuts, cashews,
+   > pistachios, peanuts, hazelnuts, pecans, pine nuts (whole/flaked/ground).
+   > Loose **nut butters** (peanut/almond butter, tahini) stay under Protein.
+
+   > **Sweet sponge bases** used in trifles/desserts sit here too — savoiardi
+   > (ladyfingers), sponge fingers, madeira cake, sponge cake, biscuits,
+   > cookies.
+
    > Potatoes may sit under **Fruit and Vegetables** if you prefer produce
    > grouping; default them to **Fruit and Vegetables**.
 
-6. **Protein** — plant proteins and dry legumes/nuts not sold tinned:
-   _dried lentils, dried beans/chickpeas, tofu, tempeh, edamame, nuts, seeds,
-   nut butters (loose/fresh), seitan._
+6. **Protein** — plant proteins and dry legumes not sold tinned:
+   _dried lentils, dried beans/chickpeas, tofu, tempeh, edamame, seeds
+   (pumpkin/sunflower/sesame/chia/flax), seitan._ (Nuts → Carbs and grains.)
 
-7. **Seasonings** — herbs, spices, salt, pepper and dry flavourings:
+7. **Tins, Jars & bottles** — see rule 1 above (non-alcoholic pantry
+   liquids/condiments). **Red/white wine vinegar stays here** — it is a
+   condiment, not a drink.
+
+8. **Wine & Spirits** — alcoholic drinks and cooking liquor:
+   _red/white/rosé wine, prosecco, champagne, sherry, marsala, madeira wine,
+   port, vermouth, brandy, cognac, rum, vodka, gin, whisky, tequila, liqueurs
+   (amaretto, kirsch, Grand Marnier, Cointreau, limoncello), ouzo, sake, mirin,
+   cider._
+
+   > Checked **after** Tins so "red wine vinegar" is not mistaken for wine.
+
+9. **Seasonings** — herbs, spices, salt, pepper and dry flavourings:
    _salt, black pepper, cumin, coriander (ground), turmeric, paprika, chilli
    powder/flakes, cinnamon, cardamom, cloves, bay leaves, dried herbs, fresh
    herbs (basil, parsley, coriander leaf, mint), stock cubes, vanilla, saffron,
@@ -90,13 +111,15 @@ or dried item goes to its natural category).
    > five-spice powder. The exceptions are **baking powder** and **cocoa /
    > custard powder**, which stay under Carbs / Dairy respectively.
 
-8. **Fruit and Vegetables** — the catch-all for fresh produce not matched
-   above: _onions, tomatoes (fresh), carrots, peppers, courgettes, aubergine,
-   spinach, lettuce, apples, lemons, limes, berries, mushrooms, broccoli,
-   cauliflower, cabbage, cucumber, avocado, potatoes (default)._
-   > **Fresh garlic, ginger and chillies live here by convention.** Only their
-   > dried/ground forms (ground ginger, garlic powder, chilli flakes) go under
-   > **Seasonings**.
+10. **Fruit and Vegetables** — the catch-all for fresh produce not matched
+    above: _onions, tomatoes (fresh), carrots, peppers, courgettes, aubergine,
+    spinach, lettuce, apples, lemons, limes, berries, mushrooms, broccoli,
+    cauliflower, cabbage, cucumber, avocado, potatoes (default)._
+    > **Fresh garlic, ginger and chillies live here by convention.** Only their
+    > dried/ground forms (ground ginger, garlic powder, chilli flakes) go under
+    > **Seasonings**.
+    > **Bell peppers / capsicums are produce** and belong here, even though bare
+    > "pepper" (black/white pepper) is a Seasoning.
 
 ## Procedure
 
@@ -132,7 +155,13 @@ or dried item goes to its natural category).
 | 1 teaspoon garlic powder          | Seasonings           |
 | 1 teaspoon chilli flakes          | Seasonings           |
 | 3 onions                          | Fruit and Vegetables |
+| 1 red bell pepper                 | Fruit and Vegetables |
 | 1 lemon                           | Fruit and Vegetables |
+| 100 grams flaked almonds          | Carbs and grains     |
+| 18 savoiardi or madeira cake      | Carbs and grains     |
+| 90 millilitres Amaretto           | Wine & Spirits       |
+| 60 millilitres dry white wine     | Wine & Spirits       |
+| 50 millilitres brandy             | Wine & Spirits       |
 
 ## Related
 
