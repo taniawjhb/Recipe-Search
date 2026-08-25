@@ -164,6 +164,44 @@
     return "Fruit and Vegetables";
   }
 
+  // --- Ingredient base-name aggregation ------------------------------------
+  // Reduce an ingredient line to its core item so preparation variants merge
+  // into a single shopping entry, e.g. "lemon juice"/"lemon zest"/"lemon peel"
+  // -> "lemon"; "2 garlic cloves, crushed"/"grated"/"minced" -> "garlic
+  // cloves". Categorisation still runs on the original line, not the base.
+
+  // Leading quantity (numbers, ranges, unicode fractions, "a"/"an").
+  const LEAD_QTY_RE = /^\s*(?:a|an|\d+\s*\/\s*\d+|\d+(?:\.\d+)?|[\u00bc-\u00be\u2150-\u215e])(?:\s*(?:-|to|\u2013|\u2014|or|x)\s*(?:\d+\s*\/\s*\d+|\d+(?:\.\d+)?|[\u00bc-\u00be\u2150-\u215e]))*\s*/i;
+  // A single leading unit word (units are spelled out in full by house style).
+  const LEAD_UNIT_RE = /^\s*(?:tablespoons?|teaspoons?|grams?|kilograms?|millilitres?|litres?|cups?|pinch(?:es)?|cans?|tins?|jars?|bottles?|packets?|packs?|punnets?|bunch(?:es)?|sprigs?|sticks?|knobs?|slices?|strips?|pieces?|handfuls?|heads?|stalks?|fillets?|rashers?|cloves?|bulbs?)\b\s*/i;
+  // Size / quality adjectives and preparation words to drop from the noun.
+  const SIZE_RE = /\b(?:large|medium|small|whole|ripe|fresh|freshly|extra|firm|soft|thick|thin|boneless|skinless|good[- ]?quality)\b/g;
+  const PREP_RE = /\b(?:peeled|chopped|finely|roughly|coarsely|thinly|thickly|diced|sliced|minced|crushed|grated|melted|softened|beaten|drained|rinsed|cooked|cut|halved|quartered|trimmed|deseeded|seeded|deboned|boned|shredded|cubed|julienned|zested|juiced|torn|crumbled|mashed|pitted|stoned|cored|hulled|washed|scrubbed|divided|separated|warmed|cooled|toasted|deveined|shelled|optional)\b/g;
+
+  function baseIngredient(text) {
+    let s = String(text).toLowerCase();
+    s = s.replace(/\([^)]*\)/g, " ");        // drop parentheticals
+    s = s.split(/[,;]/)[0];                    // keep only the part before prep clauses
+    s = s.replace(LEAD_QTY_RE, "");            // drop the leading quantity/range
+    s = s.replace(LEAD_UNIT_RE, "");           // drop a leading unit word
+    s = s.replace(LEAD_QTY_RE, "");            // handle "2 x 400 gram" style leftovers
+    s = s.replace(LEAD_UNIT_RE, "");
+    // Citrus juice / zest / peel / rind -> the fruit itself.
+    s = s.replace(/\b(lemon|lime|orange|grapefruit|mandarin|clementine)s?\s+(?:juice|zest|peel|rind|segments?|wedges?)\b/g, "$1");
+    s = s.replace(/\b(?:juice|zest|peel|rind)\s+of\s+(?:\d+\s+)?(?:the\s+|a\s+|an\s+)?(lemon|lime|orange|grapefruit|mandarin|clementine)s?\b/g, "$1");
+    s = s.replace(SIZE_RE, " ");
+    s = s.replace(PREP_RE, " ");
+    s = s.replace(LEAD_UNIT_RE, "");         // a unit exposed after dropping size/prep words
+    s = s.replace(/\b(?:and|or|of)\b/g, " ");
+    s = s.replace(/[^a-z\u00e0-\u00ff'\s-]/g, " "); // strip stray numbers/punctuation
+    s = s.replace(/\s+/g, " ").trim();
+    return s;
+  }
+
+  function titleCaseFirst(s) {
+    return s ? s.charAt(0).toUpperCase() + s.slice(1) : s;
+  }
+
   // --- Menu page ------------------------------------------------------------
 
 
@@ -181,17 +219,21 @@
     const byId = {};
 
     function renderShopping(chosen) {
-      const counts = new Map();
+      // Aggregate by base ingredient so preparation variants (lemon juice /
+      // zest / peel -> lemon; garlic cloves crushed / grated / minced -> garlic
+      // cloves) collapse into a single shopping entry.
+      const bases = new Map();
       for (const r of chosen) {
         for (const line of extractIngredients(r.body || "")) {
-          const key = line.toLowerCase().replace(/\s+/g, " ").trim();
-          const cur = counts.get(key);
+          const base = baseIngredient(line);
+          if (!base) continue;
+          const cur = bases.get(base);
           if (cur) cur.n += 1;
-          else counts.set(key, { text: line, n: 1 });
+          else bases.set(base, { base: base, text: line, n: 1 });
         }
       }
       shoppingEl.innerHTML = "";
-      const items = [...counts.values()];
+      const items = [...bases.values()];
       if (!items.length) {
         shoppingEl.innerHTML =
           '<li class="result-count">No ingredient lines found for the recipes in your menu.</li>';
@@ -209,7 +251,7 @@
       for (const cat of CATEGORY_ORDER) {
         const bucket = buckets.get(cat);
         if (!bucket || !bucket.length) continue;
-        bucket.sort((a, b) => a.text.localeCompare(b.text));
+        bucket.sort((a, b) => a.base.localeCompare(b.base));
         const head = document.createElement("li");
         head.className = "shopping-category";
         head.textContent = cat;
@@ -220,7 +262,7 @@
           li.innerHTML =
             '<input type="checkbox" id="' + id + '">' +
             '<label for="' + id + '">' +
-            escapeHtml(it.text) +
+            escapeHtml(titleCaseFirst(it.base)) +
             (it.n > 1 ? ' <span class="qty">\u00d7' + it.n + "</span>" : "") +
             "</label>";
           frag.appendChild(li);
