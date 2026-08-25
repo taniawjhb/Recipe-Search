@@ -171,7 +171,7 @@
   // cloves". Categorisation still runs on the original line, not the base.
 
   // Leading quantity (numbers, ranges, unicode fractions, "a"/"an").
-  const LEAD_QTY_RE = /^\s*(?:a|an|\d+\s*\/\s*\d+|\d+(?:\.\d+)?|[\u00bc-\u00be\u2150-\u215e])(?:\s*(?:-|to|\u2013|\u2014|or|x)\s*(?:\d+\s*\/\s*\d+|\d+(?:\.\d+)?|[\u00bc-\u00be\u2150-\u215e]))*\s*/i;
+  const LEAD_QTY_RE = /^\s*(?:a(?=\s)|an(?=\s)|\d+\s*\/\s*\d+|\d+(?:\.\d+)?|[\u00bc-\u00be\u2150-\u215e])(?:\s*(?:-|to|\u2013|\u2014|or|x)\s*(?:\d+\s*\/\s*\d+|\d+(?:\.\d+)?|[\u00bc-\u00be\u2150-\u215e]))*\s*/i;
   // A single leading unit word (units are spelled out in full by house style).
   const LEAD_UNIT_RE = /^\s*(?:tablespoons?|teaspoons?|grams?|kilograms?|millilitres?|litres?|cups?|pinch(?:es)?|cans?|tins?|jars?|bottles?|packets?|packs?|punnets?|bunch(?:es)?|sprigs?|sticks?|knobs?|slices?|strips?|pieces?|handfuls?|heads?|stalks?|fillets?|rashers?|cloves?|bulbs?)\b\s*/i;
   // Size / quality adjectives and preparation words to drop from the noun.
@@ -186,9 +186,12 @@
     s = s.replace(LEAD_UNIT_RE, "");           // drop a leading unit word
     s = s.replace(LEAD_QTY_RE, "");            // handle "2 x 400 gram" style leftovers
     s = s.replace(LEAD_UNIT_RE, "");
-    // Citrus juice / zest / peel / rind -> the fruit itself.
-    s = s.replace(/\b(lemon|lime|orange|grapefruit|mandarin|clementine)s?\s+(?:juice|zest|peel|rind|segments?|wedges?)\b/g, "$1");
-    s = s.replace(/\b(?:juice|zest|peel|rind)\s+of\s+(?:\d+\s+)?(?:the\s+|a\s+|an\s+)?(lemon|lime|orange|grapefruit|mandarin|clementine)s?\b/g, "$1");
+    // Citrus juice / zest / peel / rind -> the fruit itself, regardless of any
+    // quantity between them ("juice of 1/2 lemon", "grated zest of 1 lime").
+    if (/\b(?:juice|zest|peel|rind)\b/.test(s)) {
+      const citrus = s.match(/\b(lemon|lime|orange|grapefruit|mandarin|clementine)s?\b/);
+      if (citrus) s = citrus[1];
+    }
     s = s.replace(SIZE_RE, " ");
     s = s.replace(PREP_RE, " ");
     s = s.replace(LEAD_UNIT_RE, "");         // a unit exposed after dropping size/prep words
