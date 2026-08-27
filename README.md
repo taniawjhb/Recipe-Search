@@ -48,9 +48,14 @@ The client-side search loads `data/index.json` via `fetch`, so serve the folder
 over HTTP (opening `index.html` directly via `file://` will block the fetch):
 
 ```powershell
-python -m http.server -d site 8000
+python -m http.server -d site 8000 --bind 127.0.0.1
 # then open http://localhost:8000
 ```
+
+`--bind 127.0.0.1` keeps the server reachable only from this machine. Without it,
+`http.server` listens on all network interfaces, exposing the `site/` folder to
+anyone on the same network. `http.server` is a development server only — do not
+expose it to the public internet.
 
 ## Recipe format
 
