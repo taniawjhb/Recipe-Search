@@ -31,7 +31,7 @@ jobs:
       - name: Install build dependencies
         # Only the packages needed to build the index + site.
         # pymupdf (PDF extraction) is intentionally omitted.
-        run: pip install "jinja2>=3.1" "markdown>=3.6" "pyyaml>=6.0" "python-slugify>=8.0"
+        run: pip install "jinja2>=3.1" "markdown>=3.6" "pyyaml>=6.0" "python-slugify>=8.0" "nh3>=0.2.17"
 
       - name: Build search index
         run: python scripts/build_index.py
