@@ -1,0 +1,32 @@
+---
+id: fresh-potato-gnocchi-8
+title: Fresh Potato Gnocchi
+sources:
+  - Pazzo per L'Estate.pdf
+cuisine: Italian
+course: main
+servings: null
+tags:
+  - pasta
+  - gnocchi
+  - vegetarian
+key_ingredients:
+  - potato
+  - flour
+  - egg
+---
+
+## Ingredients
+
+- 1 kilogram floury potatoes, medium Nicola are best
+- 3 large eggs, beaten
+- 300 grams plain flour or less, depending on the texture of the potatoes
+
+## Method
+
+1. Add the whole potatoes in their skins to a pot of salted boiling water. Bring back to the boil and simmer for 10-15 minutes until just soft (this will depend on the size of your potatoes). Test with a knife — the potatoes should be cooked, but not overcooked, otherwise they will be mushy and will have absorbed too much water. Hold them in a dish cloth to peel as they will be hot.
+2. Using a mouli/potato ricer/sieve press the potatoes into a bowl or onto a clean work surface. Make a hollow in your pile of potatoes, then pour in the egg and sprinkle over half the flour. Start to blend everything with your hands, adding more flour but as little as you can get away with. Work carefully and quickly, as the more you handle the dough, the harder and bouncier it will become.
+3. You should now have a soft dough that holds together, doesn't feel sticky and can be easily shaped.
+4. Divide the dough into 3 equal pieces. Roll a piece at a time into long, thumb-nail thick cylinders on a lightly floured surface, again working lightly and quickly. As you roll you will also be gently stretching the dough. Keep the surface well floured as you don't want the gnocchi to stick.
+5. Cut the dough into thumb-nail long lengths. To score the gnocchi use the back of a fork pressed against the gnocchi. This will help to carry the sauce, though it is not essential.
+6. Bring a large, deep pot of salted water to the boil. Working with a few at a time, drop in the gnocchi. Let them cook for 2 minutes, during which time they will bob back up to the surface, then scoop them out with a slotted spoon. They should be soft and light, the gnocchi equivalent of al dente.

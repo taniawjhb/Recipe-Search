@@ -32,6 +32,15 @@ DATA_DIR = ROOT / "data"
 
 FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?(.*)$", re.DOTALL)
 
+# Raw HTML that has no place in a recipe body and is stripped at build time by
+# build_site.py. Flagged here so it is caught during authoring rather than
+# silently removed later. See scripts/build_site.py:sanitize_html.
+UNSAFE_HTML_RE = re.compile(
+    r"<\s*(?:script|iframe|object|embed|style|link|meta|form)\b"
+    r"|<[^>]+\son[a-z]+\s*=",
+    re.IGNORECASE,
+)
+
 # Words ignored when comparing titles for de-duplication.
 TITLE_STOPWORDS = {
     "the", "a", "an", "of", "with", "and", "in", "on", "to", "for",
@@ -84,6 +93,12 @@ def parse_recipe(path: Path) -> dict:
     sources = meta["sources"]
     if isinstance(sources, str):
         sources = [sources]
+
+    if UNSAFE_HTML_RE.search(body):
+        raise ValueError(
+            f"{path.name}: body contains disallowed raw HTML "
+            "(script/iframe/style/event-handler etc.)"
+        )
 
     key_ingredients = meta.get("key_ingredients") or []
     tags = meta.get("tags") or []

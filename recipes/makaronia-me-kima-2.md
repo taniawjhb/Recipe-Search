@@ -1,0 +1,50 @@
+---
+id: makaronia-me-kima-2
+title: Makaronia me Kima
+sources:
+  - Nostimo.pdf
+cuisine: Greek
+course: main
+servings: null
+tags:
+  - pasta
+  - beef
+key_ingredients:
+  - ground beef
+  - spaghetti
+  - tomato
+  - cinnamon
+---
+
+## Ingredients
+
+- 1 1/2 tablespoons olive oil
+- 2 white onions, diced
+- 1 carrot, diced
+- 2 celery stalks, diced
+- 800-900 grams ground beef
+- 3/4 cup red wine
+- 4 garlic cloves, minced
+- 2 1/2 teaspoons salt
+- 1 teaspoon pepper
+- 1 teaspoon cinnamon
+- 1/4 teaspoon ground cloves
+- 1 tablespoon dried basil
+- 3/4 teaspoon all spice
+- 3 bay leaves
+- 600 grams canned tomatoes, diced
+- 1 tablespoon sugar
+- 2 tablespoons tomato paste
+- 1 cup water
+- 1 package spaghetti noodles (454 gram package)
+- olive oil
+- grated parmesan or kefalograviera cheese
+
+## Method
+
+1. Add olive oil to a large pot over medium-high heat. Add the onion, carrot and celery and cook until softened, about 4-5 minutes.
+2. Stir in the ground beef, stirring occasionally to break up the meat and cook for about 10-12 minutes until cooked through.
+3. Pour in the red wine to deglaze the pan. Cook it for a few minutes until most of the wine has evaporated.
+4. Stir in the garlic, spices (salt, pepper, cinnamon, cloves, dried basil, all spice) and bay leaves until incorporated. Next stir in the diced or whole tomatoes (if using whole tomatoes crush them up a bit when added to the pot), sugar, tomato paste and water and bring to a boil. Once simmering, turn the heat to medium-low and let simmer with the lid on until the sauce has cooked down and most of the liquid has evaporated.
+5. Near the end of the cooking time, cook the spaghetti noodles in salted water until al dente. Drain the noodles.
+6. Serve the spaghetti noodles in a bowl with a drizzle of olive oil and spoon the sauce over top. Add grated parmesan or kefalograviera cheese and enjoy!

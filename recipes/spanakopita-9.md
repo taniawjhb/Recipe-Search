@@ -1,0 +1,45 @@
+---
+id: spanakopita-9
+title: Spanakopita
+sources:
+  - Soups & Pies.pdf
+cuisine: Greek
+course: starter
+servings: null
+tags:
+  - pie
+  - phyllo
+  - vegetarian
+key_ingredients:
+  - spinach
+  - feta
+  - phyllo
+  - dill
+  - egg
+---
+
+## Ingredients
+
+- 1 kilogram fresh spinach, washed, dried, trimmed, and coarsely chopped
+- 3 tablespoons extra-virgin olive oil
+- 1 bunch scallions (about 3 ounces or 10 small), white and light-green parts only, trimmed and finely chopped
+- 2 cups crumbled feta cheese (10 ounces)
+- 1/2 cup finely grated Greek kefalotyri cheese or Parmigiano-Reggiano
+- 2 large eggs, lightly beaten
+- 1/2 cup finely chopped fresh dill
+- 1/3 cup finely chopped fresh flat-leaf parsley
+- 1/4 teaspoon freshly grated nutmeg
+- Kosher or fine sea salt
+- 1/3 cup extra-virgin olive oil for brushing, more as needed
+- Eighteen 9x14-inch sheets frozen phyllo dough, thawed and at room temperature
+- 2 teaspoons milk
+
+## Method
+
+1. Heat a 10-inch straight-sided sauté pan over medium-high heat. Add a few large handfuls of the spinach and cook, tossing gently with tongs. As the spinach starts to wilt, add the rest a few handfuls at a time. Cook until all the spinach is wilted and bright green, about 4 minutes. With a slotted spoon, transfer the spinach to a colander set in a sink. Let cool slightly and squeeze with your hands to extract as much of the remaining liquid as you can.
+2. Wipe the pan dry with a paper towel. Heat the oil in the pan over medium heat. Add the scallions and cook until soft and fragrant, about 4 minutes. Stir in the spinach, turn off the heat, and let cool for 5 minutes. Then stir in the cheeses, eggs, dill, parsley, nutmeg, and 1/2 teaspoon salt and mix thoroughly.
+3. With a pastry brush, lightly coat the bottom and sides of a 9x13x2-inch baking pan with some of the oil. Working quickly, lightly oil one side of a phyllo sheet and lay it in the pan oiled side up and off centre so that it partially covers the bottom and reaches halfway up one long side of the pan. Lightly oil the top of another phyllo sheet and lay it oiled side up and off centre so it reaches halfway up the other long side. Repeat this pattern with 4 more phyllo sheets.
+4. Next, lightly oil the tops of 3 phyllo sheets and layer them oiled side up and centred in the pan. Spread the filling evenly over the last layer.
+5. Repeat the oiling and layering of the remaining 9 phyllo sheets over the filling in the same way you layered the previous 9. With the oiled bristles of the pastry brush, push the edges of the phyllo down around the sides of the pan to enclose the filling completely.
+6. With a sharp knife, score the top phyllo layer into 24 rectangles, being careful not to cut all the way through to the filling. Brush the milk along all the score marks to keep the phyllo from flaking up along the edges. Bake the spanakopita until the top crust is golden brown, 35 to 45 minutes.
+7. Let cool until just warm. Cut out the rectangles carefully along the score marks and serve.

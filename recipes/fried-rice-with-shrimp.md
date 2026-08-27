@@ -1,0 +1,51 @@
+---
+id: fried-rice-with-shrimp
+title: Fried Rice With Shrimp
+sources:
+  - Far East 2024.pdf
+cuisine: Thai
+course: main
+servings: 2
+tags:
+  - seafood
+  - spicy
+key_ingredients:
+  - rice
+  - prawn
+  - pineapple
+  - egg
+  - fish sauce
+---
+
+## Ingredients
+
+- 1 1/2 cups of cooked Jasmine rice, cooled (or day old rice works well too)
+- About 5 - 10 prawns, head peeled, but tail on
+- 1/4 of a big white onion (or 1/2 of a very small white onion)
+- 1 cup fresh pineapple cut into 1 centimetre cubes
+- 1/2 head broccoli, broken into small florets
+- 2 cloves garlic
+- 2 eggs
+- 1/2 tablespoon soy sauce
+- 1/2 tablespoon oyster sauce
+- Pinch of sugar (optional)
+- 1 tablespoon of oil for frying
+- 5 Thai chilies
+- 3 tablespoons of fish sauce
+- 1/2 of a lime
+
+## Method
+
+1. If you're using whole fresh shrimp, first pinch off the head, and peel the outer shell of the shrimp, leaving only the tail on (that's Thai style).
+2. Peel 2 cloves of garlic, and then finely mince them. Slice 1/4 of a sweet white onion into medium sized strips, finely dice about 3 - 4 green onions.
+3. Take your broccoli head, remove all thick stems, reserving small trimmed heads. Prepare your pineapple.
+4. Turn on your stove to medium high, heat up your wok (or frying pan), and add about 1 tablespoon of oil.
+5. Once your oil is hot, add the garlic first, and stir fry continuously for about 15 seconds or so, until it gets nice and fragrant.
+6. Next, toss in your shrimp, and fry for about 30 seconds - your shrimp should start to turn pink and feel more firm. Now add the pineapple.
+7. Add in a little less than 1/2 of your rice first. This is going to soak up all those delicious shrimp juices and oils and keep your rice nice and dry. Stir fry for about 10 more seconds.
+8. Scoot all your rice to one side of the pan, and then crack in the eggs into the empty side. Whirl the egg up, let it cook for a few seconds, and then start to mix it up with the rice and shrimp.
+9. Keep stir frying for about 20 seconds until the egg is fully cooked, and then add in the rest of your rice, and give it a quick stir.
+10. Add 1/2 tablespoon of soy sauce, 1/2 tablespoon of oyster sauce, just a pinch of sugar (optional), and continue stir frying your rice, making sure all the sauce gets mixed in.
+11. Then add your chopped broccoli and onions, and stir fry for another 30 seconds until the vegetables wilt, but they can still be crisp and not fully cooked.
+12. Lastly, toss in your green onions, stir it a few more seconds, and it's ready.
+13. Immediately dish your fried rice onto a plate. Slice off a wedge of lime, and serve it on the plate next to the rice. For the final touch, sprinkle some freshly ground black pepper on top to give some extra flavor.

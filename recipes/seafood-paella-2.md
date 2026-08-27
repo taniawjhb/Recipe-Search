@@ -1,0 +1,44 @@
+---
+id: seafood-paella-2
+title: Seafood Paella
+sources:
+  - Sailing the Med.pdf
+cuisine: Spanish
+course: main
+servings: null
+tags:
+  - seafood
+  - rice
+  - paella
+key_ingredients:
+  - fish
+  - prawn
+  - squid
+  - mussel
+  - arborio rice
+  - saffron
+---
+
+## Ingredients
+
+- 4 cups fish stock (2 cups chicken stock / 2 cups fish stock)
+- 1 teaspoon saffron threads
+- 2 tablespoons olive oil
+- 250 grams firm fish fillets (such as blue eye), cut into 2 centimetre pieces
+- 1 brown onion, finely chopped
+- 2 garlic cloves, crushed
+- 2 cups arborio rice
+- 2 tomatoes, peeled, deseeded, diced
+- 2 teaspoons smoked paprika
+- 500 grams medium green king prawns, peeled, deveined
+- 150 grams baby squid, cleaned, cut into 1 centimetre-thick rings
+- 12 mussels, scrubbed, debearded
+- 2/3 cup frozen peas
+
+## Method
+
+1. Combine stock, 1 cup cold water and saffron in a medium saucepan over medium heat. Bring to the boil. Cover and reduce heat to medium-low. Keep at a simmer.
+2. Meanwhile, heat 1 tablespoon oil in a 24 centimetre (base) non-stick frying pan over medium-high heat. Add fish and cook for 1 minute each side or until light golden. Transfer to a plate. Add remaining 1 tablespoon oil to pan. Add onion and garlic. Cook for 5 minutes or until soft. Add rice, tomatoes and paprika. Stir to combine. Using a spoon, spread mixture evenly over base of pan.
+3. Add half the stock mixture to frying pan and bring to the boil over high heat. Shake pan to spread mixture across pan (do not stir). Reduce heat to medium. Cook, uncovered, without stirring, for 10 minutes or until stock is absorbed.
+4. Add prawns, squid and mussels, pressing into rice mixture. Add 1/2 cup stock mixture and cook until all liquid is absorbed. Repeat with remaining stock mixture, 1/2 cup at a time, adding fish and peas with the last 1/2 cup stock (this will take 15 to 20 minutes).
+5. Remove from heat. Stand, covered, for 5 minutes. Season with pepper. Serve.

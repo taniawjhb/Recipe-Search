@@ -1,0 +1,37 @@
+---
+id: smoked-salmon-pate-3
+title: Smoked Salmon Pate
+sources:
+  - Secret Sunday Brunch Here Comes The Sun.pdf
+cuisine: null
+course: starter
+servings: null
+tags:
+  - dip
+  - seafood
+  - no cook
+key_ingredients:
+  - smoked salmon
+  - cream cheese
+  - creme fraiche
+  - lemon
+  - dill
+---
+
+## Ingredients
+
+- 150 grams smoked salmon, trimmings are fine
+- 200 gram tub cream cheese
+- 1 tablespoon crème fraîche
+- Juice of half a lemon
+- Pinch of finely zested lemon rind
+- Small bunch dill, finely chopped
+- Small bunch chives, finely chopped
+- Breadsticks or granary toast, to serve
+
+## Method
+
+1. If you aren't using smoked salmon trimmings then chop the salmon into small pieces.
+2. Tip the soft cheese, crème fraîche and lemon juice into a food processor, season generously with black pepper and blitz until smooth.
+3. Add the smoked salmon and pulse a few times if you want the paté chunky or blitz some more if you want the paté smooth and pink.
+4. Stir the herbs and lemon zest into the paté and spoon into a large or four smaller bowls and serve with warm toast as a starter or with breadsticks as a dip.

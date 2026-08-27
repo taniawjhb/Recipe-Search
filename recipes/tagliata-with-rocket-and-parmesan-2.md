@@ -1,0 +1,43 @@
+---
+id: tagliata-with-rocket-and-parmesan-2
+title: Tagliata With Rocket & Parmesan
+sources:
+  - Pazzo per L'Estate.pdf
+cuisine: Italian
+course: main
+servings: null
+tags:
+  - beef
+  - steak
+key_ingredients:
+  - steak
+  - rocket
+  - parmesan
+  - rosemary
+  - lemon
+---
+
+## Ingredients
+
+- 6 sirloin or ribeye steaks, 3 centimetres thick
+- 1 1/2 tablespoons chopped rosemary
+- 1 1/2 tablespoons chopped sage
+- Zest of 1 lemon
+- Coarse sea salt and freshly ground pepper
+- Extra-virgin olive oil
+- 1 pack of rocket
+- 1 tablespoon lemon juice
+- 1 cup shaved Grana/Parmigiano-Reggiano
+
+## Method
+
+1. Start by finely chopping the rosemary and the sage, add to a bowl.
+2. Now add a generous teaspoon of freshly crushed black pepper and sea salt.
+3. To this add a finely zested peel of 1 lemon.
+4. Add a splash of olive oil to wet the mixture slightly and coat the steaks with it.
+5. To cook the steaks add a splash of oil to a frying pan and place over medium high heat until almost smoking.
+6. Add the steaks and cook until nicely browned, about 3 minutes per side for rare.
+7. Remove the steaks, set aside and allow to stand under some foil.
+8. Now in a separate bowl add your lemon juice and olive oil and mix to combine.
+9. Arrange the rocket leaves on the platter, then slice the steaks into strips and arrange over the rocket.
+10. Finally drizzle with the olive oil and lemon dressing before topping with the parmesan shavings.

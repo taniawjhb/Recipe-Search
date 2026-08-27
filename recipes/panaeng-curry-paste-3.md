@@ -1,0 +1,41 @@
+---
+id: panaeng-curry-paste-3
+title: Panaeng Curry Paste
+sources:
+  - Escape to the South East.pdf
+cuisine: Thai
+course: sauce
+servings: null
+tags:
+  - vegetarian
+key_ingredients:
+  - dried red chilli
+  - lemongrass
+  - galangal
+  - peanut
+  - shrimp paste
+---
+
+## Ingredients
+
+- 3 dried red chilli, soaked and finely chopped
+- 1 slice galangal/ginger (or both)
+- 2/3 of a stalk of lemon grass
+- 1 1/2 shallots/small red onions
+- Peel of 2 limes
+- 2 clove garlic
+- 1 slice fresh turmeric/1 teaspoon dry turmeric
+- 1/2 teaspoon roasted coriander seed
+- 1 teaspoon crushed, roasted peanuts
+- 1 teaspoon peanut butter
+- 1/2 teaspoon salt
+- 1/4 teaspoon shrimp paste
+
+## Method
+
+1. Start by finely chopping all the ingredients, as much as possible.
+2. Then add them to a heavy stoned mortar and grind until a smooth paste is formed and all the aromas have been released.
+
+## Notes
+
+Curry pastes can be stored in the fridge in a clean container for 7-10 days - but they are best fresh.

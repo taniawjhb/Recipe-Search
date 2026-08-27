@@ -1,0 +1,34 @@
+---
+id: tzatziki-6
+title: Tzatziki
+sources:
+  - Nostimo.pdf
+cuisine: Greek
+course: sauce
+servings: null
+tags:
+  - dip
+  - yoghurt
+  - vegetarian
+key_ingredients:
+  - cucumber
+  - yogurt
+  - garlic
+  - dill
+---
+
+## Ingredients
+
+- 1 medium cucumber, peeled, sliced in half and seeded, and finely chopped
+- 1/8 teaspoon plus 1/4 teaspoon salt
+- 1 cup plain yogurt
+- 1 tablespoon olive oil
+- 1 teaspoon fresh lemon juice or white wine vinegar
+- 1 teaspoon minced fresh dill or oregano leaves
+- 1 teaspoon minced garlic
+
+## Method
+
+1. Put the cucumber in a strainer set over a bowl. Sprinkle with 1/8 teaspoon salt and allow to drain for 20 minutes. Now wrap it in a clean tea towel and carefully wrap the cucumber tightly to squeeze out the water.
+2. Put the yogurt in another strainer set over a bowl and drain for 1 hour. Combine the cucumber and yogurt in a bowl with the remaining ingredients and stir well.
+3. Cover and chill for at least 30 minutes before serving.

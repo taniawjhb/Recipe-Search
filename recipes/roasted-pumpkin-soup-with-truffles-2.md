@@ -1,0 +1,41 @@
+---
+id: roasted-pumpkin-soup-with-truffles-2
+title: Roasted Pumpkin Soup with Truffles
+sources:
+  - In The Kitchen with Haute Carbiere.pdf
+cuisine: Italian
+course: starter
+servings: null
+tags:
+  - soup
+  - vegetarian
+key_ingredients:
+  - pumpkin
+  - garlic
+  - parmesan
+  - truffle
+---
+
+## Ingredients
+
+- 1.5 kilograms pumpkin
+- sea salt and freshly ground black pepper
+- 1 head of garlic, cut in half horizontally
+- handful of rosemary sprigs
+- olive oil, to drizzle
+- 1 1/2 tablespoons olive oil
+- 1 onion, peeled and chopped
+- pinch of freshly grated nutmeg
+- 30 grams Parmesan, freshly grated
+- 800 millilitres hot chicken stock
+- 100 millilitres double cream
+- 15 grams butter
+
+## Method
+
+1. For the pumpkin purée, preheat the oven to 170°C. Cut the pumpkin in half horizontally and remove the seeds (save these to make a snack). Score the flesh, season with salt and pepper, then rub with the cut garlic halves. Lay rosemary and thyme sprigs and a garlic half in each pumpkin half. Drizzle with a little olive oil and place on baking trays.
+2. Roast the pumpkin halves for about 1 hour until tender; the timing will depend on the variety, density and thickness. It is ready when you can effortlessly slip a knife into the thickest part of the flesh. Take out the rosemary and garlic; reserve the garlic. While still hot, scoop out the pumpkin flesh and purée in a blender or food processor.
+3. For the soup, heat the olive oil in a large saucepan, add the onion and cook for 5 to 6 minutes until soft and translucent. Scoop out the flesh from 2 or 3 roasted garlic cloves and add to the pan with the nutmeg and a little seasoning. Sauté for a further 1 to 2 minutes.
+4. Stir in the pumpkin purée and Parmesan, then pour in the stock. Bring to the boil, lower the heat and simmer for 10 to 12 minutes. Stir in the cream and heat for a minute.
+5. In batches, ladle the soup into a blender and blend until smooth. Add the butter and blitz again to a velvety smooth texture. Pour the soup into a clean pan to reheat.
+6. Pour the hot soup into warmed bowls and dot with some black truffle paste and some shaved parmesan.

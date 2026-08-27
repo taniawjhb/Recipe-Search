@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'; object-src 'none'; frame-ancestors 'none'">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}Recipe Collection{% endblock %}</title>
   <link rel="stylesheet" href="{{ root }}styles.css">
@@ -20,6 +21,7 @@
   </main>
   <footer class="site-footer">
     <p>{{ counts.recipes }} recipes &middot; {{ counts.ingredients }} ingredients &middot; {{ counts.sources }} source files</p>
+    <p>Recipes courtesy of <a href="https://www.thesecretjozichef.co.za/" target="_blank" rel="noopener noreferrer">The Secret Jozi Chef</a>.</p>
   </footer>
   <script src="{{ root }}menu.js"></script>
   {% block scripts %}{% endblock %}

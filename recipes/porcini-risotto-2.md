@@ -1,0 +1,48 @@
+---
+id: porcini-risotto-2
+title: Porcini Risotto
+sources:
+  - The Winter Pyjama Party.pdf
+cuisine: italian
+course: main
+servings: 8
+tags:
+  - risotto
+  - mushroom
+  - rice
+key_ingredients:
+  - porcini mushroom
+  - arborio rice
+  - parmesan
+  - white wine
+---
+
+## Ingredients
+
+- 60 grams dried porcini mushrooms
+- 8 cups chicken stock
+- 1/4 cup olive oil
+- 1 medium onion, diced
+- Salt and pepper
+- 1 clove garlic, diced
+- 2 cups arborio rice
+- 1 cup dry white wine
+- 1 tablespoon flat leaf parsley, chopped
+- 4 tablespoons cold butter
+- 1/2 cup Parmesan, finely grated
+
+## Method
+
+1. Soak dried porcini in 3 cups hot water until rehydrated, about an hour. Once mushrooms have soaked carefully lift the larger pieces out, being careful to not disturb the bottom liquid, it may contain fine sand and dust from the mushrooms.
+2. Strain the balance of the liquid through a napkin, reserving the broth for the risotto. (If you chose to not filter every last drop then discard the last cm of the liquid; it will contain dirt from the porcini.) Roughly chop the mushrooms, then set aside. When you're ready, heat the chicken stock and mushroom broth to a simmer.
+3. Heat the oil in a large saucepan over medium heat; add onion, carrot and celery and season with salt and pepper; add garlic and cook until slightly translucent. Cook until the vegetable mix is cooked and softened but not browned.
+4. Now add half of the chopped dried, and soaked, mushrooms. Cook for two or three minutes.
+5. Add the rice and stir to coat with the oil; season with salt and pepper and cook until slightly translucent. The rice should be hot and sizzling, you should stir carefully to ensure it does not stick.
+6. Add wine to the hot rice, the liquid should hiss and be quickly absorbed. Stir gently until almost all the liquid has cooked off. Add hot stock and broth mixture, a ladleful at a time, completely stirring in the liquid each time. Remember at this stage you are trying to coax the starches out the rice by gently and continuously stirring.
+7. Keep adding broth as needed so there is always a 1/2cm liquid layer over the rice.
+8. After about 8 minutes add the balance of the soaked mushrooms.
+9. After 15 to 20 minutes, the rice should be close to al dente.
+10. If you are adding pan fried fresh mushrooms, stir them in at this stage and combine well.
+11. Taste and adjust seasoning. Remove from heat and stir in butter, then cheese.
+12. Now cover the pan, and allow it to stand for 2-3 minutes.
+13. To serve, spoon into shallow bowls, shave some Parmesan on top.

@@ -1,0 +1,33 @@
+---
+id: pear-walnut-salad-3
+title: Pear, Walnut Salad
+sources:
+  - Divora L'inverno.pdf
+cuisine: Italian
+course: starter
+servings: 4
+tags:
+  - vegetarian
+key_ingredients:
+  - pear
+  - walnut
+  - pecorino
+  - lettuce
+---
+
+## Ingredients
+
+- 200 grams mixed lettuce (arugula, romaine, etc.)
+- 1 ripe pear, unpeeled, cored, sliced
+- 55 grams walnuts, roughly chopped
+- 55 grams pecorino romano cheese, shaved
+- Vinaigrette:
+- 2 tablespoons white wine vinegar
+- 1/2 teaspoon mustard
+- 1/2 teaspoon finely minced garlic
+- 6 tablespoons olive oil
+
+## Method
+
+1. To make the vinaigrette, combine the vinegar, mustard and garlic. Whisk till well combined. While whisking constantly, slowly pour in a steady stream of the olive oil.
+2. Prepare the remaining ingredients, toss the vinaigrette with them and serve.
