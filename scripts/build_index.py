@@ -112,6 +112,13 @@ def parse_recipe(path: Path) -> dict:
         "servings": meta.get("servings"),
         "tags": [str(t).strip() for t in tags],
         "key_ingredients": [normalize_ingredient(i) for i in key_ingredients],
+        "description": meta.get("description"),
+        "author": meta.get("author"),
+        "prep_time": meta.get("prep_time"),
+        "cook_time": meta.get("cook_time"),
+        "total_time": meta.get("total_time"),
+        "image": meta.get("image"),
+        "url": meta.get("url"),
         "body": body,
         "_file": path.name,
     }
@@ -138,7 +145,10 @@ def merge_recipes(recipes: list[dict]) -> list[dict]:
             for tag in recipe["tags"]:
                 if tag not in existing["tags"]:
                     existing["tags"].append(tag)
-            for field in ("cuisine", "course", "servings"):
+            for field in (
+                "cuisine", "course", "servings", "description", "author",
+                "prep_time", "cook_time", "total_time", "image", "url",
+            ):
                 if not existing.get(field) and recipe.get(field):
                     existing[field] = recipe[field]
             existing.setdefault("merged_from", []).append(recipe["_file"])

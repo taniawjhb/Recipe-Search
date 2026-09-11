@@ -8,6 +8,7 @@ venv/
 # Build output (rebuilt by CI from recipes/)
 site/
 data/
+mealie-import-json/
 
 # Large source inputs — not needed to build the site.
 # recipes/*.md is the source of truth; keep PDFs + extracted text out of git.

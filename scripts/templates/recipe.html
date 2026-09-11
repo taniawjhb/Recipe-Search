@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% block title %}{{ recipe.title }} &middot; Recipe Collection{% endblock %}
+{% block head %}
+  <script type="application/ld+json">{{ recipe.schema_json | safe }}</script>
+{% endblock %}
 {% block content %}
 <article class="recipe">
   <a class="back-link" href="{{ root }}index.html">&larr; All recipes</a>

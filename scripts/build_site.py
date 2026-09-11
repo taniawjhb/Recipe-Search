@@ -17,6 +17,8 @@ import shutil
 import sys
 from pathlib import Path
 
+from export_mealie_json import to_schema_recipe
+
 try:
     import markdown as md
     import nh3
@@ -94,7 +96,11 @@ def main() -> int:
     for recipe in recipes:
         md_renderer.reset()
         body_html = sanitize_html(md_renderer.convert(recipe["body"]))
-        recipe = {**recipe, "body_html": body_html}
+        schema_json = json.dumps(
+            to_schema_recipe(recipe, recipe["body"]),
+            ensure_ascii=False,
+        ).replace("</", "<\\/")
+        recipe = {**recipe, "body_html": body_html, "schema_json": schema_json}
         html = recipe_tmpl.render(recipe=recipe, root="../", counts=counts)
         (SITE / "recipes" / f"{recipe['id']}.html").write_text(html, encoding="utf-8")
 

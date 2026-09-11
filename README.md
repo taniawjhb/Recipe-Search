@@ -74,6 +74,13 @@ tags: [vegetarian, vegan]
 key_ingredients: # normalized core ingredients, for search + index
   - potato
   - turmeric
+description: Spiced cumin potatoes, served as an Indian side dish. # optional
+author: The Secret Jozi Chef # optional
+prep_time: PT15M # optional ISO 8601 duration
+cook_time: PT30M # optional ISO 8601 duration
+total_time: PT45M # optional ISO 8601 duration
+image: https://example.com/aloo-jeera.jpg # optional absolute URL
+url: https://example.com/recipes/aloo-jeera # optional canonical URL
 ---
 
 ## Ingredients
@@ -85,6 +92,16 @@ key_ingredients: # normalized core ingredients, for search + index
 1. ...
 
 ## Notes (optional)
+```
+
+The optional rich metadata fields are emitted in the Schema.org recipe JSON and
+embedded as JSON-LD in each generated recipe page. Use ISO 8601 durations for
+times, for example `PT45M` (45 minutes) or `PT1H30M` (1 hour, 30 minutes).
+
+To also export one Schema.org Recipe JSON file per recipe for Mealie:
+
+```powershell
+python scripts\export_mealie_json.py
 ```
 
 ## Duplicate handling
