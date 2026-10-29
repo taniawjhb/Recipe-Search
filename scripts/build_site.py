@@ -71,6 +71,11 @@ def load_index() -> dict:
 
 
 def main() -> int:
+    # Recipe titles contain non-ASCII characters; force UTF-8 so printing them
+    # never aborts on a legacy console codepage.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+
     data = load_index()
     recipes = data["recipes"]
     ingredients = data["ingredients"]

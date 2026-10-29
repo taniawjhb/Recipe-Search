@@ -27,19 +27,44 @@ pip install -r requirements.txt
 
 ## Pipeline
 
+One command runs extraction, the authoring check, the index build and the site
+build in order:
+
 ```powershell
-# 1. Extract selectable text from every PDF in raw/ -> extracted/*.txt
-python scripts\extract_text.py
+python scripts\run_pipeline.py
+```
 
-# 2. (Authoring) Turn extracted text into structured recipes/*.md
-#    See "Recipe format" below. Layouts vary between cookbooks, so this step
-#    is done with AI assistance rather than brittle rules.
+It extracts every PDF in `raw/`, then **stops if any cookbook has no recipes
+yet**, listing which ones still need authoring (step 2 below) so the index is
+never silently out of date. Once everything is authored, build with:
 
-# 3. Build the search index (parses recipes/, de-duplicates, writes data/index.json)
-python scripts\build_index.py
+```powershell
+python scripts\run_pipeline.py --skip-extract   # rebuild index + site
+python scripts\run_pipeline.py --serve          # build, then serve on localhost
+python scripts\run_pipeline.py --force          # build even if some are unauthored
+```
 
-# 4. Generate the static site into site/
-python scripts\build_site.py
+### Adding a new cookbook (repeatable process)
+
+1. Drop the cookbook PDF(s) into `raw/`.
+2. Run `python scripts\run_pipeline.py` — it extracts the text and tells you
+   which cookbooks still need recipes.
+3. **Author** one `recipes/*.md` per recipe from the matching
+   `extracted/*.txt` (see "Recipe format" below). Layouts vary between
+   cookbooks, so this step is done with AI assistance rather than brittle rules
+   — the reusable prompt in
+   [.github/prompts/process-cookbook-pdfs.prompt.md](.github/prompts/process-cookbook-pdfs.prompt.md)
+   captures the full workflow and conventions.
+4. Re-run `python scripts\run_pipeline.py --skip-extract` to rebuild
+   `data/index.json` and the `site/`.
+
+The individual steps can still be run on their own:
+
+```powershell
+python scripts\extract_text.py   # 1. raw/*.pdf  -> extracted/*.txt
+#                                 # 2. author extracted text into recipes/*.md
+python scripts\build_index.py    # 3. recipes/   -> data/index.json
+python scripts\build_site.py     # 4. index.json -> site/
 ```
 
 ## Viewing the site

@@ -37,6 +37,11 @@ def extract_pdf(pdf_path: Path) -> tuple[str, int]:
 
 
 def main() -> int:
+    # PDF filenames may contain non-ASCII characters; force UTF-8 so printing
+    # them never aborts on a legacy console codepage.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+
     if not RAW_DIR.is_dir():
         sys.exit(f"Missing raw directory: {RAW_DIR}")
 

@@ -175,6 +175,11 @@ def build_ingredient_index(recipes: list[dict]) -> dict[str, list[str]]:
 
 
 def main() -> int:
+    # Recipe titles/filenames contain non-ASCII characters (e.g. Turkish ğ);
+    # force UTF-8 so printing them never aborts on a legacy console codepage.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+
     if not RECIPES_DIR.is_dir():
         sys.exit(f"Missing recipes directory: {RECIPES_DIR}")
 
